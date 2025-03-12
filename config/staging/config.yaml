@@ -1,4 +1,4 @@
-baseURL: "https://show-dont-tell.github.io/freiheit-staging"
+baseURL: "https://freiheit-staging.ploigt.de"
 publishDir: "docs"
 buildDrafts: false
 minify: false
