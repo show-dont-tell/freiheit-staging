@@ -1,5 +1,6 @@
 ---
 title: "Join us"
+description: "At freiheit.com you work on interesting large-scale software projects. With the opportunity to own it from idea to implementation and operations."
 date: 2021-04-24T15:55:09+02:00
 draft: false
 headerHeadline: Join us

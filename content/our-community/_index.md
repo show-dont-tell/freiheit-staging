@@ -1,5 +1,6 @@
 ---
 title: "Our Community"
+description: "We are a company for engineers by engineers. During work hours, we build software. After work, we build friendships: this is the best community in the world."
 date: 2023-01-23
 draft: false
 headerHeadline: Our Community
