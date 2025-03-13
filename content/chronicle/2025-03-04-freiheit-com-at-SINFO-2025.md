@@ -4,7 +4,7 @@ image: /img/chronicle/250304-Chronicle-news-header-SINFO-2025.webp
 imageAltText: freiheit.com members at our booth at the technology conference SINFO
 hideImageOnArticle: false
 tags: [ news ]
-headline1: freiheit.com at SINFO 2025!
+headline1: freiheit.com at SINFO 2025!!
 headline2:
 teaser:
 ---
