@@ -4,7 +4,7 @@ image: /img/chronicle/250310-Header-News-Our-mission-remains-the-same.webp
 imageAltText: freiheit.com members celebrate the mission 'Ship great software'
 hideImageOnArticle: true
 tags: [ news ]
-headline1: Our mission remains the same since 1999
+headline1: Our mission remains the same
 headline2:
 teaser:
 ---
