@@ -1,4 +1,5 @@
 ---
+pageTitle: Things we’ve built | freiheit.com
 title: "Things we've build"
 description: "We’ve successfully delivered hundreds of large-scale software projects. Each system is business-critical to our clients, with millions of users every day."
 date: 2021-04-24T15:55:09+02:00

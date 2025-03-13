@@ -1,4 +1,5 @@
 ---
+pageTitle: Get in touch | freiheit.com
 title: "Get in touch"
 description: "Get in touch with us to join our team or if you need help solving your mission impossible large-scale software projects."
 date: 2021-04-24T15:55:09+02:00

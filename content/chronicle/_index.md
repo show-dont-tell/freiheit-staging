@@ -1,4 +1,5 @@
 ---
+pageTitle: Chronicle | freiheit.com
 title: "Chronicle"
 description: "We are a software engineering organization committed to sharing our knowledge. Here, we showcase articles, case studies and insights on our way of working."
 date: 2022-02-20
