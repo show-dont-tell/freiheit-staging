@@ -18,7 +18,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-red">
- &lt;img src="https://freiheit.com//img/header_grey.webp" class="w-full" alt="Hornbach"/>
+ &lt;img src="https://freiheit.com/img/header_grey.webp" class="w-full" alt="Hornbach"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Hornbach&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -35,7 +35,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-pale-purple">
- &lt;img src="https://freiheit.com//img/header_grey.webp" class="w-full" alt="Bauhaus"/>
+ &lt;img src="https://freiheit.com/img/header_grey.webp" class="w-full" alt="Bauhaus"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Bauhaus&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -54,7 +54,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-red">
- &lt;img src="https://freiheit.com//img//things-weve-built/peek-and-cloppenburg.webp" class="w-full" alt="Peek &amp;amp; Cloppenburg"/>
+ &lt;img src="https://freiheit.com/img//things-weve-built/peek-and-cloppenburg.webp" class="w-full" alt="Peek &amp;amp; Cloppenburg"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Peek &amp;amp; Cloppenburg&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -71,7 +71,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-pale-purple">
- &lt;img src="https://freiheit.com//img/things-weve-built/DS_PrimeSolutions_2072_1.webp" class="w-full" alt="Connected Cloud Services for Dentsply Sirona"/>
+ &lt;img src="https://freiheit.com/img/things-weve-built/DS_PrimeSolutions_2072_1.webp" class="w-full" alt="Connected Cloud Services for Dentsply Sirona"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Connected Cloud Services for Dentsply Sirona&lt;/h5>
  &lt;div class="text-body-lg font-light">
