@@ -28,6 +28,22 @@ html {
     animation-delay: 4s;
   }
   @variants responsive {
+    .column-gap-1 {
+      column-gap: 1rem;
+    }
+    .column-gap-2 {
+      column-gap: 2rem;
+    }
+    .columns-gap-3 {
+      column-gap: 3rem;
+    }
+    .columns-gap-4 {
+      columns: 4;
+      column-gap: 4rem;
+    }
+    .columns-gap-5 {
+      column-gap: 5rem;
+    }
     .columns-1 {
       columns: 1;
     }
