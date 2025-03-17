@@ -58,9 +58,9 @@
     width: 100%;
     height: calc(var(--headerHeight) - 150px);
     background-image:
-      url('{{site.BaseURL}}/img/xmas/snow1.png'),
-      url('{{site.BaseURL}}/img/xmas/snow2.png'),
-      url('{{site.BaseURL}}/img/xmas/snow3.png');
+      url('/img/xmas/snow1.png'),
+      url('/img/xmas/snow2.png'),
+      url('/img/xmas/snow3.png');
     animation: snow 25s linear infinite;
   }
 
@@ -82,7 +82,7 @@
     left: 0;
     right: 0;
     height: 174px;
-    background-image: url({{site.BaseURL}}/img/xmas/divider-snow-3.svg);
+    background-image: url(/img/xmas/divider-snow-3.svg);
     background-size: contain;
     background-repeat: repeat-x;
   }
@@ -138,10 +138,10 @@
     let source = document.createElement("source");
     if (video && source) {
       if (getWidth() < 768) {
-        source.src = "{{site.BaseURL}}/video/xmas2024_mobile.mp4";
+        source.src = "/video/xmas2024_mobile.mp4";
         source.type = "video/mp4";
       } else {
-        source.src = "{{site.BaseURL}}/video/xmas2024_desktop.mp4";
+        source.src = "/video/xmas2024_desktop.mp4";
         source.type = "video/mp4";
       }
       video.append(source);
@@ -170,7 +170,7 @@
           autoplay
           playsinline
           preload="auto"
-          poster="{{site.BaseURL}}/video/xmas2024_poster.jpg"
+          poster="/video/xmas2024_poster.jpg"
           class="w-full h-full absolute z-10 top-0 left-0 object-cover"
           id="xmasVideo"
   >

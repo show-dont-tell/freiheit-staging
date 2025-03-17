@@ -1,4 +1,4 @@
-baseURL: "https://mploigt.github.io/freiheit"
+baseURL: "https://freiheit-staging.ploigt.de"
 publishDir: "docs"
 buildDrafts: false
 minify: false

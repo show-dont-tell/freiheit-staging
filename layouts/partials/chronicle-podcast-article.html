@@ -26,9 +26,9 @@
                     </div>
                 </div>
                 <div class="w-full h-full bg-cover bg-right-bottom {{ $bgColorImage }}"
-                    style="background-image: url({{site.BaseURL}}/img/{{$bgImage}});"></div>
+                    style="background-image: url(/img/{{$bgImage}});"></div>
             </div>
-        </a> 
+        </a>
         <div class="p-5 lg:p-10 flex flex-col flex-1" style="height: 400px; overflow: hidden;">
             <div class="flex-1">
                 {{ .Content | replaceRE "<p>" "<p class=\"text-body-lg\">" | safeHTML }}
