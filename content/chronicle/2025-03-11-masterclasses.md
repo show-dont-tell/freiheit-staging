@@ -45,7 +45,7 @@ Actually you can’t. Code metrics can only measure if code is complex or not bu
 
 But how can you still make sure to deliver high quality in software?
 
-Watch our Masterclass Episode “On Software Quality" to learn about how we do that since 1999.
+Watch our Masterclass episode “On Software Quality" to learn how we do that since 1999.
 
 {{< youtube id="Be_1plgnYjY" img="/img/chronicle/250317-masterclass-Thumbnail-EP03.webp" alt="freiheit.com members write high quality code" >}}
 
@@ -74,7 +74,7 @@ The ability to do something without wasting materials, time, or energy.
 
 To become more efficient in software engineering we have to find out where we are wasting time and how to find and remove frictions.
 
-Welcome to our Masterclass “On Efficiency"
+Welcome to our Masterclass “On Efficiency".
 
 {{< youtube id="ScAgEZCQdTg" img="/img/chronicle/250317-masterclass-Thumbnail-EP05.webp" alt="freiheit.com software engineers are efficient" >}}
 
