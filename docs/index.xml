@@ -58,9 +58,9 @@
  width: 100%;
  height: calc(var(--headerHeight) - 150px);
  background-image:
- url('https://freiheit.com//img/xmas/snow1.png'),
- url('https://freiheit.com//img/xmas/snow2.png'),
- url('https://freiheit.com//img/xmas/snow3.png');
+ url('/img/xmas/snow1.png'),
+ url('/img/xmas/snow2.png'),
+ url('/img/xmas/snow3.png');
  animation: snow 25s linear infinite;
  }
 
@@ -82,7 +82,7 @@
  left: 0;
  right: 0;
  height: 174px;
- background-image: url(https://freiheit.com//img/xmas/divider-snow-3.svg);
+ background-image: url(/img/xmas/divider-snow-3.svg);
  background-size: contain;
  background-repeat: repeat-x;
  }
@@ -138,10 +138,10 @@
  let source = document.createElement("source");
  if (video &amp;&amp; source) {
  if (getWidth() &lt; 768) {
- source.src = "https:\/\/freiheit.com\//video/xmas2024_mobile.mp4";
+ source.src = "/video/xmas2024_mobile.mp4";
  source.type = "video/mp4";
  } else {
- source.src = "https:\/\/freiheit.com\//video/xmas2024_desktop.mp4";
+ source.src = "/video/xmas2024_desktop.mp4";
  source.type = "video/mp4";
  }
  video.append(source);
@@ -170,7 +170,7 @@
  autoplay
  playsinline
  preload="auto"
- poster="https://freiheit.com//video/xmas2024_poster.jpg"
+ poster="/video/xmas2024_poster.jpg"
  class="w-full h-full absolute z-10 top-0 left-0 object-cover"
  id="xmasVideo"
  >
@@ -205,7 +205,7 @@
  &lt;img
  width="563"
  height="450"
- src="https://freiheit.com//img/join-the-team/our-community-1.jpg.webp"
+ src="https://freiheit.com/img/join-the-team/our-community-1.jpg.webp"
  alt="freiheit.com members learn from each other."
  />
  
@@ -217,7 +217,7 @@
  &lt;img
  width="1000"
  height="666"
- src="https://freiheit.com//img/join-the-team/Join_Us_rt.webp"
+ src="https://freiheit.com/img/join-the-team/Join_Us_rt.webp"
  alt="freiheit.com members grow without limits and become well-rounded software engineers."
  />
  
@@ -246,7 +246,7 @@
  &lt;img
  width="570"
  height="760"
- src="https://freiheit.com//img/our-community/culture_night_1.webp"
+ src="https://freiheit.com/img/our-community/culture_night_1.webp"
  alt="freiheit.com members present their culture at Culture Night."
  />
  
@@ -258,7 +258,7 @@
  &lt;img
  width="570"
  height="760"
- src="https://freiheit.com//img/our-community/culture_night_2.webp"
+ src="https://freiheit.com/img/our-community/culture_night_2.webp"
  alt="A freiheit.com member enjoys the cultural specific beverages at Culture Night."
  />
  
@@ -270,7 +270,7 @@
  &lt;img
  width="570"
  height="760"
- src="https://freiheit.com//img/our-community/culture_night_3.webp"
+ src="https://freiheit.com/img/our-community/culture_night_3.webp"
  alt="A freiheit.com member is interested in the cultural specific food presented at Culture Night."
  />
  
@@ -282,7 +282,7 @@
  &lt;img
  width="570"
  height="760"
- src="https://freiheit.com//img/our-community/culture_night_4.webp"
+ src="https://freiheit.com/img/our-community/culture_night_4.webp"
  alt="freiheit.com members are happy to learn about the culture of their team members. "
  />
  
@@ -301,7 +301,7 @@
  &lt;img
  width="1600"
  height="735"
- src="https://freiheit.com//img/our-community/culture_night_5.webp"
+ src="https://freiheit.com/img/our-community/culture_night_5.webp"
  alt="freiheit.com members enjoy spending time together at Culture Night."
  />
  
@@ -333,7 +333,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-red">
- &lt;img src="https://freiheit.com//img/header_grey.webp" class="w-full" alt="Hornbach"/>
+ &lt;img src="https://freiheit.com/img/header_grey.webp" class="w-full" alt="Hornbach"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Hornbach&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -350,7 +350,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-pale-purple">
- &lt;img src="https://freiheit.com//img/header_grey.webp" class="w-full" alt="Bauhaus"/>
+ &lt;img src="https://freiheit.com/img/header_grey.webp" class="w-full" alt="Bauhaus"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Bauhaus&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -369,7 +369,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-red">
- &lt;img src="https://freiheit.com//img//things-weve-built/peek-and-cloppenburg.webp" class="w-full" alt="Peek &amp;amp; Cloppenburg"/>
+ &lt;img src="https://freiheit.com/img//things-weve-built/peek-and-cloppenburg.webp" class="w-full" alt="Peek &amp;amp; Cloppenburg"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Peek &amp;amp; Cloppenburg&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -386,7 +386,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 &lt;article>
  &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-pale-purple">
- &lt;img src="https://freiheit.com//img/things-weve-built/DS_PrimeSolutions_2072_1.webp" class="w-full" alt="Connected Cloud Services for Dentsply Sirona"/>
+ &lt;img src="https://freiheit.com/img/things-weve-built/DS_PrimeSolutions_2072_1.webp" class="w-full" alt="Connected Cloud Services for Dentsply Sirona"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Connected Cloud Services for Dentsply Sirona&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -413,7 +413,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
  &lt;img
  width="1114"
  height="834"
- src="https://freiheit.com//img/our-community/board_games_nights_1.webp"
+ src="https://freiheit.com/img/our-community/board_games_nights_1.webp"
  alt="freiheit.com members tackle complex problems together after work at board game night."
  />
  
@@ -425,7 +425,7 @@ Every team has a long-term view of each project and plans based on daily real-ti
  &lt;img
  width="1114"
  height="834"
- src="https://freiheit.com//img/our-community/board_games_nights_2.webp"
+ src="https://freiheit.com/img/our-community/board_games_nights_2.webp"
  alt="After work freiheit.com engineers solve problems together at board game night."
  />
  
@@ -448,8 +448,8 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 
 &lt;article class="md:w-1/3 lg:w-2/5">
- &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-pale-purple">
- &lt;img src="https://freiheit.com//img/things-weve-built/hyper-scalable-e-commerce-system.png.webp" class="w-full" alt="Hyper-Scalable E-Commerce System"/>
+ &lt;div class="mb-12 md:mb-8 lg:mb-16 bg-pale-purple">
+ &lt;img src="https://freiheit.com/img/things-weve-built/hyper-scalable-e-commerce-system.png.webp" class="w-full" alt="Hyper-Scalable E-Commerce System"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Hyper-Scalable E-Commerce System&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -466,8 +466,8 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 
 &lt;article class="md:w-2/3 lg:w-3/5">
- &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-red">
- &lt;img src="https://freiheit.com//img/things-weve-built/global-b2b-retail-platform_2.jpg.webp" class="w-full" alt="Global B2B Retail Platform"/>
+ &lt;div class="mb-12 md:mb-8 lg:mb-16 bg-red">
+ &lt;img src="https://freiheit.com/img/things-weve-built/global-b2b-retail-platform_2.jpg.webp" class="w-full" alt="Global B2B Retail Platform"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Global B2B Retail Platform&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -484,8 +484,8 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 
 &lt;article class="md:w-2/3 lg:w-3/5">
- &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-red">
- &lt;img src="https://freiheit.com//img/things-weve-built/DS_PrimeSolutions_2072_1.webp" class="w-full" alt="Connected Cloud Services for Dentsply Sirona"/>
+ &lt;div class="mb-12 md:mb-8 lg:mb-16 bg-red">
+ &lt;img src="https://freiheit.com/img/things-weve-built/DS_PrimeSolutions_2072_1.webp" class="w-full" alt="Connected Cloud Services for Dentsply Sirona"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Connected Cloud Services for Dentsply Sirona&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -499,8 +499,8 @@ Every team has a long-term view of each project and plans based on daily real-ti
 
 
 &lt;article class="md:w-1/3 lg:w-2/5">
- &lt;div class="mb-12 md:mr-8 md:mb-8 lg:mr-16 lg:mb-16 bg-pale-purple">
- &lt;img src="https://freiheit.com//img//things-weve-built/peek-and-cloppenburg.webp" class="w-full" alt="Peek &amp;amp; Cloppenburg"/>
+ &lt;div class="mb-12 md:mb-8 lg:mb-16 bg-pale-purple">
+ &lt;img src="https://freiheit.com/img//things-weve-built/peek-and-cloppenburg.webp" class="w-full" alt="Peek &amp;amp; Cloppenburg"/>
  &lt;div class="p-5">
  &lt;h5 class="mt-0 text-body-xl">Peek &amp;amp; Cloppenburg&lt;/h5>
  &lt;div class="text-body-lg font-light">
@@ -533,7 +533,7 @@ Portugal&lt;/p></description></item><item><title>Episode three</title><link>http
  &lt;img
  width="1128"
  height="706"
- src="https://freiheit.com//img/our-community/sport_1.webp"
+ src="https://freiheit.com/img/our-community/sport_1.webp"
  alt="freiheit.com members go bouldering in their free time"
  />
  
@@ -545,7 +545,7 @@ Portugal&lt;/p></description></item><item><title>Episode three</title><link>http
  &lt;img
  width="1128"
  height="706"
- src="https://freiheit.com//img/our-community/sport_2.webp"
+ src="https://freiheit.com/img/our-community/sport_2.webp"
  alt="freiheit.com members do yoga sessions in the office as an active break."
  />
  
@@ -561,7 +561,7 @@ Portugal&lt;/p></description></item><item><title>Episode three</title><link>http
  autoplay
  playsinline
  preload="auto"
- poster="https://freiheit.com//video/homepage_video_2025.webp"
+ poster="/video/homepage_video_2025.webp"
  class="w-full h-full absolute z-10 top-0 left-0 object-cover"
  id="welcomeVideo"
  >
@@ -570,14 +570,14 @@ Portugal&lt;/p></description></item><item><title>Episode three</title><link>http
  &lt;/video>
  &lt;div class="relative w-full h-full z-30 flex flex-col items-center justify-end pb-16 md:pb-32 text-white md:px-8 md:px-24 text-center">
  &lt;section class="flex flex-col items-center max-w-screen-3xl">
- &lt;div class="hidden xl:block">&lt;img src="https://freiheit.com//img/symbol.svg" alt="freiheit logo" class="mb-8 h-16 w-16" />&lt;/div>
+ &lt;div class="hidden xl:block">&lt;img src="https://freiheit.com/img/symbol.svg" alt="freiheit logo" class="mb-8 h-16 w-16" />&lt;/div>
  
  &lt;div class="text-white font-serif text-head-lg lg:text-head-xl px-8">Building Large-Scale Software Systems Since 1999 &lt;/div>
  
  
  &lt;div class="mt-4 md:mt-8">
  &lt;a href="#we-are-pioneers">
- &lt;img src="https://freiheit.com//img/blank.png.webp" alt="scroll down" width="1" height="1"/>
+ &lt;img src="https://freiheit.com/img/blank.png.webp" alt="scroll down" width="1" height="1"/>
  &lt;div class="mouse_scroll">
  &lt;div class="homepage-video__arrows">
  &lt;span class="homepage-video__arrow">&lt;/span>
@@ -631,7 +631,7 @@ Nothing that is of any value can be accomplished without dedication and hard wor
  &lt;img
  width="500"
  height="333"
- src="https://freiheit.com//img/who-we-are/We_Are_Pioneers_lt_sm4.webp"
+ src="https://freiheit.com/img/who-we-are/We_Are_Pioneers_lt_sm4.webp"
  alt="freiheit.com members discuss technology."
  />
  
@@ -643,7 +643,7 @@ Nothing that is of any value can be accomplished without dedication and hard wor
  &lt;img
  width="650"
  height="433"
- src="https://freiheit.com//img/who-we-are/We_Are_Pioneers_rt4.webp"
+ src="https://freiheit.com/img/who-we-are/We_Are_Pioneers_rt4.webp"
  alt="Two freiheit.com engineers discuss software code."
  />
  
@@ -688,10 +688,10 @@ When we put together a team, we need different skill levels.&lt;br>
 Our members pass through many different levels, from starting as a newbie, becoming a team lead and eventually being in charge of multiple teams.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-08-07-california-night-2024/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-08-07-california-night-2024/</guid><description>&lt;div id="youtube_cLcasJULjls_container" class="relative h-0 my-12">
  &lt;div id="youtube_cLcasJULjls_iframe">&lt;/div>
  &lt;div id="youtube_cLcasJULjls_image" class="absolute top-0 left-0 w-full h-full border-0 flex justify-center items-center cursor-pointer">
- &lt;img id="youtube_cLcasJULjls_image__thumb" class="absolute w-full" loading="lazy" src="https://freiheit.com//img/chronicle/2024-08-07-california-night-2024.jpg"
+ &lt;img id="youtube_cLcasJULjls_image__thumb" class="absolute w-full" loading="lazy" src="https://freiheit.com/img/chronicle/2024-08-07-california-night-2024.jpg"
  alt="youtube video">
- &lt;img id="youtube_cLcasJULjls_image__button" class="absolute" src="https://freiheit.com//img/youtube_play_button.svg" title="Click to load video" alt="Click to load video"/>
- &lt;img id="youtube_cLcasJULjls_image__button--hover" class="absolute hidden" src="https://freiheit.com//img/youtube_play_button_hover.svg" title="Click to load video" alt="Click to load video"/>
+ &lt;img id="youtube_cLcasJULjls_image__button" class="absolute" src="https://freiheit.com/img/youtube_play_button.svg" title="Click to load video" alt="Click to load video"/>
+ &lt;img id="youtube_cLcasJULjls_image__button--hover" class="absolute hidden" src="https://freiheit.com/img/youtube_play_button_hover.svg" title="Click to load video" alt="Click to load video"/>
  &lt;/div>
 &lt;/div>
 &lt;script>
@@ -758,7 +758,7 @@ To ensure that Peek &amp;amp; Cloppenburg Düsseldorf can seamlessly take over o
  &lt;img
  width="2048"
  height="1536"
- src="https://freiheit.com//img/chronicle/2024-04-15-freiheit-at-sinfo-2024-1.webp"
+ src="https://freiheit.com/img/chronicle/2024-04-15-freiheit-at-sinfo-2024-1.webp"
  alt="freiheit.com members explained how we deliver large-scale software projects at the technology conference SINFO"
  />
  
@@ -770,7 +770,7 @@ To ensure that Peek &amp;amp; Cloppenburg Düsseldorf can seamlessly take over o
  &lt;img
  width="2048"
  height="1536"
- src="https://freiheit.com//img/chronicle/2024-04-15-freiheit-at-sinfo-2024-2.webp"
+ src="https://freiheit.com/img/chronicle/2024-04-15-freiheit-at-sinfo-2024-2.webp"
  alt="freiheit.com members represented our software engineering company at a technology conference"
  />
  
