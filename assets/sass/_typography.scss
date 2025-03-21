@@ -56,7 +56,7 @@
       @apply text-body-xl;
     }
   }
-  h1 {
+  h1, .h1 {
     @apply text-head-lg;
     @screen md {
       @apply text-head-xl;
@@ -65,38 +65,38 @@
       @apply text-head-xxl;
     };
   }
-  h2 {
+  h2, .h2 {
     @apply text-head-lg;
     @screen md {
       @apply text-head-xl;
     }
   }
-  h3 {
+  h3, .h3 {
     @apply text-head-md;
     @screen md {
       @apply text-head-lg;
     }
   }
-  h4 {
+  h4, .-h4 {
     @apply text-head-sm;
     @screen md {
       @apply text-head-md;
     }
   }
-  h5 {
+  h5, .h5 {
     @apply text-head-xs;
     @screen md {
       @apply text-head-sm;
     }
   }
-  h6 {
+  h6, .h6 {
     @apply mb-4 text-body-lg font-bold;
     @screen md {
       @apply text-body-xl;
     }
   }
 }
-h1,h2,h3,h4,h5 {
+h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
   @apply font-serif font-bold mt-12 mb-4;
   &:first-child {
     @apply mt-0;
