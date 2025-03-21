@@ -1,6 +1,4 @@
-
 ---
-
 group: "Why Agile Is Not Enough"
 title: "How To Optimize Engineering Productivity"
 headline1: "How To Optimize Engineering Productivity"
