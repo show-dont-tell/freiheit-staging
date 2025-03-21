@@ -1,6 +1,4 @@
-
 ---
-
 group: "Why Agile Is Not Enough"
 title: "How to make your systems highly available and fast"
 headline1: "How to make your systems highly available and fast"

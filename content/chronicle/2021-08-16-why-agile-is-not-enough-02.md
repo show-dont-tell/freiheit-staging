@@ -1,6 +1,4 @@
-
 ---
-
 group: "Why Agile Is Not Enough"
 title: "How to build and run an efficient software engineering organization"
 headline1: "How to build and run an efficient software engineering organization"
