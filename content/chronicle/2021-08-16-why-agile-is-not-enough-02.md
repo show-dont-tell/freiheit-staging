@@ -13,6 +13,8 @@ minutes: 57
 hideHeaderTitle: true
 image: /img/chronicle/talk-02.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 Running a software project is still hard and a lot of companies still struggle to make their teams efficient, productive and successful. As many companies have already noticed, working “agile” is also not the silver bullet.

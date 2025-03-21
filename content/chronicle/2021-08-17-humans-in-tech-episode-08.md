@@ -12,6 +12,8 @@ minutes: 75
 hideHeaderTitle: true
 image: /img/chronicle/podcast-08.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 In the last five years, Christoph Magnussen, book author, filmmaker, keynote speaker and CEO of Blackboat, produced more than 300 podcast episodes about New Work. In the House of New Work in Hamburg, he rethinks the standards of how knowledge workers will collaborate in the 21st century. How did he get to this point, and what were his key learnings along the way?

@@ -13,6 +13,8 @@ minutes: 61
 hideHeaderTitle: true
 image: /img/chronicle/talk-01.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 What have we learned in building our own SRE organization over the last five years?

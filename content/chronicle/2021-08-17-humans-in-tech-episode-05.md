@@ -12,6 +12,8 @@ minutes: 60
 hideHeaderTitle: true
 image: /img/chronicle/podcast-05.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 Frerk Lätari and Stefan Richter share their key challenges and insights on how to do a successful lift & shift into the Google Cloud of one of Germany’s largest e-commerce systems within three months.
