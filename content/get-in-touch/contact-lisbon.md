@@ -5,7 +5,7 @@ draft: false
 weight: 3
 ---
 
-### Lisbon { .text-yellow }
+## Lisbon { .text-yellow }
 
 <!-- [lisbon@freiheit.com](mailto:lisbon@freiheit.com) -->
 

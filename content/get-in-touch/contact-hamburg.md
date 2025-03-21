@@ -5,7 +5,7 @@ draft: false
 weight: 2
 ---
 
-### Hamburg { .text-yellow }
+## Hamburg { .text-yellow }
 
 <!-- [hamburg@freiheit.com](mailto:hamburg@freiheit.com) -->
 
