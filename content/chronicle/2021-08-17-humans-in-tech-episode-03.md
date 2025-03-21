@@ -12,6 +12,8 @@ minutes: 61
 hideHeaderTitle: true
 image: /img/chronicle/podcast-03.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 How METRO moved into the cloud, created a billion-euro global business platform and reinvented their IT organization.

@@ -11,6 +11,8 @@ minutes: 80
 hideHeaderTitle: true
 image: /img/chronicle/podcast-01.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 In his early twenties, Greg started as a Stanford Grad at Google, went through the famous APM program and then went on as one of the early engineers at Instagram, He was there when Facebook acquired it. Now he is living in NYC and we will talk about the life of a product manager and software engineer in Silicon Valley.

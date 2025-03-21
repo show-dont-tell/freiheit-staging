@@ -31,6 +31,9 @@
     <meta name="description" content="{{ .Params.Description | default .Site.Params.description }}">
     <meta name="author" content="{{ .Site.Author.name }}">
     {{- end }}
+    {{ if or (.Params.sitemap.disable) (strings.Contains .Page.RelPermalink "/tags/podcast") }}
+      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    {{ end }}
     {{ if hugo.IsServer }}
         <link rel="stylesheet" href="{{ $style.Permalink }}">
         <script type="text/javascript" src="{{ $mainJs.Permalink }}" defer></script>
