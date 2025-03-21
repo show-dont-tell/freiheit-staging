@@ -12,6 +12,8 @@ minutes: 61
 hideHeaderTitle: true
 image: /img/chronicle/podcast-04.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 Sven Lipowski and Stefan Richter started METRO’s first digital transformation project in 2015. He shares their insights on how they started METRO’s biggest digitization project together, from the first workshop until making €4 billion turnover per year with a highly scalable microservice platform running in 24 countries.

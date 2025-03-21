@@ -12,6 +12,8 @@ minutes: 61
 hideHeaderTitle: true
 image: /img/chronicle/podcast-02.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 From Product Manager at Google to CEO at Lever: Stefan Richter talked with Sarah Nahm. After working as a product manager at Google, she founded Lever, a company that changed recruiting worldwide. Sarah will tell us her story and how the Associate Product Management Program (APM) at Google helped her to become a CEO of her own company.

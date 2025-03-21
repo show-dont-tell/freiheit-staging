@@ -13,6 +13,8 @@ minutes: 61
 hideHeaderTitle: true
 image: /img/chronicle/talk-03.png
 type: podcast
+sitemap:
+    disable: true
 ---
 
 Stefan Richter, Founder & Head of Engineering @ freiheit.com, talks about engineering productivity: a data-driven engineering discipline focused on optimizing the engineering process so that organizations can deliver amazing experiences to their users faster.
