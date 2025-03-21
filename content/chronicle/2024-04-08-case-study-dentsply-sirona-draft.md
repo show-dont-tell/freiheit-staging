@@ -10,7 +10,6 @@ youtube: vyCRTlugecM
 tags: [ case-studies ]
 hideHeaderTitle: true
 download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
-draft: true
 ---
 {{< youtube id="vyCRTlugecM" img="/img/chronicle/2024-04-08-case-study-dentsply-sirona-title-image.webp" >}}
 

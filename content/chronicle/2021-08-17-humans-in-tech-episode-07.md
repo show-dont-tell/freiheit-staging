@@ -1,4 +1,3 @@
-
 ---
 group: "Humans in Tech"
 title: "Episode seven"
