@@ -55,7 +55,7 @@
                     .replace(/\{commitment\}/g, posting.categories.commitment)
                     .replace(/\{team\}/g, posting.categories.team);
 
-                    const postingItem = document.createElement("div");
+                    const postingItem = document.createElement("article");
                     const styleTeam = posting.categories.team === "Engineers" ? "team__engineers" : "";
                     const styleBorder = posting.categories.team === "Engineers" ? "border-green" : "border-pink";
 
