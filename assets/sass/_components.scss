@@ -33,6 +33,13 @@
     overflow: visible;
   }
 }
+header {
+  .fdc-content-layout:last-child {
+    > section {
+      @apply pb-0;
+    }
+  }
+}
 
 // pagination
 .echo_pagination {

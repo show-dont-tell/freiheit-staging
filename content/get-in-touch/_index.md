@@ -15,7 +15,7 @@ menu:
     name: Get in touch
     weight: 7
 ---
-## Get in touch with our team {.text-yellow}
+# Get in touch with our team {.text-yellow}
 
 We always love to hear from interesting people. Get in touch with us when you want to join our team or if you need help to make your software project successful.
 
