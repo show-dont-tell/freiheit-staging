@@ -3,7 +3,7 @@ date: 2025-03-24
 image: /img/chronicle/250324-FSFE-1.webp
 imageText: freiheit.com supports the Free Software Foundation Europe
 hideImageOnArticle: false
-tags: [ news ]
+tags: [ we-support ]
 headline1: Free Software Foundation Europe
 headline2:
 teaser:
