@@ -1,15 +1,15 @@
 ---
 date: 2024-11-19
-image: /img/chronicle/2024-11-19-how-do-we-use-ai.webp
+image: /img/testing.webp
 imageText: freiheit.com shared how they use AI for Knowledge Management in a workshop at a Google event
-hideImageOnArticle: true
+hideImageOnArticle: false
 tags: [ news ]
 headline1: How do we use AI for Knowledge Management?
 headline2:
 teaser:
 ---
 
-As software engineers, we at freiheit.com aim to ensure everyone “knows what the company knows,” sharing 25+ years of expertise across our teams and clients. Our lean Request for Comments process keeps our Knowledge Base up to date, with thousands of articles added. To make knowledge easier to access, we’ve implemented AI using Google Cloud, allowing teams to find the right information at the right time.
+As software engineers, we at freiheit.com aim to ensure everyone “knows what the company knows,” sharing 25+ years of expertise across our teams and clients. Our lean Request for Comments process keeps our Knowledge Base up to date, with thousands of articles added. To make knowledge easier to access, we've implemented AI using Google Cloud, allowing teams to find the right information at the right time.
 
 Knowledge sharing is key for us at freiheit.com as we tackle complex, large-scale software projects. This helps reduce reliance on individual experts and prevent repeated mistakes.
 
