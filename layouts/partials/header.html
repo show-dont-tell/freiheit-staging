@@ -81,7 +81,7 @@
     {{ $backgroundClasses }}"
     {{ if ne $backgroundImage "" }} data-id="background-image" style="background-image: url('/{{ $backgroundImage }}')" {{ end }}
     >
-    <nav class="z-40 h-11 fixed top-0 left-0 w-full transition-navigation pt-0 md:pt-6 bg-transparent {{ $navigationTextColor }}" id="navigation">
+    <nav class="z-40 h-10 fixed top-0 left-0 w-full transition-navigation pt-0 md:pt-6 bg-transparent {{ $navigationTextColor }}" id="navigation">
         <div class="w-full px-4 md:px-12 lg:px-20 max-w-screen-3xl py-1 mx-auto flex items-center justify-between space">
             <a href="/" class="h-8" style="position: relative">
                 <svg xmlns="http://www.w3.org/2000/svg"  width="563" height="96" style="position: absolute; left: -197px; top: -33px; transform:scale(0.3);">
@@ -140,11 +140,11 @@
                 </span>
             </label>
             {{ if or (.Params.headerHeadline) (.Params.headerSubline) (eq .Params.layout "article") (strings.Contains .Page.RelPermalink "/tags/") }}
-            <ul class="hidden xl:flex flex-wrap font-light w-100 p-2">
+            <ul class="hidden xl:flex flex-wrap font-light w-100 gap-6">
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
-                        <li class="px-3">
+                        <li>
                             <a href="#" class="no-underline font-thin py-1 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} border-b-2{{else}}hover:border-b{{end}}">
                                 {{ .Pre }}
                                 <span>{{ .Name }}</span>
@@ -152,13 +152,13 @@
                         </li>
                         <ul class="sub-menu">
                             {{ range .Children }}
-                            <li class="px-3">
+                            <li>
                                 <a href="{{ .URL | absLangURL }}" class="no-underline font-thin py-1 {{ if $currentPage.IsMenuCurrent " main" . }} border-b-2{{else}}hover:border-b{{end}}">{{ .Name }}</a>
                             </li>
                             {{ end }}
                         </ul>
                     {{ else }}
-                        <li class="px-3">
+                        <li>
                             <a href="{{ .URL | absLangURL }}"  class="no-underline font-thin py-1 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) (and (in $currentPage.RelPermalink "/tags/") (eq .Name "Chronicle")) }} border-b-2{{else}}hover:border-b{{end}}">
                                 {{ .Pre }}
                                 <span>{{ .Name }}</span>
