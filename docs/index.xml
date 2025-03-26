@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>freiheit.com | The software engineering company on freiheit.com</title><link>https://freiheit.com/</link><description>Recent content in freiheit.com | The software engineering company on freiheit.com</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://freiheit.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Merry Christmas</title><link>https://freiheit.com/xmas/1/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/xmas/1/</guid><description>&lt;style lang="css">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>freiheit.com | The software engineering company on freiheit.com</title><link>https://freiheit.com/</link><description>Recent content in freiheit.com | The software engineering company on freiheit.com</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://freiheit.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Merry Christmas</title><link>https://freiheit.com/xmas/1/</link><pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/xmas/1/</guid><description>&lt;style lang="css">
  @-webkit-keyframes light {
  from {
  opacity: 1;
@@ -663,7 +663,40 @@ We combine a growth mindset with long-term thinking and a can-do won’t stop at
 &lt;p>Both of our hubs operate under the same organizational principals and team structure. Our teams work together seamlessly, sharing knowledge and expertise across borders.&lt;/p>
 &lt;p>No matter how many of us there are. To our core, we have always stayed the same. Our mission remains:&lt;/p></description></item><item><title>Collective intelligence and intelligent collective</title><link>https://freiheit.com/collective-intelligence-and-intelligent-collective/</link><pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate><guid>https://freiheit.com/collective-intelligence-and-intelligent-collective/</guid><description>&lt;h3 id="collective-intelligence-and-intelligent-collective">Collective intelligence and intelligent collective.&lt;/h3>
 &lt;p>As engineers, we strive to distribute our knowledge and best practices to everyone within our company. Our goal is to make sure all team members “know what the company knows.” This reduces our reliance on individual experts and also helps us avoid making the same mistakes twice.&lt;/p>
-&lt;p>To keep our expertise up to date, we have a lean and fast request for comments process, where all team members contribute to our knowledge base. This knowledge base is maintained by our various engineering task forces. They continuously publish fresh Knowledge Base updates for other teams to learn from and apply.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2025-03-11-masterclasses/</link><pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2025-03-11-masterclasses/</guid><description>&lt;p>In this series we talk about our approach on how we have been successfully delivering large-scale software projects for over a quarter of a century. This starts with how we are structured as a company with our levels and roles, how we work data-driven and use metrics to improve our performance while we guarantee the highest software quality possible.&lt;/p>
+&lt;p>To keep our expertise up to date, we have a lean and fast request for comments process, where all team members contribute to our knowledge base. This knowledge base is maintained by our various engineering task forces. They continuously publish fresh Knowledge Base updates for other teams to learn from and apply.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2025-03-24-free-software-foundation-europe/</link><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2025-03-24-free-software-foundation-europe/</guid><description>&lt;p>Since 2003, we have supported free software with many donations through our project, bookzilla.de – making it the world’s first online bookstore dedicated to free software. All our proceeds are donated to the Free Software Foundation Europe.&lt;/p>
+&lt;p>Our long time friend Matthias Kirschner, the president of the Free Software Foundation Europe visited us last week to talk about their current projects.&lt;/p>
+&lt;div class="
+ grid
+ md:grid-cols-2
+ gap-4 md:gap-8 mt-4 mb-4">
+ 
+ 
+ &lt;figure class="fdc-figure">
+ 
+ &lt;img
+ width="1200"
+ height="675"
+ src="https://freiheit.com/img/chronicle/250324-FSFE-3.webp"
+ alt="Matthias Kirschner talks about importance of the Free Software Foundation Europe"
+ />
+ 
+ 
+ &lt;/figure>
+ 
+ &lt;figure class="fdc-figure">
+ 
+ &lt;img
+ width="1200"
+ height="675"
+ src="https://freiheit.com/img/chronicle/250324-FSFE-2.webp"
+ alt="freiheit.com members are excited to listen to Matthias Kirschners presentation"
+ />
+ 
+ 
+ &lt;/figure>
+
+&lt;/div>
+&lt;p>The Free Software Foundation Europe helps individuals and organizations to understand how free software contributes to freedom, transparency and self-determination.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2025-03-11-masterclasses/</link><pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2025-03-11-masterclasses/</guid><description>&lt;p>In this series we talk about our approach on how we have been successfully delivering large-scale software projects for over a quarter of a century. This starts with how we are structured as a company with our levels and roles, how we work data-driven and use metrics to improve our performance while we guarantee the highest software quality possible.&lt;/p>
 &lt;h3 id="ep01--on-tacit-knowledge">EP01 | On Tacit Knowledge&lt;/h3>
 &lt;p>What&amp;rsquo;s the difference between tacit and explicit knowledge?&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2025-03-11-our-mission-remains-the-same/</link><pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2025-03-11-our-mission-remains-the-same/</guid><description>&lt;p>It all started in a kitchen in 1999 in Hamburg with our two founders Claudia Dietze and Stefan Richter – now we are 250+ people in Hamburg and Lisbon. And we still share the same vision and spirit – the can-do, won’t stop attitude.&lt;/p>
 &lt;p>We started with our first client, a big German car company and one small team back then. In the following 25+ years we successfully delivered hundreds of large-scale software projects. Now we at freiheit.com are working on some of the largest software projects in the world.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2025-03-04-freiheit-com-at-sinfo-2025/</link><pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2025-03-04-freiheit-com-at-sinfo-2025/</guid><description>&lt;p>We were back at SINFO! And as every year we met a lot of talented, smart engineering students and introduced them to the world of software engineering.&lt;/p>
