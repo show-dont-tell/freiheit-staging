@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-### Follow us { .text-yellow }
+## Follow us { .text-yellow }
 
 [YouTube](https://www.youtube.com/channel/UCouXbAqEDBOuiSYUWxSIoNw)
 [LinkedIn](https://www.linkedin.com/company/freiheit-com-technologies-gmbh/)
