@@ -4,9 +4,7 @@
 {{ $style := $sass | css.Sass $options | css.PostCSS | resources.Fingerprint }}
 
 {{ $js := resources.Get "js/main.js" }}
-{{ $js_hash := sha1 $js }}
-{{ $mainJs := $js | js.Build (printf "%s%s%s" "main." $js_hash ".js") }}
-
+{{ $mainJs := $js | js.Build | resources.Fingerprint }}
 <head>
     {{ if .Site.Params.GoogleTagManager }}
     <!-- Google Tag Manager (also loads analytics) -->
