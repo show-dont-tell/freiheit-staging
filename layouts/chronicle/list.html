@@ -1,11 +1,10 @@
 {{ define "main" }}
-{{ $taxonomy := "tags" }}
 <div class="fdc-content-layout">
     <section>
         <div class="md:pr-48 lg:pr-72 xl:pr-80 xxl:pr-96">
             {{ .Content }}
         </div>
-        <h4 class="mt-20">News</h4>
+        <h4 class="mt-20" id="news">News</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
             {{ $filteredPages := slice }}
             {{ range .Site.RegularPages.ByDate.Reverse }}
@@ -17,16 +16,14 @@
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
-        {{ if gt (len $filteredPages) 3 }}
         <div class="mt-8 mb-10">
             <a href="/chronicle/news"
                 class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
                 see more →
             </a>
         </div>
-        {{ end }}
 
-        <h4 class="mt-20">Showroom</h4>
+        <h4 class="mt-20" id="showroom">Showroom</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20">
             {{ $filteredPages := slice }}
             {{ range .Site.RegularPages.ByDate.Reverse }}
@@ -38,16 +35,14 @@
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
-        {{ if gt (len $filteredPages) 3 }}
         <div class="mt-8 mb-10">
-            <a href="/tags/showroom"
+            <a href="/chronicle/showroom"
             class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
             see more →
             </a>
         </div>
-        {{ end }}
 
-        <h4 class="mt-20">Case Studies</h4>
+        <h4 class="mt-20" id="case-studies">Case Studies</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
             {{ $filteredPages := slice }}
             {{ range .Site.RegularPages.ByDate.Reverse }}
@@ -60,12 +55,12 @@
             {{ end }}
         </div>
         <div class="mt-8 mb-10">
-            <a href="/things-weve-built"
+            <a href="/chronicle/case-studies"
                 class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
                 see more →
             </a>
         </div>
-        <h4 class="mt-20">We Support</h4>
+        <h4 class="mt-20" id="we-support">We Support</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
             {{ $filteredPages := slice }}
             {{ range .Site.RegularPages.ByDate.Reverse }}
@@ -77,20 +72,18 @@
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
-        {{ if gt (len $filteredPages) 3 }}
         <div class="mt-8 mb-10">
-            <a href="/tags/we-support"
+            <a href="/chronicle/we-support"
             class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
             see more →
             </a>
         </div>
-        {{ end }}
     </section>
 </div>
 <div class="w-full mt-10">
     <div class="fdc-content-layout bg-alabaster">
         <section>
-            <h4 class="mt-20">Podcasts</h4>
+            <h4 class="mt-20" id="podcasts">Podcasts</h4>
             <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
                 {{ $filteredPages := slice }}
                 {{ range .Site.RegularPages.ByDate.Reverse }}
@@ -102,14 +95,12 @@
                     {{- partial "chronicle-podcast-teaser.html" . -}}
                 {{ end }}
             </div>
-            {{ if gt (len $filteredPages) 3 }}
             <div class="mt-8 mb-10">
-                <a href="/tags/podcast"
+                <a href="/chronicle/podcasts"
                     class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
                     see more →
                 </a>
             </div>
-            {{ end }}
         </section>
     </div>
 </div>
