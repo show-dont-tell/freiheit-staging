@@ -154,9 +154,53 @@ How can software engineering be made more effective, efficient and successful?&l
 &lt;p>This year marked our 6th participation at SINFO, where we talked with numerous talented engineering students from Lisbon, the beautiful city where one of our hubs is situated.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-04-10-a-life-changing-moment/</link><pubDate>Wed, 10 Apr 2024 00:00:05 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-04-10-a-life-changing-moment/</guid><description>&lt;p>Do you remember a life-changing moment for you? This is mine.&lt;/p>
 &lt;p>After 25 years of building and running my company freiheit.com technologies, which I co-founded together with Stefan Richter, as I planned two years ago I am handing over my role as CEO.&lt;/p>
 &lt;p>Stefan started as the first software engineer and employee no. 1 in October 1998, and in February 1999 we incorporated our company together.&lt;/p>
-&lt;p>I took over the business part, and he took over the engineering part.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-04-08-case-study-dentsply-sirona/</link><pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-04-08-case-study-dentsply-sirona/</guid><description>&lt;p>&lt;strong>Dentsply Sirona had a vision.&lt;/strong> To make the workflow of dental practices around the world efficient, fast and seamless. To give dentists time to focus on what’s really important, the well-being of the patients.&lt;/p>
-&lt;h6 id="available-worldwide-for-100000-dentists-with-millions-of-dental-procedures-every-day">Available worldwide. For 100.000+ dentists. With millions of dental procedures every day.&lt;/h6>
-&lt;p>To make this vision come to life, Dentsply Sirona was looking for a strong partner to help them build a solution that would bring all the dental applications safely into the cloud. This cloud platform, called DS Core, would allow dentists and laboratories to collaborate seamlessly with each other, making the workflow more efficient and the treatment span shorter for the patient.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-02-24-freiheit-com-turns-25/</link><pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-02-24-freiheit-com-turns-25/</guid><description>&lt;p>On February 24th, freiheit.com hits a remarkable milestone – our 25th birthday! For 25 years, our mission has been clear: delivering custom, large-scale software platforms on time, on budget, and on target.&lt;/p>
+&lt;p>I took over the business part, and he took over the engineering part.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-04-08-case-study-dentsply-sirona-draft/</link><pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-04-08-case-study-dentsply-sirona-draft/</guid><description>&lt;div id="youtube_vyCRTlugecM_container" class="relative h-0 my-12">
+ &lt;div id="youtube_vyCRTlugecM_iframe">&lt;/div>
+ &lt;div id="youtube_vyCRTlugecM_image" class="absolute top-0 left-0 w-full h-full border-0 flex justify-center items-center cursor-pointer">
+ &lt;img id="youtube_vyCRTlugecM_image__thumb" class="absolute w-full" loading="lazy" src="https://freiheit.com/img/chronicle/2024-04-08-case-study-dentsply-sirona-title-image.webp"
+ alt="youtube video">
+ &lt;img id="youtube_vyCRTlugecM_image__button" class="absolute" src="https://freiheit.com/img/youtube_play_button.svg" title="Click to load video" alt="Click to load video"/>
+ &lt;img id="youtube_vyCRTlugecM_image__button--hover" class="absolute hidden" src="https://freiheit.com/img/youtube_play_button_hover.svg" title="Click to load video" alt="Click to load video"/>
+ &lt;/div>
+&lt;/div>
+&lt;script>
+ window.addEventListener("load",function() {
+ let iframe = document.createElement('iframe');
+ iframe.setAttribute("id", 'youtube_vyCRTlugecM_iframe');
+ iframe.setAttribute('class', 'absolute top-0 left-0 w-full h-full border-0');
+ iframe.setAttribute('allow', 'autoplay');
+ iframe.setAttribute('src', 'https://www.youtube-nocookie.com/embed/vyCRTlugecM?enablejsapi=1&amp;autoplay=1&amp;rel=0');
+ iframe.setAttribute('allowFullscreen', '');
+ iframe.setAttribute('title', 'YouTube Video vyCRTlugecM');
+ let div = document.getElementById("youtube_vyCRTlugecM_image");
+ div.addEventListener("click", function () {
+ document.getElementById('youtube_vyCRTlugecM_image').remove();
+ document.getElementById('youtube_vyCRTlugecM_iframe').replaceWith(iframe);
+ });
+ });
+&lt;/script>
+&lt;style>
+ #youtube_vyCRTlugecM_container {
+ overflow: hidden;
+ padding-bottom: 56.25%;
+ }
+ #youtube_vyCRTlugecM_image {
+ overflow: hidden;
+ }
+ #youtube_vyCRTlugecM_image__button, #youtube_vyCRTlugecM_image__button--hover {
+ width: 100px;
+ }
+
+ #youtube_vyCRTlugecM_image:hover #youtube_vyCRTlugecM_image__button {
+ display: none;
+ }
+
+ #youtube_vyCRTlugecM_image:hover #youtube_vyCRTlugecM_image__button--hover {
+ display: block;
+ }
+&lt;/style>
+
+&lt;p>&lt;strong>Dentsply Sirona had a vision.&lt;/strong> To make the workflow of dental practices around the world efficient, fast and seamless. To give dentists time to focus on what’s really important, the well-being of the patients.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-02-24-freiheit-com-turns-25/</link><pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-02-24-freiheit-com-turns-25/</guid><description>&lt;p>On February 24th, freiheit.com hits a remarkable milestone – our 25th birthday! For 25 years, our mission has been clear: delivering custom, large-scale software platforms on time, on budget, and on target.&lt;/p>
 &lt;p>We have been in this industry for over a quarter of a century now. On our journey, we&amp;rsquo;ve partnered with visionaries, the ones who see things differently. The people who know that when you want to accomplish something great and unusual you have to find a new way or make one. With that and a great strong community, we delivered 350+ successful large-scale projects.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2024-02-11-student-workshop-in-our-lisbon-hub/</link><pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/2024-02-11-student-workshop-in-our-lisbon-hub/</guid><description>&lt;p>We are a software engineering company built for engineers by engineers.&lt;/p>
 &lt;p>We regularly open our doors to give students with different technical backgrounds the opportunity to learn how we plan, create, operate, and lead large-scale software systems. These workshops also serve as an opportunity for aspiring software-engineers to learn new programming skills and to meet our freiheit.com engineering teams. Each workshop focuses on a different programming language or topic. Last month, our students learned about external APIs and building API services based on them.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/2023-11-29-bundesweiter-it-fachkraeftemangel/</link><pubDate>Wed, 29 Nov 2023 17:03:05 +0000</pubDate><guid>https://freiheit.com/chronicle/2023-11-29-bundesweiter-it-fachkraeftemangel/</guid><description>&lt;p>Bundesweit fehlen rund 68.000 IT-Experten*. Trotzdem gelingt es freiheit.com die Top-5-Prozent der Uni-Absolventen zu finden und für sich zu gewinnen. Tatsächlich stellt freiheit.com nur 2,5 Prozent der Bewerber ein. Das Team aus über 200 Spezialisten baut seit 25 Jahren large-scale Software-Systeme für internationale Unternehmen verschiedener Branchen. Wie gelingt es freiheit.com, in für das Recruiting schwierigen Zeiten die besten Talente auf dem Arbeitsmarkt zu finden, zu rekrutieren und zu halten?&lt;/p>
 &lt;h4 id="ein-software-unternehmen-von-engineers-for-engineers">Ein Software-Unternehmen von &amp;ldquo;Engineers for Engineers&amp;rdquo;&lt;/h4>
