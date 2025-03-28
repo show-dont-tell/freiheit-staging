@@ -5,6 +5,3 @@ defaultContentLanguage: en
 relativeURLs: false
 pagination.pagerSize: 10
 enableRobotsTXT: true
-taxonomies:
-  category: "categories"
-  tag: "tags"

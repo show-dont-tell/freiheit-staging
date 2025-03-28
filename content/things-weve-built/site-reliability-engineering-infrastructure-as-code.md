@@ -4,7 +4,6 @@ image: /img/things-weve-built/site-reliability-engineering-&-infrastructure-as-c
 imageAlt: "freiheit.com has its own site reliability engineering team."
 date: 2024-05-14
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

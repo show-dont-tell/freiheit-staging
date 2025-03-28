@@ -4,7 +4,6 @@ image: /img/things-weve-built/DS_PrimeSolutions_2072_1.webp
 imageAlt: "freiheit.com built an all-in-one cloud platform for Dentsply Sirona to manage all dental processes."
 date: 2024-05-19
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

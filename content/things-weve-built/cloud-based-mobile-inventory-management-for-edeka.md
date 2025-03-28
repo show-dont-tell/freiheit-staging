@@ -4,7 +4,6 @@ image: /img/things-weve-built/EDEKA.png
 imageAlt: "freiheit.com built an inventory management solution for a supermarket that simplified daily work of thousands of EDEKA employees."
 date: 2024-05-20
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 
