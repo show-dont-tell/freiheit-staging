@@ -1,7 +1,7 @@
 ---
 date: 2015-06-10 19:14:06
 locale: en
-image: /img/chronicle/Logo_manager_magazin.webp
+image: /img/chronicle/news/Logo_manager_magazin.webp
 hideHeaderTitle: true
 ---
 

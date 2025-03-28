@@ -1,7 +1,7 @@
 ---
 date: 2010-02-02 13:44:43
 locale: en
-lead_image: /img/chronicle/stefan_vor_wired.webp
+lead_image: /img/chronicle/news/stefan_vor_wired.webp
 hideHeaderTitle: true
 ---
 

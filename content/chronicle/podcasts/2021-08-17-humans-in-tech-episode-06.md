@@ -8,7 +8,7 @@ youtube: JMxPYRBuHPI
 weight: 6
 minutes: 60
 hideHeaderTitle: true
-image: /img/chronicle/podcast-06.webp
+image: /img/chronicle/podcasts/podcast-06.webp
 type: podcast
 sitemap:
     disable: true

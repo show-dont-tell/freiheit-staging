@@ -3,7 +3,7 @@ date: 2024-12-19
 headline1: freiheit.com adventures | EP01
 headline2:
 teaser:
-image: /img/chronicle/2024-12-19-adventures-ep01.webp
+image: /img/chronicle/showroom/2024-12-19-adventures-ep01.webp
 ImageAltText: freiheit.com adventures | EP01
 hideImageOnArticle: true
 ---
@@ -18,4 +18,4 @@ Our team knew that they wouldn't leave without fixing it.
 
 In the first episode of our newest series “freiheit.com adventures”, Omar tells the story about how he knew that he was in the right place.
 
-{{< youtube id="jMZtMhv9X_o" img="/img/chronicle/2024-12-19-adventures-ep01.webp" >}}
+{{< youtube id="jMZtMhv9X_o" img="/img/chronicle/showroom/2024-12-19-adventures-ep01.webp" >}}

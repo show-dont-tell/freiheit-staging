@@ -4,7 +4,7 @@ headline1: Mein Nachfolger ist eine KI!
 headline2: Erfolgreiche Unternehmer verfügen über implizites Wissen, das nur schwer zu übertragen ist.
 teaser:
 lead_image: null
-image: /img/chronicle/2024-07-02_Fachartikel_Unternehmeredition_010724.webp
+image: /img/chronicle/news/2024-07-02_Fachartikel_Unternehmeredition_010724.webp
 ImageAltText: freiheit.com co-founder Stefan Richter talks about how to train an AI with the company’s implicit knowledge.
 vimeo: null
 youtube: null

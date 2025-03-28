@@ -1,6 +1,6 @@
 ---
 date: 2025-03-11
-image: /img/chronicle/250311-masterclass-Thumbnail-EP01.webp
+image: /img/chronicle/showroom/250311-masterclass-Thumbnail-EP01.webp
 imageAltText: freiheit.com co-founder talks about the importance of tacit knowledge for the success of projects
 hideImageOnArticle: true
 headline1: Masterclasses
@@ -22,7 +22,7 @@ We deeply believe that tacit knowledge is actually what makes projects successfu
 
 With our Masterclasses we want to communicate the tacit knowledge that we have acquired in the last four decades in the development of large-scale software systems.
 
-{{< youtube id="hhkLLHgKvEw" img="/img/chronicle/250311-masterclass-Thumbnail-EP01.webp" alt="freiheit.com co-founder talks about the importance of tacit knowledge for the success of projects" >}}
+{{< youtube id="hhkLLHgKvEw" img="/img/chronicle/showroom/250311-masterclass-Thumbnail-EP01.webp" alt="freiheit.com co-founder talks about the importance of tacit knowledge for the success of projects" >}}
 
 
 ### EP02 | On Performance
@@ -33,7 +33,7 @@ In order to become a high-performance organization, you have to optimize effecti
 
 Watch our Masterclass “On Performance" to learn how we do that.
 
-{{< youtube id="G768Dl-jvGE" img="/img/chronicle/250317-masterclass-Thumbnail-EP02.webp" alt="freiheit.com is a high-performance organization, their members work efficiently" >}}
+{{< youtube id="G768Dl-jvGE" img="/img/chronicle/showroom/250317-masterclass-Thumbnail-EP02.webp" alt="freiheit.com is a high-performance organization, their members work efficiently" >}}
 
 
 ### EP03 | On Software Quality
@@ -46,7 +46,7 @@ But how can you still make sure to deliver high quality in software?
 
 Watch our Masterclass episode “On Software Quality" to learn how we do that since 1999.
 
-{{< youtube id="Be_1plgnYjY" img="/img/chronicle/250317-masterclass-Thumbnail-EP03.webp" alt="freiheit.com members write high quality code" >}}
+{{< youtube id="Be_1plgnYjY" img="/img/chronicle/showroom/250317-masterclass-Thumbnail-EP03.webp" alt="freiheit.com members write high quality code" >}}
 
 
 ### EP04 | On Effectiveness
@@ -61,7 +61,7 @@ How to get from an ambitious goal to a successful delivery?
 
 Watch our Masterclass episode “On Effectiveness" here.
 
-{{< youtube id="RqLcmr80668" img="/img/chronicle/250317-masterclass-Thumbnail-EP04.webp" alt="freiheit.com software engineers work effectively" >}}
+{{< youtube id="RqLcmr80668" img="/img/chronicle/showroom/250317-masterclass-Thumbnail-EP04.webp" alt="freiheit.com software engineers work effectively" >}}
 
 
 ### EP05 | On Efficiency
@@ -75,7 +75,7 @@ To become more efficient in software engineering we have to find out where we ar
 
 Welcome to our Masterclass “On Efficiency".
 
-{{< youtube id="ScAgEZCQdTg" img="/img/chronicle/250317-masterclass-Thumbnail-EP05.webp" alt="freiheit.com software engineers are efficient" >}}
+{{< youtube id="ScAgEZCQdTg" img="/img/chronicle/showroom/250317-masterclass-Thumbnail-EP05.webp" alt="freiheit.com software engineers are efficient" >}}
 
 
 ### EP06 | On Experience
@@ -88,4 +88,4 @@ Each work assignment is like an exam that makes you a little bit better. Each en
 
 Watch here – in our Masterclass “On Experience" – how we develop people through our engineering levels.
 
-{{< youtube id="2KsQnccYuj0" img="/img/chronicle/250317-masterclass-Thumbnail-EP06.webp" alt="freiheit.com develops their members through all engineering levels" >}}
+{{< youtube id="2KsQnccYuj0" img="/img/chronicle/showroom/250317-masterclass-Thumbnail-EP06.webp" alt="freiheit.com develops their members through all engineering levels" >}}

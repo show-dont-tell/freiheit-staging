@@ -1,6 +1,6 @@
 ---
 date: 2025-03-25
-image: /img/chronicle/250325-fdc-explained-PSE.webp
+image: /img/chronicle/showroom/250325-fdc-explained-PSE.webp
 imageAltText: Our Principal Software Engineers are responsible for all projects and engineering teams
 hideImageOnArticle: true
 headline1: freiheit.com explained | Principal Software Engineer
@@ -20,5 +20,5 @@ Watch the movie to see how our Principal Software Engineers explain their work.
 
 {{< youtube
   id="2SAzqRVgKLQ"
-  img="/img/chronicle/250325-fdc-explained-PSE.webp"
+  img="/img/chronicle/showroom/250325-fdc-explained-PSE.webp"
   alt="Our Principal Software Engineers are responsible for all projects and engineering teams" >}}

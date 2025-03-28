@@ -4,7 +4,7 @@ headline1: Bis zu 50 Prozent aller IT-Projekte weltweit überschreiten Budgets u
 headline2: freiheit.com liefert seit 25 Jahren on budget, on time, on target
 teaser:
 lead_image: null
-image: /img/chronicle/2023-09-05-bis-zu-50-Prozent-aller-IT-Projekte.webp
+image: /img/chronicle/news/2023-09-05-bis-zu-50-Prozent-aller-IT-Projekte.webp
 vimeo: null
 youtube: null
 hideHeaderTitle: true

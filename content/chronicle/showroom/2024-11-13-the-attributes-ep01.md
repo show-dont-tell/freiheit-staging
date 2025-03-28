@@ -3,7 +3,7 @@ date: 2024-11-13
 headline1: The Attributes
 headline2:
 lead_image:
-image: /img/chronicle/showroom_thumb_attributes.webp
+image: /img/chronicle/showroom/showroom_thumb_attributes.webp
 ImageAltText: The Attributes Series
 vimeo: null
 youtube: null

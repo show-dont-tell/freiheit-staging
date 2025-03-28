@@ -7,7 +7,7 @@ teaser: Claudia Dietze, Co-Founder of freiheit.com technologies gave an
   freiheit.com and freiheit.com waited for Lisbon and what makes it so special
   to be a woman in a male dominated industry.
 lead_image: null
-image: /img/chronicle/Claudia_Dietze_High_Tech.webp
+image: /img/chronicle/news/Claudia_Dietze_High_Tech.webp
 vimeo: null
 youtube: null
 hideHeaderTitle: true

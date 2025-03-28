@@ -1,6 +1,6 @@
 ---
 date: 2024-11-19
-image: /img/chronicle/2024-11-19-how-do-we-use-ai.webp
+image: /img/chronicle/news/2024-11-19-how-do-we-use-ai.webp
 imageText: freiheit.com shared how they use AI for Knowledge Management in a workshop at a Google event
 hideImageOnArticle: true
 headline1: How do we use AI for Knowledge Management?
@@ -14,7 +14,7 @@ Knowledge sharing is key for us at freiheit.com as we tackle complex, large-scal
 
 Recently, we shared how we use AI for Knowledge Management at a hands-on workshop with Healthcare and Life Science experts at the Google offices in Zurich. Demonstrating how to build similar systems using Vertex AI for semantic search.
 
-{{< youtube id="ioYrAnGo3pU" img="/img/chronicle/2024-11-19-how-do-we-use-ai.webp" alt="freiheit.com shared how they use AI for Knowledge Management in a workshop at a Google event">}}
+{{< youtube id="ioYrAnGo3pU" img="/img/chronicle/news/2024-11-19-how-do-we-use-ai.webp" alt="freiheit.com shared how they use AI for Knowledge Management in a workshop at a Google event">}}
 
 Google also invited Dentsply Sirona, the largest manufacturer of professional dental products and technology, who partnered with us for one of our success projects in the healthcare industry.
 

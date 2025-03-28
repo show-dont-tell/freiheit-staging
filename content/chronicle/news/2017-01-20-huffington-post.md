@@ -3,7 +3,7 @@ locale: en
 date: 2017-01-20 11:43:57
 teaser:
 lead_image:
-image: /img/chronicle/The_Huffington_Post_logo.svg.webp
+image: /img/chronicle/news/The_Huffington_Post_logo.svg.webp
 vimeo:
 youtube:
 hideHeaderTitle: true

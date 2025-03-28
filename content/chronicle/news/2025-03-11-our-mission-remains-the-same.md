@@ -1,6 +1,6 @@
 ---
 date: 2025-03-10
-image: /img/chronicle/250310-Header-News-Our-mission-remains-the-same.webp
+image: /img/chronicle/news/250310-Header-News-Our-mission-remains-the-same.webp
 imageAltText: freiheit.com members celebrate the mission 'Ship great software'
 hideImageOnArticle: true
 headline1: Our mission remains the same
@@ -16,7 +16,7 @@ Each of our 250+ members plays an important role, ensuring we always deliver wha
 
 This year we added a new floor in our Hamburg Office in Sankt Pauli – in our best pirate manner, we entered the new floor and celebrated the opening with beer, rum and fish sandwiches. Just like true pirates would do it.
 
-{{< youtube id="41WpGu8vRl0" img="/img/chronicle/250310-Header-News-Our-mission-remains-the-same.webp" alt="freiheit.com members celebrate the mission 'Ship great software'">}}
+{{< youtube id="41WpGu8vRl0" img="/img/chronicle/news/250310-Header-News-Our-mission-remains-the-same.webp" alt="freiheit.com members celebrate the mission 'Ship great software'">}}
 
 In 2024 we also added a new area in our hub in the heart of Lisbon.
 But no matter how many of us there are. To our core, we have always stayed the same. Our mission remains: Ship great software. Never late. Never failed.

@@ -3,7 +3,7 @@ date: 2024-10-02
 headline1: The Kudos System
 headline2:
 teaser:
-image: /img/chronicle/2024-10-02-the-freiheit-com-kudos-system.webp
+image: /img/chronicle/showroom/2024-10-02-the-freiheit-com-kudos-system.webp
 ImageAltText: The freiheit.com Kudos System
 hideImageOnArticle: true
 ---
@@ -29,4 +29,4 @@ This is visible to the freiheit.com community, written by our members for our me
 
 It is not obvious at first, but to become a better engineer you must be able to influence the work of other engineers.
 
-{{< youtube id="_6TxM7YiJKo" img="/img/chronicle/2024-10-02-the-freiheit-com-kudos-system.webp" >}}
+{{< youtube id="_6TxM7YiJKo" img="/img/chronicle/showroom/2024-10-02-the-freiheit-com-kudos-system.webp" >}}

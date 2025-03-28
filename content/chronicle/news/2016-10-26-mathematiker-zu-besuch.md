@@ -4,7 +4,7 @@ date: 2016-10-26 11:56:01
 
 teaser:
 lead_image:
-image: /img/chronicle/Lothar_Collatz_School.webp
+image: /img/chronicle/news/Lothar_Collatz_School.webp
 vimeo:
 youtube:
 hideHeaderTitle: true

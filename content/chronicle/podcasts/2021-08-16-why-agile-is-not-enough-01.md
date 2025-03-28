@@ -8,7 +8,7 @@ youtube: 4Wugh_Dl50E
 weight: 1
 minutes: 61
 hideHeaderTitle: true
-image: /img/chronicle/talk-01.webp
+image: /img/chronicle/podcasts/talk-01.webp
 type: podcast
 sitemap:
     disable: true

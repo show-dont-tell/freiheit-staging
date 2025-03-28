@@ -1,6 +1,6 @@
 ---
 date: 2024-02-24
-image: /img/chronicle/2024-02-24-freiheit-turns-25-thumbnail.webp
+image: /img/chronicle/news/2024-02-24-freiheit-turns-25-thumbnail.webp
 ImageAltText: Claudia and Stefan
 hideImageOnArticle: true
 headline1: freiheit.com turns 25!
@@ -16,6 +16,6 @@ Never failed. Never late.
 Here's to 25 years of doing what we love. What others can’t or won’t. With great people around us. Thank you for being part of our journey. And this still feels like just the beginning. Here's to many more years of transforming ideas into great software solutions!
 
 {{< flex-images >}}
-{{< image src="/img/chronicle/250218-members-celebrate-25-birthday-02.webp" alt="freiheit.com has now more than 25 years of experience in building large-scale software systems" >}}
-{{< image src="/img/chronicle/250218-members-celebrate-25-birthday-01.webp" alt="freiheit.com members celebrate 25 years of developing custom software systems" >}}
+{{< image src="/img/chronicle/news/250218-members-celebrate-25-birthday-02.webp" alt="freiheit.com has now more than 25 years of experience in building large-scale software systems" >}}
+{{< image src="/img/chronicle/news/250218-members-celebrate-25-birthday-01.webp" alt="freiheit.com members celebrate 25 years of developing custom software systems" >}}
 {{< /flex-images >}}

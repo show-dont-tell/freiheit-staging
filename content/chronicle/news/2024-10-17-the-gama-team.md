@@ -1,6 +1,6 @@
 ---
 date: 2024-10-17
-image: /img/chronicle/2024-10-17-the-gama-team-thumbnail.webp
+image: /img/chronicle/news/2024-10-17-the-gama-team-thumbnail.webp
 imageText: The Gama Team shapes freiheit.com’s future in Lisbon
 hideImageOnArticle: true
 headline1: The Gama Team – how they shape freiheit.com's future in Lisbon
@@ -13,8 +13,8 @@ Our co-founder Claudia Dietze has always dreamed of taking freiheit.com internat
 freiheit.com has always been for engineers by engineers, so to organize this big step, Claudia didn’t want to hire managers but chose freiheit.com engineers who embody our values and who would be able to transport them to a new hub. This is not easy – suddenly, these engineers had to take on a new role and build up a new engineering hub from scratch. And they did it!
 
 {{< grid-images cols="2">}}
-    {{< image src="/img/chronicle/2024-10-17-the-gama-team-1.webp" alt="The Gama Team consists of software engineers that built freiheit.com’s hub in Lisbon" >}}
-    {{< image src="/img/chronicle/2024-10-17-the-gama-team-2.webp" alt="The Gama Team is committed and dedicated to our Lisbon hub is continuously growing while maintaining our freiheit.com mindset" >}}
+    {{< image src="/img/chronicle/news/2024-10-17-the-gama-team-1.webp" alt="The Gama Team consists of software engineers that built freiheit.com’s hub in Lisbon" >}}
+    {{< image src="/img/chronicle/news/2024-10-17-the-gama-team-2.webp" alt="The Gama Team is committed and dedicated to our Lisbon hub is continuously growing while maintaining our freiheit.com mindset" >}}
 {{< /grid-images >}}
 
 Once the core values of freiheit.com were established in Lisbon, the focus changed to adapting these values to Portuguese culture and growing the Lisbon hub to the same eye level as the Hamburg hub.

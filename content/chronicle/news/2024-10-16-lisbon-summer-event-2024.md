@@ -4,7 +4,7 @@ headline1: Lisbon Summer Event 2024
 headline2: We just wrapped up summer at our engineering hub in Lisbon!
 teaser:
 lead_image:
-image: /img/chronicle/freiheit-lisbon-summer-event.webp
+image: /img/chronicle/news/freiheit-lisbon-summer-event.webp
 ImageAltText: freiheit.com members celebrate summer in the Lisbon hub.
 vimeo: null
 youtube: null
@@ -25,11 +25,11 @@ This is just the beginning! As more and more new members join, events like these
 Thanks to our fantastic team for making the Lisbon hub so special & successful! 🚀
 
 {{< flex-images >}}
-    {{< image src="/img/chronicle/freiheit-lisbon-summer-event-1.webp" alt="freiheit.com members on their way to summer event.">}}
-    {{< image src="/img/chronicle/freiheit-lisbon-summer-event-2.webp" alt="freiheit.com members play beach volleyball.">}}
+    {{< image src="/img/chronicle/news/freiheit-lisbon-summer-event-1.webp" alt="freiheit.com members on their way to summer event.">}}
+    {{< image src="/img/chronicle/news/freiheit-lisbon-summer-event-2.webp" alt="freiheit.com members play beach volleyball.">}}
 {{< /flex-images >}}
 {{< flex-images >}}
-    {{< image src="/img/chronicle/freiheit-lisbon-summer-event-3.webp" alt="freiheit.com members enjoy their time together.">}}
-    {{< image src="/img/chronicle/freiheit-lisbon-summer-event-4.webp" alt="freiheit.com members get to know each other.">}}
+    {{< image src="/img/chronicle/news/freiheit-lisbon-summer-event-3.webp" alt="freiheit.com members enjoy their time together.">}}
+    {{< image src="/img/chronicle/news/freiheit-lisbon-summer-event-4.webp" alt="freiheit.com members get to know each other.">}}
 {{< /flex-images >}}
 

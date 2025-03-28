@@ -4,7 +4,7 @@ headline1: A life-changing moment
 headline2:
 teaser:
 lead_image: null
-image: /img/chronicle/2024-04-10_131544732.webp
+image: /img/chronicle/news/2024-04-10_131544732.webp
 ImageAltText: Claudia Dietze, Christopher Schorling and Stefan Richter are the management board of freiheit.com.
 vimeo: null
 youtube: null

@@ -8,7 +8,7 @@ youtube: FmWXW9tRaic
 weight: 3
 minutes: 61
 hideHeaderTitle: true
-image: /img/chronicle/talk-03.webp
+image: /img/chronicle/podcasts/talk-03.webp
 type: podcast
 sitemap:
     disable: true

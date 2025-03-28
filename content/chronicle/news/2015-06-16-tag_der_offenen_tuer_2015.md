@@ -1,7 +1,7 @@
 ---
 date: 2015-06-16 13:41:04
 locale: en
-image: /img/chronicle/open_house_fdc.webp
+image: /img/chronicle/news/open_house_fdc.webp
 hideHeaderTitle: true
 ---
 
