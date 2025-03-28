@@ -7,26 +7,38 @@
         </div>
         <h4 class="mt-20">News</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-            {{ $p := where .Pages.ByDate.Reverse "Params.tags" "intersect" (slice "news") }}
-            {{ range first 3 $p }}
+            {{ $filteredPages := slice }}
+            {{ range .Site.RegularPages.ByDate.Reverse }}
+              {{ if strings.Contains .Path "chronicle/news" }}
+                {{ $filteredPages = $filteredPages | append . }}
+              {{ end }}
+            {{ end }}
+            {{ range first 3 $filteredPages }}
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
+        {{ if gt (len $filteredPages) 3 }}
         <div class="mt-8 mb-10">
             <a href="/tags/news"
                 class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
                 see more →
             </a>
         </div>
+        {{ end }}
 
         <h4 class="mt-20">Showroom</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20">
-            {{ $p := where .Pages.ByDate.Reverse "Params.tags" "intersect" (slice "showroom") }}
-            {{ range first 3 $p }}
+            {{ $filteredPages := slice }}
+            {{ range .Site.RegularPages.ByDate.Reverse }}
+              {{ if strings.Contains .Path "chronicle/showroom" }}
+                {{ $filteredPages = $filteredPages | append . }}
+              {{ end }}
+            {{ end }}
+            {{ range first 3 $filteredPages }}
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
-        {{ if gt (len $p) 3 }}
+        {{ if gt (len $filteredPages) 3 }}
         <div class="mt-8 mb-10">
             <a href="/tags/showroom"
             class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
@@ -37,8 +49,13 @@
 
         <h4 class="mt-20">Case Studies</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-            {{ $p := where .Pages.ByDate.Reverse "Params.tags" "intersect" (slice "case-studies") }}
-            {{ range first 3 $p }}
+            {{ $filteredPages := slice }}
+            {{ range .Site.RegularPages.ByDate.Reverse }}
+              {{ if strings.Contains .Path "chronicle/case-studies" }}
+                {{ $filteredPages = $filteredPages | append . }}
+              {{ end }}
+            {{ end }}
+            {{ range first 3 $filteredPages }}
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
@@ -48,20 +65,26 @@
                 see more →
             </a>
         </div>
-
         <h4 class="mt-20">We Support</h4>
         <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-            {{ $p := where .Pages.ByDate.Reverse "Params.tags" "intersect" (slice "we-support") }}
-            {{ range first 3 $p }}
+            {{ $filteredPages := slice }}
+            {{ range .Site.RegularPages.ByDate.Reverse }}
+              {{ if strings.Contains .Path "chronicle/we-support" }}
+                {{ $filteredPages = $filteredPages | append . }}
+              {{ end }}
+            {{ end }}
+            {{ range first 3 $filteredPages }}
                 {{- partial "chronicle-article-teaser.html" . -}}
             {{ end }}
         </div>
+        {{ if gt (len $filteredPages) 3 }}
         <div class="mt-8 mb-10">
             <a href="/tags/we-support"
             class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
             see more →
             </a>
         </div>
+        {{ end }}
     </section>
 </div>
 <div class="w-full mt-10">
@@ -69,20 +92,25 @@
         <section>
             <h4 class="mt-20">Podcasts</h4>
             <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-                {{ $p := where ((.Pages.ByWeight).ByParam "group") "Params.tags" "intersect" (slice "Podcast") }}
-                {{ range first 3 $p }}
-                {{- partial "chronicle-podcast-teaser.html" . -}}
+                {{ $filteredPages := slice }}
+                {{ range .Site.RegularPages.ByDate.Reverse }}
+                    {{ if strings.Contains .Path "chronicle/podcast" }}
+                        {{ $filteredPages = $filteredPages | append . }}
+                    {{ end }}
+                {{ end }}
+                {{ range first 3 $filteredPages }}
+                    {{- partial "chronicle-podcast-teaser.html" . -}}
                 {{ end }}
             </div>
+            {{ if gt (len $filteredPages) 3 }}
             <div class="mt-8 mb-10">
                 <a href="/tags/podcast"
                     class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
                     see more →
                 </a>
             </div>
+            {{ end }}
         </section>
     </div>
 </div>
-
-
 {{ end }}

@@ -3,7 +3,6 @@ title: "Application Development for the Google Cloud Platform"
 image: /img/things-weve-built/application-development-for-the-google-cloud-platform.webp
 date: 2022-02-09
 draft: true
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

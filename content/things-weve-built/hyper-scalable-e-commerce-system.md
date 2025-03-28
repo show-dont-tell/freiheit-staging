@@ -4,7 +4,6 @@ image: /img/things-weve-built/hyper-scalable-e-commerce-system.png.webp
 imageAlt: "freiheit.com built a webshop for the retailer Tchibo to make their unique business model reliably available every week."
 date: 2024-05-15
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 
