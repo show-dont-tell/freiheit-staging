@@ -81,7 +81,7 @@ The vision was more than just a simple replacement. METRO aimed for an omnichann
 
 This new platform would allow METRO to serve their diverse target audience and marked the beginning of the biggest modernization project in the history of METRO. Starting in 2015, together with freiheit.com, the project was to be rolled out in different stages. Beginning with connecting a first depot to the e-commerce platform in Germany and later expanding to include France's marketplace and eventually to the rest of Europe.
 
-### Delivering the Minimum Viable Product
+###### Delivering the Minimum Viable Product
 
 Before developing what they had defined in all detail, freiheit.com built a Minimum Viable Product (MVP). This is done to show the client on a smaller scale how the project will be rolled out and how the solution approach could look like.
 The initial development phase (2015-2016) focused on replacing METRO's old delivery concept, with Germany serving as the pilot country. The challenge was not just meeting technical specifications but ensuring the system could go live on a predefined day - METRO had tied the Go-Live date to strict deadlines.
@@ -101,7 +101,7 @@ But this was only the beginning and where the partnership between both companies
 After the successful project start, the teams also started to develop additional features to the online ordering system and began to replace METROs on-premise solution step-by-step.
 More on that later.
 
-### What makes METRO special
+###### What makes METRO special
 
 As a B2B provider, METRO has requirements that deviate from a normal B2C eCommerce platform:
 
@@ -119,7 +119,7 @@ Providing this unique service on a large scale in 30 countries requires an incre
 
 {{< image src="/img/chronicle/250325-case-study-metro-image-07.webp" alt="" >}}
 
-### The Architecture
+###### The Architecture
 
 To build a microservice architecture on such a large-scale level was a radical departure from the monolithic structure of METROs legacy solution and not yet common at that time back in 2015.
 
@@ -138,11 +138,84 @@ Kubernetes is an open-source platform for the automation of deploying, scaling, 
 
 {{< quote text="We all sat together in a room in our office in Hamburg. It was like a war room in which everyone worked together to guarantee a successful Go-Live.”" source="Carsten Luckmann - Team Lead - freiheit.com" >}}
 
-<div class="slider">
-    <img src="/img/chronicle/250325-case-study-metro-image-03.webp" class="slide active"> 
-    <img src="/img/chronicle/250325-case-study-metro-image-04.webp" class="slide">
-    <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
-    <button class="next" onclick="changeSlide(1)">&#10095;</button>
-</div>
+The success of this first Go-Live was only the beginning.
+The engineering teams started to develop more features in the following months and went live in the biggest depot close to Frankfurt, Germany in June of the same year. The rest of all German stores and depots would follow, completing the roll-out by January 17th of 2017. Following this, the teams began to implement METRO's e-commerce platform to the other METRO countries one by one - generating an average revenue of 40 Mio Euro per day.
+To serve the different customer profiles, METRO developed two profiles that represented two different groups of customers and their purchase behavior, Betty and Mario. While Betty was a large customer, ordering weekly deliveries to their restaurant, Mario would prefer to come into the store and pick his products, which were often non-food items, independently and irregularly.
+Here's a detailed look into the two profiles:
+
+{{< grid-images cols="2">}}
+{{< image src="/img/chronicle/250325-case-study-metro-image-04.webp" alt="" >}} {{< image src="/img/chronicle/250325-case-study-metro-image-03.webp" alt="" >}}
+{{< /grid-images >}}
+
+Both the assortment and the user experience of METRO's webshop had to cater to both profiles.
+
+France demanded a very specific feature set which focussed on the persona Mario. Following this, in 2017 the project expanded beyond METROs store delivery to an omnichannel solution to offer their customers a larger assortment of regional products.
+A marketplace system, powered by Mirakl (A marketplace provider) , was integrated into the new webshop in France, targeting regional suppliers. This addition allowed METRO to diversify its offerings, catering to small producers and expanding its customer base especially in France.
+METRO's Food Service Distribution (FSD) model became more defined during this phase:
+- HoReCa Customers: Hotels, restaurants, and cafes receiving regular deliveries every two weeks. These customers valued reliability and higher-quality service over margin sensitivity.
+- Trader Customers: Predominantly in Eastern Europe, these customers (e.g., gas stations, kiosks) served end consumers and required competitive pricing to stay viable against supermarkets.
+
+Meanwhile, METRO's strategy continued to evolve.
+In France, the marketplace gained popularity due to the amount of small, regional suppliers. Click-and-collect services, online ordering, and DHL deliveries expanded METROs traditional Cash & Carry model.
+
+From June of 2018 to August of 2019 even more countries launched, rolling out the e-commerce platform in Russia, Romania, the Netherlands, Belgium, Kazakhstan, Hungary, China, Bulgaria, Croatia, Moldova, and finally Serbia in August of 2019.
+
+{{< image src="/img/chronicle/250325-case-study-metro-image-08.webp" alt="" >}}
+
+### The collaboration that led to success
+
+###### The different teams
+
+Over the span of the collaboration between METRO and freiheit.com, the teams working on the e-commerce platform were divided into different groups, each in charge of a different aspect of the platform.
+
+
+**Search and Discover Team**
+    This team is focused on helping customers find products easily and intuitively on the platform. They built and maintained product recommendations and category browsing. By optimizing search relevance, filtering, and personalized recommendations, METRO ensures that customers can efficiently discover products that match their preferences.
+
+
+**Price Team**
+    The Price Team managed the platform's pricing functionality. They handled dynamic real-time pricing models, discounts, promotional offers, and price updates across different regions and segments.
+    The old pricing engine handled a handful of price calculations of baskets of 100 line items which took one or one and a half seconds.METROs new price engine is capable of thousands of calculations at the same time in under half a second or in milliseconds. And this on a global platform.
+
+
+**CIA Team**
+    The Customer Inspire Assist (CIA) team focused on customer engagement and support throughout the METRO shopping experience. They developed features to inspire customers and recommend them the right products.
+
+
+**Product Data Team**
+    The Evaluate team managed the product data and its quality, ensuring that all items on the platform have accurate, real-time, and detailed information. They focused on product descriptions, specifications, images, and ratings, which are essential for a clear and reliable presentation of items, helping METRO customers make the best purchases.
+
+
+**Orders Processing Team**
+    The Order Capture team (Order Processing) oversaw the systems for capturing and processing customer orders. They ensured that every order placed on METROs platform is accurately recorded and processed for fulfillment.
+
+
+**Order Management - Order Planning Team**
+    The Order Management team handled the planning and scheduling of orders after they’re placed. They coordinated METROs inventory availability, shipment timelines, and logistics to ensure that orders are fulfilled efficiently. 
+
+
+**Pick and Pack Team**
+    The Pick and Pack team was dedicated to assisting the order fulfillment process for the METRO warehouse staff. They developed a guide for the pickers when to assist them to correctly assemble products for each order, ensuring accuracy and efficiency in the packing process.
+
+The combination of these teams and their efforts led to a successful collaboration and a future-proof e-commerce platform that would serve METRO for years to come.
+
+{{< quote text="To this day, this project is a project close to my heart. It was also the first really big project for me in which we not only developed the software ourselves, but also laid the foundation for Metro to set up its own engineering organization. We even conducted the first job interviews together to hire their first engineers. That was the foundation for Metro's engineering organization today." source="Birgit Riedel - Client Success Expert Director - freiheit.com" >}}
+
+
+###### freiheit.com's DNA
+
+One thing is clear. The collaboration between METRO and freiheit.com in itself is a success story.
+But what exactly did freiheit.com bring to the table?
+The software engineering organisation founded in Hamburg works in small and efficient teams to reduce complexity on all ends. Each engineer within their engineering organisation is responsible for their work, from start to finish. The teams work data-driven and spend most of their time coding. Each engineer is a full-stack engineer - they are in charge of the entire product from frontend to backend. This means every member is deeply involved in the creation of the product from the first idea to the final rollout.
+
+METRO took these basic engineering principles, and with the support of freiheit.com they implemented into their organization as well.
+
+{{< quote text="We went away from seven hierarchies into two hierarchies which have people management responsibilities. So we went from a direct way of leading into an indirect way of leading - giving a high extent of responsibilities into the teams. Even though that comes with its own challenges, it's so much more competence and commitment driven." source="Sven Lipowski - Business Process Director Customer METRO 2018" >}}
+
+
+But that is not all. freiheit.com uses data and metrics to systematically lead software projects to success. Through data-driven Software Engineering, they significantly increase the delivery reliability of large-scale software projects.
+All of freiheit.com's teams use Revolution, a project management tool built by the company, to track their performance and guarantee full transparency internally but also to their customers. In collaboration with METRO, it was actually the first time this tool was used, as freiheit.com had then just recently released it.
+
+{{< image src="/img/chronicle/250325-case-study-metro-image-01.webp" alt="" >}}
 
 
