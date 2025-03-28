@@ -1,7 +1,7 @@
 ---
 date: 2014-11-01 19:05:43
 locale: en
-image: /img/chronicle/absatzw_logo.jpg.webp
+image: /img/chronicle/absatzw_logo.webp
 hideHeaderTitle: true
 ---
 

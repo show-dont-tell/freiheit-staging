@@ -5,7 +5,7 @@ headline1: HackerTalk with Marco Börries
 headline2: "Make small business work in a complex world."
 teaser:
 lead_image:
-image: /img/chronicle/marco_boerries_freiheitc.com.jpg.webp
+image: /img/chronicle/marco_boerries_freiheitc.com.webp
 vimeo:
 youtube:
 hideHeaderTitle: true

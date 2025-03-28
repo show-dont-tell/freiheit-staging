@@ -1,7 +1,7 @@
 ---
 date: 2015-12-04 19:23:30
 locale: en
-lead_image: /img/chronicle/Claudia_im_buero.jpg.webp
+lead_image: /img/chronicle/Claudia_im_buero.webp
 hideHeaderTitle: true
 ---
 

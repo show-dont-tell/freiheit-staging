@@ -1,7 +1,7 @@
 ---
 date: 2016-03-11 15:29:01
 locale: en
-image: /img/chronicle/stefan_kirschner_fsfe.jpg.webp
+image: /img/chronicle/stefan_kirschner_fsfe.webp
 hideHeaderTitle: true
 ---
 

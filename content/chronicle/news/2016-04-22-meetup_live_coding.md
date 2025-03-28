@@ -1,7 +1,7 @@
 ---
 date: 2016-04-22 18:26:14
 locale: en
-image: /img/chronicle/meetup_logo_3.jpg.webp
+image: /img/chronicle/meetup_logo_3.webp
 hideHeaderTitle: true
 ---
 

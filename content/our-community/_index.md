@@ -6,7 +6,7 @@ date: 2023-01-23
 draft: false
 headerHeadline: Our Community
 headerTheme: green
-footerImage: footer_community.jpg
+footerImage: footer_community.webp
 footerImageAlt: "freiheit.com members are happy to be a part of the freiheit.com community"
 menu:
   main:

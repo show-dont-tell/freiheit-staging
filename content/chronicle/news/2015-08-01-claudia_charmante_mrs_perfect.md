@@ -1,7 +1,7 @@
 ---
 date: 2015-08-01 13:56:09
 locale: en
-image: /img/chronicle/claudia_abendblatt.jpg.webp
+image: /img/chronicle/claudia_abendblatt.webp
 hideHeaderTitle: true
 ---
 

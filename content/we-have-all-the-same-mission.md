@@ -16,6 +16,6 @@ No matter how many of us there are. To our core, we have always stayed the same.
 Ship great software. Never late. Never failed.
 
 {{< flex-images >}}
-  {{< image src="/img/who-we-are/collective-intelligence-and-intelligent-collective-1.jpg.webp" alt="A freiheit.com engineer reads a knowledge base article to learn something new about a coding language." >}}
-  {{< image src="/img/who-we-are/collective-intelligence-and-intelligent-collective-2.jpg.webp" alt="freiheit.com members maintain the freiheit.com knowledge base to make sure every member knows what the company knows." >}}
+  {{< image src="/img/who-we-are/collective-intelligence-and-intelligent-collective-1.webp" alt="A freiheit.com engineer reads a knowledge base article to learn something new about a coding language." >}}
+  {{< image src="/img/who-we-are/collective-intelligence-and-intelligent-collective-2.webp" alt="freiheit.com members maintain the freiheit.com knowledge base to make sure every member knows what the company knows." >}}
 {{< /flex-images >}}

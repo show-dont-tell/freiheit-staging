@@ -8,7 +8,7 @@ youtube: 2yZM612fCXQ
 weight: 2
 minutes: 57
 hideHeaderTitle: true
-image: /img/chronicle/talk-02.png
+image: /img/chronicle/talk-02.webp
 type: podcast
 sitemap:
     disable: true

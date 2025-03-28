@@ -1,7 +1,7 @@
 ---
 date: 2014-11-20 14:13:41
 locale: en
-image: /img/chronicle/vdz_tech_summit_logo.png.webp
+image: /img/chronicle/vdz_tech_summit_logo.webp
 hideHeaderTitle: true
 ---
 

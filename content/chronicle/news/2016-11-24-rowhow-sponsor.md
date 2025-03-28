@@ -2,8 +2,8 @@
 locale: en
 date: 2016-11-24 16:45:48
 teaser:
-lead_image: /img/chronicle/RoHOW_logo.jpg.webp
-image: /img/chronicle/RoHOW_logo.jpg.webp
+lead_image: /img/chronicle/RoHOW_logo.webp
+image: /img/chronicle/RoHOW_logo.webp
 vimeo:
 youtube:
 hideHeaderTitle: true

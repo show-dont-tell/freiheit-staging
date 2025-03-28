@@ -15,13 +15,13 @@
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-white"}}
     {{ $backgroundClasses = "bg-white text-black"}}
-    {{ $backgroundImage = "img/header_alabaster.png.webp" }}
+    {{ $backgroundImage = "img/header_alabaster.webp" }}
     {{ $logo = $logo_white }}
 {{ else if eq .Params.headerTheme "black-with-image"}}
     {{ $navigationTextColor = "text-light-grey"}}
     {{ $backgroundColor = "bg-black"}}
     {{ $backgroundClasses = "bg-black text-light-grey"}}
-    {{ $backgroundImage = "img/header_pale-green.png.webp" }}
+    {{ $backgroundImage = "img/header_pale-green.webp" }}
     {{ $logo = $logo_white }}
 {{ else if eq .Params.headerTheme "homepage"}}
     {{ $navigationTextColor = "text-white"}}
@@ -31,42 +31,42 @@
 {{ else if eq .Params.headerTheme "green" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-green"}}
-    {{ $backgroundImage = "img/header_pale-purple.png.webp" }}
+    {{ $backgroundImage = "img/header_pale-purple.webp" }}
     {{ $backgroundClasses = "bg-green text-black bg-top"}}
 {{ else if eq .Params.headerTheme "yellow" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-yellow"}}
-    {{ $backgroundImage = "img/header_yellow.png.webp" }}
+    {{ $backgroundImage = "img/header_yellow.webp" }}
     {{ $backgroundClasses = "bg-yellow text-black"}}
 {{ else if eq .Params.headerTheme "pale-green" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-pale-green"}}
-    {{ $backgroundImage = "img/header_pale-green.png.webp" }}
+    {{ $backgroundImage = "img/header_pale-green.webp" }}
     {{ $backgroundClasses = "bg-pale-green text-black"}}
 {{ else if eq .Params.headerTheme "alabaster" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-alabaster"}}
-    {{ $backgroundImage = "img/header_alabaster.png.webp" }}
+    {{ $backgroundImage = "img/header_alabaster.webp" }}
     {{ $backgroundClasses = "bg-alabaster text-black"}}
 {{ else if eq .Params.headerTheme "pale-purple" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-pale-purple"}}
-    {{ $backgroundImage = "img/header_pale-purple.png.webp" }}
+    {{ $backgroundImage = "img/header_pale-purple.webp" }}
     {{ $backgroundClasses = "bg-pale-purple text-black"}}
 {{ else if eq .Params.headerTheme "red" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-red"}}
-    {{ $backgroundImage = "img/header_red.png.webp" }}
+    {{ $backgroundImage = "img/header_red.webp" }}
     {{ $backgroundClasses = "bg-red text-black"}}
 {{ else if eq .Params.headerTheme "pale-pink" }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-pale-pink"}}
-    {{ $backgroundImage = "img/header_pale-pink.png.webp" }}
+    {{ $backgroundImage = "img/header_pale-pink.webp" }}
     {{ $backgroundClasses = "bg-pale-pink text-black"}}
 {{ else }}
     {{ $navigationTextColor = "text-black"}}
     {{ $backgroundColor = "bg-alabaster"}}
-    {{ $backgroundImage = "img/header_alabaster.png.webp" }}
+    {{ $backgroundImage = "img/header_alabaster.webp" }}
     {{ $backgroundClasses = "bg-alabaster text-black"}}
 {{ end }}
 {{ if .Site.Params.GoogleTagManager }}
@@ -97,7 +97,7 @@
                 <div class="xl:hidden checkbox-content transition duration-200 ease-in-out">
                     <div
                             class="bg-right bg-contain bg-no-repeat flex flex-col xl:hidden fixed top-0 left-0 w-full h-screen p-5 bg-black text-light-grey"
-                            style="background-image: url(/img/mobile-navigation_background.png.webp);">
+                            style="background-image: url(/img/mobile-navigation_background.webp);">
                         <div class="flex items-center justify-between space">
                             <a href="/"><img class="h-8 object-scale-down" src="{{ $logo_white }}" alt="freiheit logo" width="188" height="32" /></a>
                             <span class="cursor-pointer inline-flex xl:hidden p-2 items-center justify-center transform hover:scale-125 focus:outline-none" id="navigation_close">

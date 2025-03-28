@@ -25,7 +25,7 @@ In collaboration with Dentsply Sirona, one of the **world’s largest manufactur
 Before the platform was built, all communication and collaboration between dentists and laboratories was neither unified nor in one place.
 
 {{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-ds-core.jpg" alt="" width="100%" >}}
+    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-ds-core.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
 ### Unfolding the process
@@ -71,7 +71,7 @@ Before going into depth about the roll-out of the collaboration between Dentsply
 Dentsply Sirona is the largest manufacturer of professional dental products and technologies worldwide with over 10.000 employees, a turnover of $3.93B in 2023 and a great variety of dental products. The company provides a large range of solutions that are leading product brands across consumables, equipment, technology and specialty products. It is their overall mission to improve advanced dental patient care around the world.
 
 {{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-building.jpg" alt="" width="100%" >}}
+    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-building.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
 Dentists are one of the few medical professionals that diagnose their patients and also directly offer procedures  within the same facility. The dental industry is also one of the only ones that has successfully digitized its entire process, from diagnosis to finished dental product.
@@ -79,7 +79,7 @@ Dentists are one of the few medical professionals that diagnose their patients a
 However, before DS Core was brought to life, the collaboration between dentists and laboratories was time consuming and complicated, meaning that each dental practice had its own hardware and software that wasn’t connected to each other. To place an order for a dental product, the dentist had to communicate with the laboratories using his own software as there was no platform to combine it all.
 
 {{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-freiheit-orange.jpg" alt="" width="100%" >}}
+    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-freiheit-orange.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
 ###### About freiheit.com
@@ -194,7 +194,7 @@ All of these features, but also the benefit of having the possibility to use a 
 **The Closed Alpha**, which was already released **after 7 months**, is an extension of the results gained from the Proof of Concept. The early market version not only had the capability to visualize 3D data like the Proof of Concept (PoC) version, but it was also integrated into a platform offering various other features. The most important addition was the extension to store and share patient data directly in the cloud, allowing access to the data from anywhere. It was now also possible to automatically synchronize on-premise XRay scans from the dental practice into DS Core.
 
 {{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-presentation-of-ds-core.jpg" alt="" width="100%" >}}
+    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-presentation-of-ds-core.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
 ### Presentation of DS Core at DS World in Las Vegas
@@ -215,7 +215,7 @@ As the next step within the process, Dentsply Sirona presented **DS Core** at th
 
 Dentsply Sirona and freiheit.com officially brought the first clinical application to the market and presented it at the IDS in Cologne. This trade fair is of high relevance as it is where both the latest products within the industry are presented and networking with dentists and partners from all over the world takes place.
 
-{{< image-box image="feature-box-image.png" >}}
+{{< image-box image="feature-box-image.webp" >}}
 
 ### The features in DS Core:
 
@@ -229,7 +229,7 @@ Dentsply Sirona and freiheit.com officially brought the first clinical applicati
 {{< quote text="All the devices, applications and workflows that we are building will be connected to DS Core, even some back-end processes. It's the centerpiece that we have, it's what digital dentistry is all about." source="Manfred Müller  - VP Software Engineering & UX - Dentsply Sirona" >}}
 
 {{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-at-the-dentist.jpg" alt="" width="100%" >}}
+    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-at-the-dentist.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
 {{< border-box >}}

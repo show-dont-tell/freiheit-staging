@@ -2,13 +2,13 @@
 <script>
     // set back link depending on if we have a browser history
     document.addEventListener("DOMContentLoaded", function(){
-        let backLink = "/tags/{{index .Params.Tags 0}}";
+        let backLink = "{{ path.Dir .Page.Path }}";
         if(window.history.length > 2) {
             backLink = "javascript:window.history.back(-1)"
         }
         var link = document.getElementById("backLink");
         link.setAttribute("href", backLink);
-        });
+    });
 </script>
 <div class="fdc-content-layout">
     <section class="article-content bg-white mb-24">

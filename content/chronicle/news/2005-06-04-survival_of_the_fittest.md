@@ -1,7 +1,7 @@
 ---
 date: 2005-06-04 14:05:41
 locale: en
-image: /img/chronicle/logo_linuxtag.jpg.webp
+image: /img/chronicle/logo_linuxtag.webp
 hideHeaderTitle: true
 ---
 The LinuxTag is a fantastic event for programmers and free software activists.  Already in 2005, Stefan has expressed interest in Objective-C and GNUstep environment. But a pet project was missing in order to learn the language. The outcome was a presentation at the LinuxTag about algorithms in Objective-C, with which Guile Scheme programs for GNU Robot could genetically be optimized.

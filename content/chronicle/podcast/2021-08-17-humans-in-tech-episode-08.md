@@ -8,7 +8,7 @@ youtube: 6Krt34yZGpU
 weight: 8
 minutes: 75
 hideHeaderTitle: true
-image: /img/chronicle/podcast-08.png
+image: /img/chronicle/podcast-08.webp
 type: podcast
 sitemap:
     disable: true

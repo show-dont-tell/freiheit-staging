@@ -8,7 +8,7 @@ youtube: Y5-f5jJJFSo
 weight: 1
 minutes: 80
 hideHeaderTitle: true
-image: /img/chronicle/podcast-01.png
+image: /img/chronicle/podcast-01.webp
 type: podcast
 sitemap:
     disable: true

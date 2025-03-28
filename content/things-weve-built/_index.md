@@ -6,7 +6,7 @@ date: 2021-04-24T15:55:09+02:00
 draft: false
 headerHeadline: Things we've built
 headerTheme: yellow
-footerImage: footer_things_we_build.jpg
+footerImage: footer_things_we_build.webp
 footerImageAlt: "freiheit.com engineering teams built custom large-scale software."
 aliases:
   - /what-weve-build/

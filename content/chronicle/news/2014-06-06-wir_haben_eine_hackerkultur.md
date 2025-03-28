@@ -1,7 +1,7 @@
 ---
 date: 2014-06-06 13:58:38
 locale: en
-image: /img/chronicle/db_foto.jpg.webp
+image: /img/chronicle/db_foto.webp
 hideHeaderTitle: true
 draft: true
 ---

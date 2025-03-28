@@ -8,7 +8,7 @@ youtube: riFq_OR-CoE
 weight: 4
 minutes: 61
 hideHeaderTitle: true
-image: /img/chronicle/podcast-04.png
+image: /img/chronicle/podcast-04.webp
 type: podcast
 sitemap:
     disable: true

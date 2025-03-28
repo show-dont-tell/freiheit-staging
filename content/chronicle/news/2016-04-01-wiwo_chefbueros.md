@@ -1,7 +1,7 @@
 ---
 date: 2016-04-01 15:29:35
 locale: en
-image: /img/chronicle/wiwo_Claudia_04_2016.jpg.webp
+image: /img/chronicle/wiwo_Claudia_04_2016.webp
 hideHeaderTitle: true
 ---
 
