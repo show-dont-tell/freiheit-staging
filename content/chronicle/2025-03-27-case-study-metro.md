@@ -1,6 +1,6 @@
 ---
 date: 2025-03-27
-headline1: How METRO’s E-Commerce Platform went live worldwide
+headline1: How METRO's E-Commerce Platform went live worldwide
 headline2: A global B2B Retail solution built by freiheit.com
 teaser:
 lead_image: null
@@ -18,9 +18,9 @@ METRO AG, the global wholesale giant, serves over 21 million professional custom
 
 Their customers place their orders weekly and get them delivered or pick them up directly at one of the 625 stores. Each order is hyper individualized down to the price, and changes constantly with the seasons.
 
-In the past, customers placed their orders through many different channels, using fax, email, phone calls or METROs old webshop. A great number of their almost 90.000 employees worldwide would then review and register their orders in a separate system – with different webshop solutions in each METRO country.
+In the past, customers placed their orders through many different channels, using fax, email, phone calls or METROs old webshop. A great number of their almost 90.000 employees worldwide would then review and register their orders in a separate system - with different webshop solutions in each METRO country.
 
-To make this vision come to life, Dentsply Sirona was looking for a strong partner to help them build a solution that would bring all the dental applications safely into the cloud. This cloud platform, called DS Core, would allow dentists and laboratories to collaborate seamlessly with each other, making the workflow more efficient and the treatment span shorter for the patient.
+To make this vision come to life, Dentsply Sirona was looking for a strong partner to help them build a solution that would bring all the dental applications safely into the cloud. This cloud platform, called DS Core, would allow dentists and laboratories to collaborate seamlessly with each other, making the workflow more efficient and the treatment span shorter for the patient.
 
 {{< quote text="Our goal was to rapidly roll out into all 30 countries with 624 stores. This was simply not possible with an on-premise solution. Our large-scale business requires an incredibly fast and reliable infrastructure with automatic provisioning of additional infrastructure" source="Timo Salzsieder - Chief Executive Officer METRO, 2018" >}}
 
@@ -32,7 +32,7 @@ In the early 2010s, METRO realized it was time for a change. Their old e-commerc
 
 The complexity of this e-commerce platform would be substantial, as it combined a number of dependencies and databases.
 In late 2014, METRO found the right partner to build this B2B platform, freiheit.com. The software engineering company from Hamburg offered a new way of software engineering, reducing complexity on all levels. Together they defined a new approach that would lead the project to a fast roll-out and a scalable platform ready for any demand. They implemented a new microservices platform with React.js while pioneering Kubernetes back when it was still in its beta-phase. In only 12 months of development time, they built a platform with more than 200 services. From the first workshop to delivering the finished project, METRO and freiheit.com wrote over 5 billion lines of code. Together they set up a platform that brought METRO away from delivery cycles of several months to daily live deployments and moved from a monolithic architecture to microservices.
-This system now generates over 4 billion euros per year and has become an essential part of METRO’s business. Bringing their webshop to a complete new level.
+This system now generates over 4 billion euros per year and has become an essential part of METRO's business. Bringing their webshop to a complete new level.
 Nowadays, their clients can simply place their orders choosing from over 850.000 products (e.g. Germany), on the website and METRO employees can access and modify them through the push of a button.
 
 Individualized. All in one place. Scalable and future-proof.
@@ -59,19 +59,19 @@ The software engineering company freiheit.com technologies was founded in 1999 i
 They take on mission impossible projects and build custom large-scale software platforms tailored to their clients needs.
 After showing METRO in 2014 how they could build an efficient e-commerce platform together that would revolutionize their business model, both companies started a collaboration that has been lasting for over a decade.
 
-This partnership shapes METRO’s future as a German B2B retail giant while centralizing and diversifying their offer to their over 21 million professional customers worldwide.
+This partnership shapes METRO's future as a German B2B retail giant while centralizing and diversifying their offer to their over 21 million professional customers worldwide.
 {{< image src="/img/chronicle/250325-case-study-metro-image-02.webp" alt="" >}}
 
 <br />
 
 ### From the MVP to an omnichannel vision
 
-Let’s go back to the start
-In 2014, METRO approached freiheit.com to develop a modern platform that would revolutionize their pre-ordering system. At the time, METRO was relying on a legacy system, MCRM (Metro Customer Relationship Management), introduced in 2009. This system had limited possibilities to add features, was difficult to use, and had long release cycles. It was simply not scalable for METRO’s growing omnichannel business. 
+Let's go back to the start
+In 2014, METRO approached freiheit.com to develop a modern platform that would revolutionize their pre-ordering system. At the time, METRO was relying on a legacy system, MCRM (Metro Customer Relationship Management), introduced in 2009. This system had limited possibilities to add features, was difficult to use, and had long release cycles. It was simply not scalable for METRO's growing omnichannel business.
 The initial goal was clear:
 - Replace MCRM with a scalable and user-friendly platform that can offer both employees and customers direct order placement and tracking.
 
-Historically, METRO’s process revolved around “fast order entry” where bulk buyers — primarily HoReCA (Hotels, Restaurants, Cafes) customers — placed orders through METRO employees, typically over the phone or via mail. This system lacked the possibility to be integrated with other METRO operations and therefore slowed down the order and delivery process.
+Historically, METRO's process revolved around “fast order entry” where bulk buyers — primarily HoReCA (Hotels, Restaurants, Cafes) customers — placed orders through METRO employees, typically over the phone or via mail. This system lacked the possibility to be integrated with other METRO operations and therefore slowed down the order and delivery process.
 
 The vision was more than just a simple replacement. METRO aimed for an omnichannel solution that eventually combined:
 - Delivery services
@@ -81,190 +81,68 @@ The vision was more than just a simple replacement. METRO aimed for an omnichann
 
 This new platform would allow METRO to serve their diverse target audience and marked the beginning of the biggest modernization project in the history of METRO. Starting in 2015, together with freiheit.com, the project was to be rolled out in different stages. Beginning with connecting a first depot to the e-commerce platform in Germany and later expanding to include France's marketplace and eventually to the rest of Europe.
 
-<br />
+### Delivering the Minimum Viable Product
 
-###### About Dentsply Sirona
+Before developing what they had defined in all detail, freiheit.com built a Minimum Viable Product (MVP). This is done to show the client on a smaller scale how the project will be rolled out and how the solution approach could look like.
+The initial development phase (2015-2016) focused on replacing METRO's old delivery concept, with Germany serving as the pilot country. The challenge was not just meeting technical specifications but ensuring the system could go live on a predefined day - METRO had tied the Go-Live date to strict deadlines.
+A high-performing and flexible system was non-negotiable - and freiheit.com delivered.
+This MVP already included the following features:
 
-Dentsply Sirona is the largest manufacturer of professional dental products and technologies worldwide with over 10.000 employees, a turnover of $3.93B in 2023 and a great variety of dental products. The company provides a large range of solutions that are leading product brands across consumables, equipment, technology and specialty products. It is their overall mission to improve advanced dental patient care around the world.
+An e-commerce platform where clients could place their orders while employees could track and adjust them.
+- Individual prices: METRO employees can adapt prices and add discounts to items for certain customers.
+- Replace: Customers can easily find and get replacement suggestions for articles if they are not available.
 
-{{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-building.jpg" alt="" width="100%" >}}
-{{< /full-width >}}
+After defining the scope together with METRO, this first MVP went live in 2016 in Germany and was then extended with more features. More countries like France, Spain and Italy followed soon, making the e-commerce platform available in over 15 countries fast - showing METRO that freiheit.com was the right partner for this modernisation on all levels. Such a large-scale deployment in many countries can take years in other companies.
+However, Metro had a first stable and secure MVP in production in Germany after only 12 months.
+But this was only the beginning and where the partnership between both companies started - What would follow were years of successful collaboration.
 
-Dentists are one of the few medical professionals that diagnose their patients and also directly offer procedures  within the same facility. The dental industry is also one of the only ones that has successfully digitized its entire process, from diagnosis to finished dental product.
+{{< quote text="From the very beginning of the project it was clear that we would not only create a completely new B2B eCommerce platform, but that we would do the groundwork for the future of software development at METRO. Even though we knew that, nobody in the starter team could imagine how big this would grow only in the first two years" source="Stefan Richter, Head of Engineering and founder of freiheit.com" >}}
 
-However, before DS Core was brought to life, the collaboration between dentists and laboratories was time consuming and complicated, meaning that each dental practice had its own hardware and software that wasn’t connected to each other. To place an order for a dental product, the dentist had to communicate with the laboratories using his own software as there was no platform to combine it all.
+After the successful project start, the teams also started to develop additional features to the online ordering system and began to replace METROs on-premise solution step-by-step.
+More on that later.
 
-{{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-freiheit-orange.jpg" alt="" width="100%" >}}
-{{< /full-width >}}
+### What makes METRO special
 
-###### About freiheit.com
+As a B2B provider, METRO has requirements that deviate from a normal B2C eCommerce platform:
 
-freiheit.com has been building large-scale software systems since 1999.
+- A typical METRO customer can have shopping baskets of 500 items or more and several users from both sides can work in the same shopping basket at the same time.
+- Every customer can have its individual price which needs to be calculated on-the-fly in combination with discounts, flash sales or other special pricing models.
+- The delivery of the goods is completely different:
+    - In a B2C platform, an employee picks the product from the warehouse and delivers it directly to the customer.
+    - In B2B, food service distribution moves completely different goods such as 500 kg sugar for a bakery chain or large orders with ultra-fresh foods.These need a very clearly defined picking process that considers different freezing zones to make sure that the goods are delivered in compliance with cold chains.
 
-The software-engineering company, which was founded in Hamburg, develops large scale software platforms for international clients used by millions of users with thousands of requests per second.
+Additionally, each country has a slightly different business model.
 
-Failure is not an option. freiheit.com is known for their high reputation on the market and for delivering projects reliably on time, on budget and on target.
+In Europe, particularly in Germany and France, demand is driven by high-quality fresh produce, gourmet products, and sustainable sourcing for hotels, restaurants, and catering businesses. Eastern European markets, like Poland and Romania, emphasize cost-effective bulk purchases for small retailers and independent businesses. In Asia, especially in Pakistan, demand leans towards essential food staples, wholesale grocery items, and bulk restaurant supplies catering to local eateries and small businesses.
 
-For over a quarter of a century, they have been working for the “Who's Who” of German and European industrial and commercial companies – across all sectors: healthcare, trade, automotive, e-commerce, and more.
+Providing this unique service on a large scale in 30 countries requires an incredibly reliable and powerful infrastructure.
 
-### Accomplishing milestones
+{{< image src="/img/chronicle/250325-case-study-metro-image-07.webp" alt="" >}}
 
-<br />
+### The Architecture
 
-###### One PoC, 3 engineers, 3 weeks, 3D rendering in GCP, seamless switch load/cloud
+To build a microservice architecture on such a large-scale level was a radical departure from the monolithic structure of METROs legacy solution and not yet common at that time back in 2015.
 
-<br />
+While microservices promised scalability and modularity, they also brought a new complexity. Distributed systems required new monitoring solutions to ensure stability of this system. To address this, the teams integrated Datadog for monitoring and troubleshooting, a tool still used in the METRO project and by freiheit.com in general to this day.
 
-**It all started in 2021** with a small Proof of Concept organized by Dentsply Sirona. The company had embarked on a journey to find the right partner to create a cloud solution for dentists. The collaboration they were looking for would be long-term and in close partnership with the company.
+The adoption of the microservice architecture was a significant success, by breaking the system into smaller, manageable components with clear API dependencies. As Carsten Luckmann, a Team Lead at freiheit.com put it:
 
-Google recommended freiheit.com to Dentsply Sirona during the PoC. freiheit.com joined this process only **3 weeks before final submission**. This PoC included three different challenges:
+*“Divide and conquer — dividing the problem into small problems and solving them individually. We made METRO’s service significantly faster and more efficient.”*
 
-- Sharing
-- Uploading
-- 3D Rendering of data in the cloud
+Apart from choosing microservices as their architecture, it was also clear from the beginning that the software should run only in containers.
+freiheit.com evaluated various container orchestration frameworks that allow to create the envisioned scalable microservices architecture. In the end, they chose Docker containers. As the number of containers grows, it becomes difficult to scale and manage them effectively.
 
-freiheit.com selected the most challenging one, the 3D Rendering.
+This is where Kubernetes comes in.
 
-In only 3 weeks and with a small team of 3 engineers, freiheit.com accomplished a Proof of Concept for a software that enables dentists to stream 3D renderings in the cloud and edit them directly in the browser.
+Kubernetes is an open-source platform for the automation of deploying, scaling, and operating application containers. When freiheit.com started to work with this platform, Kubernetes was quite new and still in the beta phase. Nonetheless, they decided to implement it and realised the potential it could have for the roll-out of the entire project. Because to freiheit.com's team it was clear that Kubernetes would win the cloud wars.
 
-<br />
+{{< quote text="We all sat together in a room in our office in Hamburg. It was like a war room in which everyone worked together to guarantee a successful Go-Live.”" source="Carsten Luckmann - Team Lead - freiheit.com" >}}
 
-###### The advantages:
+<div class="slider">
+    <img src="/img/chronicle/250325-case-study-metro-image-03.webp" class="slide active"> 
+    <img src="/img/chronicle/250325-case-study-metro-image-04.webp" class="slide">
+    <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
+    <button class="next" onclick="changeSlide(1)">&#10095;</button>
+</div>
 
-- 3D renderings could immediately be accessed by any dentist and collaborating laboratories.
-- Rendering in the cloud minimizes the hardware dependency, creating flexibility for the end-user.
 
-Fast implementation of new dental applications due to the flexibility of updating directly in the cloud.
-
-<br />
-
-###### Timeline DS Core
-
-From PoC to first clinical application:
-
-{{< full-width >}}
-    {{< svg src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-timeline-ds-core.svg" >}}
-{{< /full-width >}}
-
-{{< quote text="Within 3 weeks, the freiheit.com team showed that a seamless transition between local and cloud rendering was possible. We wanted to show that we could render 3D scans like jawbones in the cloud and stream it in the browser of the user. We wanted to bring video gaming technology to the dental practice." source="Stefan Richter - CTO & Co-Founder - freiheit.com technologies" >}}
-
-### Overview proof of concept
-
-{{< svg src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-overview-proof-of-concept.svg" >}}
-
-<br />
-
-{{< border-box >}}
-
-###### Deep Dive
-
-### 3D rendering in the cloud
-
-The initial proof-of-concept aimed to demonstrate the technical feasibility of cloud-based 3D rendering in a time- and cost-effective manner.
-
-freiheit.com paired with the experts from Dentsply Sirona to migrate a desktop 3D render engine to the cloud.
-
-The render engine used in the PoC version for DS Core lacked headless rendering support, prompting freiheit.com to devise a solution utilizing the render engine within a background X11 desktop environment. Rendered frames were captured as screenshots, compressed, and transmitted via websockets.
-
-For the production version, the focus shifted to balancing user experience with resource optimization. freiheit.com transitioned from the X11 solution to a render engine version that supported background rendering. Additionally, freiheit.com implemented WebRTC streaming for real-time frame delivery and video codec compression for further data reduction. This minimized data transfer and ensured smooth playback, even for complex scenes.
-
-Furthermore, to optimize resource utilization, the team employed GPU timesharing, enabling concurrent rendering sessions on a single GPU. freiheit.com also incorporated intelligent scaling mechanisms that dynamically adjust resource allocation based on anticipated usage patterns.
-
-{{< /border-box >}}
-
-**The team** that worked on the DS Core was a symbiosis of **Fullstack Software Engineers** coming together to create something that had not been done before. They started with a team of 3, later becoming up to 30 engineers. Early on, they decided in agreement with Dentsply Sirona, to use Flutter/Dart as their technology as it is suitable for adaptable development and could be used for a mobile application if that's needed in the future.
-
-{{< quote text="The initial development was mainly managed by freiheit alone until we reached the first Alpha Release of DS Core. We then gradually broadened the teams that worked on that platform." source="Manfred Müller  - VP Software Engineering & UX - Dentsply Sirona" >}}
-
-###### Collaboration in mixed teams
-
-Team Setup DS Core - Dentsply Sirona x freiheit.com
-
-<br />
-
-{{< svg src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-collaboration-in-mixed-teams.svg" >}}
-
-{{< border-box >}}
-
-###### Deep Dive
-
-### A detailed look at Dart/Flutter
-
-Flutter is a framework for the language Dart to build smooth and native-compiled apps for mobile, web and desktop.
-
-Unlike Javascript, Flutter/Dart uses Ahead-of-Time compilation which leads to superior performance and faster loading times. Moreover Flutter uses the CanvasKit for Native-like Rendering that bypasses the DOM, enabling direct manipulation of the canvas for pixel-perfect rendering and smooth animations, achieving a native-like look and feel on the web.
-
-Flutter’s mantra "Everything's a Widget", the tooling support, as well as ability to iterate fast, using hot reload make it a very pleasant developer experience as well.
-
-All of these features, but also the benefit of having the possibility to use a single codebase to create the application for all platforms made Flutter/Dart a perfect match for the project.
-
-{{< /border-box >}}
-
-### Release of the first Early-Market version of DS Core
-
-7 months later
-
-<br />
-
-**The Closed Alpha**, which was already released **after 7 months**, is an extension of the results gained from the Proof of Concept. The early market version not only had the capability to visualize 3D data like the Proof of Concept (PoC) version, but it was also integrated into a platform offering various other features. The most important addition was the extension to store and share patient data directly in the cloud, allowing access to the data from anywhere. It was now also possible to automatically synchronize on-premise XRay scans from the dental practice into DS Core.
-
-{{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-presentation-of-ds-core.jpg" alt="" width="100%" >}}
-{{< /full-width >}}
-
-### Presentation of DS Core at DS World in Las Vegas
-
-10 months later
-
-As the next step within the process, Dentsply Sirona presented **DS Core** at the **Dentsply Sirona World in Las Vegas in 2022** which is their **flagship clinical education event** where all the new dental technology is presented. It is a meeting point for sales and key opinion leaders within the industry. **freiheit.com** accompanied Dentsply Sirona to assure a **frictionless presentation** of the DS Core cloud solution which was the focal point of the entire event.
-
-{{< quote text="One of my highlights was going to Las Vegas to the DS World in 2022. The whole product that we had been working on for over a year just came together. We could see the end-user working with the software and everything just clicked." source="Benedikt Jost - Product Engineering Lead - freiheit.com technologies" >}}
-
-### Release of DS Core as the 1st clinical application at the IDS 23'
-
-6 months later
-
-<br />
-
-###### 1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space
-
-Dentsply Sirona and freiheit.com officially brought the first clinical application to the market and presented it at the IDS in Cologne. This trade fair is of high relevance as it is where both the latest products within the industry are presented and networking with dentists and partners from all over the world takes place.
-
-{{< image-box image="feature-box-image.png" >}}
-
-### The features in DS Core:
-
-- Dentists can upload 2D and 3D X-ray scan files from Dentsply Sirona devices automatically to DS Core. In addition, they can manually upload third-party scans to their library.
-- Digital impressions speed up the scanning process, reducing the chair time by handling full arch scans in under a minute.
-- Each patient data is stored in the cloud in the patient library in accordance with GDPR/HIPAA. All the data can be accessed from anywhere via a web browser, enabling seamless sharing with laboratories and patients.
-- The Communication Canvas connects patients to their dentists and allows for a digital conversation with the experts.
-- The Labflow is the central platform that enables dentists to communicate with the laboratories directly, send out orders with indications and exchange patient records.
-{{< /image-box >}}
-
-{{< quote text="All the devices, applications and workflows that we are building will be connected to DS Core, even some back-end processes. It's the centerpiece that we have, it's what digital dentistry is all about." source="Manfred Müller  - VP Software Engineering & UX - Dentsply Sirona" >}}
-
-{{< full-width >}}
-    {{< image src="/img/chronicle/2024-04-08-case-study-dentsply-sirona-at-the-dentist.jpg" alt="" width="100%" >}}
-{{< /full-width >}}
-
-{{< border-box >}}
-
-###### Deep Dive
-
-### Implementing DS Core in 21 countries
-
-DS Core leverages eight geographically distributed environments hosted across two hyperscalers: Google Cloud Platform (GCP) and Alibaba Cloud (Alibaba). These eight clusters strategically placed across the globe, cater to the specific data residency needs of the 21 countries where DS Core operates (spanning Asia, Europe, North America, South America, and Australia).
-
-To manage the infrastructure complexity of these eight clusters and ensure consistency across them, the infrastructure was utilized as code (IaC) and abstracts cloud provider-specifics. Furthermore, GitOps principles are employed to manage the Git repository containing application manifests, enabling full traceability and version control. The CI/CD scan automates the rollout process across all eight environments.
-
-Despite this multi-cloud, multi-regional complexity, DS Core maintains agility through a robust CI/CD pipeline with integration and smoke testing. Proactive monitoring of both infrastructure and application health is achieved through Datadog, while using a feature toggle API, that empowers management of feature rollouts and mitigates risks. This combination of automation, version control, and monitoring allows for frequent deployments while maintaining a stable and secure infrastructure for DS Core.
-
-{{< /border-box >}}
-
-### Taking a look into the future
-
-**DS Core** is well on its way to becoming the **most important tool** for all dentists, laboratories and patients worldwide. New features are continuously added to the cloud platform and it is already available on 5 continents and in 21 countries. Efficient workflows - all in one platform, accessible from everywhere and at any time. **So dentists can focus on what's most important - the well-being of their patients.**
-
-{{< quote text="For thousands of years humans have crafted dentures and dental implants. Today this process is completely digitized and software-aided. As Alan Turing once said: “We can only see a short distance ahead, but we can see plenty there that needs to be done.” This is only the beginning." source="Stefan Richter - CTO & Co-Founder - freiheit.com technologies" >}}
