@@ -139,7 +139,6 @@
                     </svg>
                 </span>
             </label>
-            {{ if or (.Params.headerHeadline) (.Params.headerSubline) (eq .Params.layout "article") (strings.Contains .Page.RelPermalink "/tags/") }}
             <ul class="hidden xl:flex flex-wrap font-light w-100 gap-6">
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
@@ -167,12 +166,11 @@
                     {{ end }}
                 {{ end }}
             </ul>
-            {{ end }}
         </div>
     </nav>
 
     <!-- header title -->
-    {{ if not (.Params.hideHeaderTitle) }}
+    {{ if and (not (.Params.hideHeaderTitle)) (not (strings.Contains .Page.Path "/chronicle/")) }}
     <div class="relative z-30 fdc-content-layout" id="page-content">
         <section>
             <div class="py-12 md:py-24">

@@ -1,97 +1,57 @@
 {{ define "main" }}
+{{ $sections := slice "news" "showroom" "case-studies" "we-support" "podcast" }}
+{{ $titles := dict "news" "News" "showroom" "Showroom" "case-studies" "Case Studies" "we-support" "We Support" "podcast" "Podcasts" }}
+
+{{ $pages := dict }}
+{{ range $sections }}
+    {{ $pages = merge $pages (dict . slice) }}
+{{ end }}
+
+{{ range .Site.RegularPages.ByDate }}
+    {{ $currentPage := . }}
+    {{ range $sections }}
+        {{ if strings.Contains $currentPage.Path (printf "chronicle/%s" .) }}
+            {{ $sectionPages := index $pages . }}
+            {{ $newSlice := append $sectionPages (slice $currentPage) }}
+            {{ $pages = merge $pages (dict . $newSlice) }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
 <div class="fdc-content-layout">
     <section>
         <div class="md:pr-48 lg:pr-72 xl:pr-80 xxl:pr-96">
             {{ .Content }}
         </div>
-        <h4 class="mt-20" id="news">News</h4>
-        <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-            {{ $filteredPages := slice }}
-            {{ range .Site.RegularPages.ByDate.Reverse }}
-              {{ if strings.Contains .Path "chronicle/news" }}
-                {{ $filteredPages = $filteredPages | append . }}
-              {{ end }}
-            {{ end }}
-            {{ range first 3 $filteredPages }}
-                {{- partial "chronicle-article-teaser.html" . -}}
-            {{ end }}
-        </div>
-        <div class="mt-8 mb-10">
-            <a href="/chronicle/news"
-                class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
-                see more →
-            </a>
-        </div>
 
-        <h4 class="mt-20" id="showroom">Showroom</h4>
-        <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20">
-            {{ $filteredPages := slice }}
-            {{ range .Site.RegularPages.ByDate.Reverse }}
-              {{ if strings.Contains .Path "chronicle/showroom" }}
-                {{ $filteredPages = $filteredPages | append . }}
-              {{ end }}
-            {{ end }}
-            {{ range first 3 $filteredPages }}
-                {{- partial "chronicle-article-teaser.html" . -}}
-            {{ end }}
-        </div>
-        <div class="mt-8 mb-10">
-            <a href="/chronicle/showroom"
-            class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
-            see more →
-            </a>
-        </div>
+        {{ range $sections }}
+            {{ $section := . }}
+            {{ $title := index $titles $section }}
+            {{ $sectionPages := index $pages $section }}
 
-        <h4 class="mt-20" id="case-studies">Case Studies</h4>
-        <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-            {{ $filteredPages := slice }}
-            {{ range .Site.RegularPages.ByDate.Reverse }}
-              {{ if strings.Contains .Path "chronicle/case-studies" }}
-                {{ $filteredPages = $filteredPages | append . }}
-              {{ end }}
+            {{ if ne $section "podcast" }}
+                <h4 class="mt-20" id="{{ $section }}">{{ $title }}</h4>
+                <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-10 lg:gap-20 mt-2">
+                    {{ range first 3 $sectionPages }}
+                        {{- partial "chronicle-article-teaser.html" . -}}
+                    {{ end }}
+                </div>
+                <div class="mt-8 mb-10">
+                    <a href="/chronicle/{{ $section }}"
+                        class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
+                        see more →
+                    </a>
+                </div>
             {{ end }}
-            {{ range first 3 $filteredPages }}
-                {{- partial "chronicle-article-teaser.html" . -}}
-            {{ end }}
-        </div>
-        <div class="mt-8 mb-10">
-            <a href="/chronicle/case-studies"
-                class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
-                see more →
-            </a>
-        </div>
-        <h4 class="mt-20" id="we-support">We Support</h4>
-        <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-            {{ $filteredPages := slice }}
-            {{ range .Site.RegularPages.ByDate.Reverse }}
-              {{ if strings.Contains .Path "chronicle/we-support" }}
-                {{ $filteredPages = $filteredPages | append . }}
-              {{ end }}
-            {{ end }}
-            {{ range first 3 $filteredPages }}
-                {{- partial "chronicle-article-teaser.html" . -}}
-            {{ end }}
-        </div>
-        <div class="mt-8 mb-10">
-            <a href="/chronicle/we-support"
-            class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
-            see more →
-            </a>
-        </div>
+        {{ end }}
     </section>
 </div>
 <div class="w-full mt-10">
     <div class="fdc-content-layout bg-alabaster">
         <section>
             <h4 class="mt-20" id="podcasts">Podcasts</h4>
-            <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap:10 lg:gap-20 lg:gap-20 mt-2">
-                {{ $filteredPages := slice }}
-                {{ range .Site.RegularPages.ByDate.Reverse }}
-                    {{ if strings.Contains .Path "chronicle/podcast" }}
-                        {{ $filteredPages = $filteredPages | append . }}
-                    {{ end }}
-                {{ end }}
-                {{ range first 3 $filteredPages }}
+            <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-10 lg:gap-20 lg:gap-20 mt-2">
+                {{ range first 3 (index $pages "podcast") }}
                     {{- partial "chronicle-podcast-teaser.html" . -}}
                 {{ end }}
             </div>
