@@ -1,9 +1,8 @@
 ---
 title: "Building the fastest beauty mobile shop in the industry for 80+ countries"
-image: /img/things-weve-built/building-the-fastest-beauty-mobile-shop-4.jpg
+image: /img/things-weve-built/building-the-fastest-beauty-mobile-shop-4.webp
 imageAlt: "freiheit.com built webshops for the beauty brands Catrice and essence, it’s used in over 80 countries worldwide."
 date: 2024-07-20
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

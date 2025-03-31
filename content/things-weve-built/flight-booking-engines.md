@@ -1,10 +1,9 @@
 ---
 title: "Flight Booking Engines"
-image: /img/things-weve-built/flight-booking-engines_2.jpg.webp
+image: /img/things-weve-built/flight-booking-engines_2.webp
 imageAlt: "freiheit.com built a travel and booking system for Amadeus and Sabre, it connects computer reservation system to the internet."
 date: 2024-05-13
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

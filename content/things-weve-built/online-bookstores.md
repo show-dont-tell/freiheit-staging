@@ -1,10 +1,9 @@
 ---
 title: "Online Bookstores"
-image: /img/things-weve-built/online-bookstores_2.jpg.webp
+image: /img/things-weve-built/online-bookstores_2.webp
 imageAlt: "freiheit.com built many webshops for the book industry that manage more than twenty million products."
 date: 2024-05-12
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

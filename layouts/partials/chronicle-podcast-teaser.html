@@ -1,11 +1,11 @@
 {{ $taxonomy := "tags" }}
 {{ $bgColor := "bg-yellow" }}
 {{ $bgColorImage := "bg-pale-green" }}
-{{ $bgImage := "header_pale-green.png.webp" }}
+{{ $bgImage := "header_pale-green.webp" }}
 {{ if eq .Params.Group "Why Agile Is Not Enough" }}
     {{ $bgColor = "bg-pink" }}
     {{ $bgColorImage = "bg-alabaster" }}
-    {{ $bgImage = "header_alabaster.png.webp" }}
+    {{ $bgImage = "header_alabaster.webp" }}
 {{ end }}
 <a href='{{ (printf "%s%s" "https://www.youtube.com/watch?v=" .Params.youtube) }}' target="_blank" class="no-underline">
 <div class="h-80 overflow-hidden flex flex-col">

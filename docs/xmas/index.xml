@@ -58,9 +58,9 @@
  width: 100%;
  height: calc(var(--headerHeight) - 150px);
  background-image:
- url('/img/xmas/snow1.png'),
- url('/img/xmas/snow2.png'),
- url('/img/xmas/snow3.png');
+ url('/img/xmas/snow1.webp'),
+ url('/img/xmas/snow2.webp'),
+ url('/img/xmas/snow3.webp');
  animation: snow 25s linear infinite;
  }
 
@@ -170,7 +170,7 @@
  autoplay
  playsinline
  preload="auto"
- poster="/video/xmas2024_poster.jpg"
+ poster="/video/xmas2024_poster.webp"
  class="w-full h-full absolute z-10 top-0 left-0 object-cover"
  id="xmasVideo"
  >

@@ -5,7 +5,6 @@
 
 {{ $js := resources.Get "js/main.js" }}
 {{ $mainJs := $js | js.Build | resources.Fingerprint }}
-
 <head>
     {{ if .Site.Params.GoogleTagManager }}
     <!-- Google Tag Manager (also loads analytics) -->

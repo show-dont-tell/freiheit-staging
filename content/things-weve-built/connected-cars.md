@@ -1,10 +1,9 @@
 ---
 title: "Connected Cars & Companion Apps"
-image: /img/things-weve-built/connected-cars_2.jpg.webp
+image: /img/things-weve-built/connected-cars_2.webp
 imageAlt: "freiheit.com built cloud back-ends, head unit integration and core apps for multiple car manufacturers."
 date: 2024-05-17
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 

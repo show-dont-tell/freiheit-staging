@@ -1,10 +1,9 @@
 ---
 title: "Global B2B Retail Platform"
-image: /img/things-weve-built/global-b2b-retail-platform_2.jpg.webp
+image: /img/things-weve-built/global-b2b-retail-platform_2.webp
 imageAlt: "freiheit.com built a large-scale webshop for METRO, it’s used in over 20 countries and generates turnover of over 4 billion euros. "
 date: 2024-05-21
 draft: false
-tags: [ case-studies ]
 hideHeaderTitle: true
 ---
 
