@@ -19,7 +19,7 @@ We deliver all our projects on time, on budget, on target and on quality.
 
 To be successful you need to put the right people into the right seats. And that starts with the right hiring process.
 
-Stefan Richter talked to Tobias Schlottke in the αlphalist.cto podcast to discuss how we at freiheit.com have established a high bar hiring process.
+Stefan Richter talked to Tobias Schlottke in the αlphalist.cto podcast to discuss how we at freiheit.com have established a high bar hiring process. ?
 
 [Listen to the podcast on Spotify](https://open.spotify.com/episode/7Bujg4I0Js1DJeGLBiYMVL?si=B33VpalIS1u02seYOAExfQ)
 
