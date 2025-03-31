@@ -9,6 +9,7 @@ vimeo: null
 youtube: null
 hideHeaderTitle: true
 download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
+draft: true
 ---
 
 **Building a customer individual e-commerce platform**
