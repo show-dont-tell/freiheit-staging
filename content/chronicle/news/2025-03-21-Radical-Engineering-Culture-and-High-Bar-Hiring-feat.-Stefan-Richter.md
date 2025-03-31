@@ -22,4 +22,4 @@ To be successful you need to put the right people into the right seats. And that
 Stefan Richter talked to Tobias Schlottke in the αlphalist.cto podcast to discuss how we at freiheit.com have established a high bar hiring process. 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Bujg4I0Js1DJeGLBiYMVL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
--->
+
