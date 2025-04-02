@@ -10,7 +10,7 @@ vimeo: null
 youtube: null
 hideHeaderTitle: true
 download: null
-draft: true
+
 ---
 
 ### How Tchibo's "Themenwelten" became scalable 
@@ -151,7 +151,16 @@ freiheit.com also built the PDP to be able to process the data source for seals 
 freiheit.com enabled Tchibo’s webshop to manage and process product data from different sources. Customers were now able to see all options and product information at one glance. This improved the customer experience and ensured effortless purchase decision making. All connected workflows for webshop management systems, maintenance and processes were simplified, which made working with the system and content management more productive and efficient.  
 </br>
 
-
+{{< grid-images cols="2" style="gap: 20px; column-gap: 20px;">}}
+  <!-- First column with one image -->
+  {{< image src="/img/chronicle/case-studies/250402-case-study-tchibo-part01-image04.webp" alt="freiheit.com engineers enabled Tchibo's webshop to display product size and color options" >}}
+  
+  <!-- Second column with two images stacked vertically -->
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    {{< image src="/img/chronicle/case-studies/250402-case-study-tchibo-part01-image05.webp" alt="freiheit.com enabled Tchibo's webshop to manage data from different sources like quality seals" >}}
+    {{< image src="/img/chronicle/case-studies/250402-case-study-tchibo-part01-image06.webp" alt="freiheit.com made quality seals visile on Tchibo's webshop">}}
+  </div>
+{{< /grid-images >}}
 </br>
 
 ### The first Go-Live
