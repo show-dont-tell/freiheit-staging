@@ -4,10 +4,10 @@ headline1: How METRO's E-Commerce Platform went live worldwide
 headline2: A global B2B Retail solution built by freiheit.com
 teaser:
 lead_image: null
-image: /img/chronicle/250325-case-study-metro-image-09.webp 
+image: /img/chronicle/case-studies/250325-case-study-metro-image-09.webp 
 vimeo: null
 youtube: null
-tags: [ case-studies ]
+tags:
 hideHeaderTitle: true
 download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
 ---
@@ -49,7 +49,7 @@ METRO AG, commonly known as METRO, is a global wholesale company headquartered i
 
 Today, METRO focuses on its core wholesale and digital business solutions, particularly catering to the needs of the hospitality sector like HoReCa (Hotel, Restaurants and Catering) as well as their Trader Customers (kiosks and stores). The company offers their customers a combination of physical outlets and digital platforms. Through these initiatives, METRO continues to adapt to market demands, offering efficient, digital-focused solutions for modern businesses.
 
-    {{< image src="/img/chronicle/250325-case-study-metro-image-05.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-05.webp" alt="" >}}
 
 
 ###### About freiheit.com
@@ -60,7 +60,7 @@ They take on mission impossible projects and build custom large-scale software p
 After showing METRO in 2014 how they could build an efficient e-commerce platform together that would revolutionize their business model, both companies started a collaboration that has been lasting for over a decade.
 
 This partnership shapes METRO's future as a German B2B retail giant while centralizing and diversifying their offer to their over 21 million professional customers worldwide.
-{{< image src="/img/chronicle/250325-case-study-metro-image-02.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-02.webp" alt="" >}}
 
 <br />
 
@@ -117,7 +117,7 @@ In Europe, particularly in Germany and France, demand is driven by high-quality 
 
 Providing this unique service on a large scale in 30 countries requires an incredibly reliable and powerful infrastructure.
 
-{{< image src="/img/chronicle/250325-case-study-metro-image-07.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-07.webp" alt="" >}}
 
 ###### The Architecture
 
@@ -144,7 +144,7 @@ To serve the different customer profiles, METRO developed two profiles that repr
 Here's a detailed look into the two profiles:
 
 {{< grid-images cols="2">}}
-{{< image src="/img/chronicle/250325-case-study-metro-image-04.webp" alt="" >}} {{< image src="/img/chronicle/250325-case-study-metro-image-03.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-04.webp" alt="" >}} {{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-03.webp" alt="" >}}
 {{< /grid-images >}}
 
 Both the assortment and the user experience of METRO's webshop had to cater to both profiles.
@@ -160,7 +160,7 @@ In France, the marketplace gained popularity due to the amount of small, regiona
 
 From June of 2018 to August of 2019 even more countries launched, rolling out the e-commerce platform in Russia, Romania, the Netherlands, Belgium, Kazakhstan, Hungary, China, Bulgaria, Croatia, Moldova, and finally Serbia in August of 2019.
 
-{{< image src="/img/chronicle/250325-case-study-metro-image-08.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-08.webp" alt="" >}}
 
 ### The collaboration that led to success
 
@@ -212,8 +212,31 @@ METRO took these basic engineering principles, and with the support of freiheit.
 
 {{< quote text="We went away from seven hierarchies into two hierarchies which have people management responsibilities. So we went from a direct way of leading into an indirect way of leading - giving a high extent of responsibilities into the teams. Even though that comes with its own challenges, it's so much more competence and commitment driven." source="Sven Lipowski - Business Process Director Customer METRO 2018" >}}
 
-
 But that is not all. freiheit.com uses data and metrics to systematically lead software projects to success. Through data-driven Software Engineering, they significantly increase the delivery reliability of large-scale software projects.
 All of freiheit.com's teams use Revolution, a project management tool built by the company, to track their performance and guarantee full transparency internally but also to their customers. In collaboration with METRO, it was actually the first time this tool was used, as freiheit.com had then just recently released it.
 
-{{< image src="/img/chronicle/250325-case-study-metro-image-01.webp" alt="" >}}>}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-01.webp" alt="" >}}
+
+To track the status of the project and the individual team, freiheit.com uses over 40 different metrics. The focus amongst these is on key metrics like:
+- **Planning Reliability:** This metric describes the percentage of stories that were planned into an iteration at the moment the iteration was started and that were completely finished before the iteration was closed.
+- **Estimate Deviation:** This metric describes how close the effort estimates were compared to the actual effort needed.
+- **Development Ratio:** This metric describes how much of the time invested was spent purely on development versus how much time was spent on non-development work. 
+
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-06.webp" alt="" >}}
+
+The data and metrics visible in Revolution do not directly indicate what is wrong and what needs to be fixed within the code. They give an indication and can provide warnings to the teams if certain thresholds are reached. It is up to the engineers to interpret them and take the correct action to improve their metrics. The engineers at freiheit.com learn how to find and remove friction from the first day they join. The possibility to monitor the metrics over time shows the teams the effectiveness of their derived actions.
+
+{{< quote text="Working together with the METRO team was a special time for me. Metro wanted to bring change and step into the future — and making that happen together with them was something I will never forget." source="Katrin Stamme - Principal Software Engineer - freiheit.com" >}}
+
+### The final step 
+
+##### A future-proof e-commerce platform
+
+Today, METRO has a future-proof system that they can constantly expand and scale. They now own and maintain the entirety of the code that has been running successfully for 8 years. 
+
+This code gives their customers an individualized shopping experience. This code enables METRO employees to manage and adjust every order within one system. This code generates average sales of 10 thousand euros per minute across all countries.
+
+This makes METRO globally available, scalable and ready for the future. 
+
+
+
