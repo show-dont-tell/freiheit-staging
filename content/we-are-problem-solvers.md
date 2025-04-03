@@ -5,7 +5,7 @@ draft: false
 weight: 50
 ---
 
-### We are problem solvers.
+## We are problem solvers.
 
 We love taking on difficult and ambitious missions and solving challenging problems. We believe that nothing is impossible.
 We combine a growth mindset with long-term thinking and a can-do won’t stop attitude.

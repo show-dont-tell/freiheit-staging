@@ -4,7 +4,7 @@
         {{ range . }}
         <div class="fdc-content-layout">
             <section>
-                {{ $class := "md:pr-48 lg:pr-72 xl:pr-80 xxl:pr-96" }}
+                {{ $class := "" }}
                 {{ partial "content-margin" . }}
             </section>
         </div>
@@ -38,7 +38,7 @@
             locationList.innerHTML = "";
 
             data.forEach((location) => {
-                const locationItem = document.createElement("h4");
+                const locationItem = document.createElement("h3");
                 locationItem.textContent = 'In ' + location.title;
                 locationList.appendChild(locationItem);
 

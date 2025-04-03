@@ -4,7 +4,7 @@ date: 2022-02-04
 draft: false
 weight: 20
 ---
-### We are efficient and successful.
+## We are efficient and successful.
 
 Our teams work data-driven to constantly optimize their own productivity by removing friction from their work.
 

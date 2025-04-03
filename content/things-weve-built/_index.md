@@ -28,4 +28,4 @@ aliases:
   - /things-weve-build/
 ---
 
-### In the last {{< years_since_founding >}}+ years, we have built software for any type of business model you can imagine.
+## In the last {{< years_since_founding >}}+ years, we have built software for any type of business model you can imagine.

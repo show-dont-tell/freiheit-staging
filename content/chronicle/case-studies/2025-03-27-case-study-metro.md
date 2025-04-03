@@ -4,12 +4,13 @@ headline1: How METRO's E-Commerce Platform went live worldwide
 headline2: A global B2B Retail solution built by freiheit.com
 teaser:
 lead_image: null
-image: /img/chronicle/case-studies/250325-case-study-metro-image-09.webp 
+image: /img/chronicle/case-studies/250325-case-study-metro-image-09.webp
 vimeo: null
 youtube: null
 tags:
 hideHeaderTitle: true
 download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
+draft: true
 ---
 
 **Building a customer individual e-commerce platform**
@@ -43,7 +44,7 @@ Individualized. All in one place. Scalable and future-proof.
 
 ###### About METRO
 
-METRO AG, commonly known as METRO, is a global wholesale company headquartered in Düsseldorf, Germany. It was founded in 1964 by Ernst Schmidt and Wilhelm Schmidt-Ruthenbeck, starting off as a cash-and-carry business, which is a retail business model in which customers select, pay for and take away (carry) the goods themselves. This was aimed at catering to professional customers such as restaurants, hotels, and independent retailers. Over the decades, METRO has expanded significantly, establishing a presence in over 30 countries and employing over 90.000 people worldwide. 
+METRO AG, commonly known as METRO, is a global wholesale company headquartered in Düsseldorf, Germany. It was founded in 1964 by Ernst Schmidt and Wilhelm Schmidt-Ruthenbeck, starting off as a cash-and-carry business, which is a retail business model in which customers select, pay for and take away (carry) the goods themselves. This was aimed at catering to professional customers such as restaurants, hotels, and independent retailers. Over the decades, METRO has expanded significantly, establishing a presence in over 30 countries and employing over 90.000 people worldwide.
 
 **A true German success story.**
 
@@ -220,7 +221,7 @@ All of freiheit.com's teams use Revolution, a project management tool built by t
 To track the status of the project and the individual team, freiheit.com uses over 40 different metrics. The focus amongst these is on key metrics like:
 - **Planning Reliability:** This metric describes the percentage of stories that were planned into an iteration at the moment the iteration was started and that were completely finished before the iteration was closed.
 - **Estimate Deviation:** This metric describes how close the effort estimates were compared to the actual effort needed.
-- **Development Ratio:** This metric describes how much of the time invested was spent purely on development versus how much time was spent on non-development work. 
+- **Development Ratio:** This metric describes how much of the time invested was spent purely on development versus how much time was spent on non-development work.
 
 {{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-06.webp" alt="" >}}
 
@@ -228,14 +229,14 @@ The data and metrics visible in Revolution do not directly indicate what is wron
 
 {{< quote text="Working together with the METRO team was a special time for me. Metro wanted to bring change and step into the future — and making that happen together with them was something I will never forget." source="Katrin Stamme - Principal Software Engineer - freiheit.com" >}}
 
-### The final step 
+### The final step
 
 ##### A future-proof e-commerce platform
 
-Today, METRO has a future-proof system that they can constantly expand and scale. They now own and maintain the entirety of the code that has been running successfully for 8 years. 
+Today, METRO has a future-proof system that they can constantly expand and scale. They now own and maintain the entirety of the code that has been running successfully for 8 years.
 
 This code gives their customers an individualized shopping experience. This code enables METRO employees to manage and adjust every order within one system. This code generates average sales of 10 thousand euros per minute across all countries.
 
-This makes METRO globally available, scalable and ready for the future. 
+This makes METRO globally available, scalable and ready for the future.
 
 

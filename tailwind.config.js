@@ -83,27 +83,31 @@ module.exports = {
         }],
         // heading text
         'head-xs': ['16px', {
-          lineHeight: '17.6px',
+          lineHeight: '1.1em',
           fontFamily: 'Neue-Machina',
         }],
         'head-sm': ['20px', {
-          lineHeight: '22px',
+          lineHeight: '1.1em',
           fontFamily: 'Neue-Machina',
         }],
         'head-md': ['28px', {
-          lineHeight: '30.8px',
+          lineHeight: '1.1em',
           fontFamily: 'Neue-Machina',
         }],
         'head-lg': ['36px', {
-          lineHeight: '39.6px',
+          lineHeight: '1.1em',
           fontFamily: 'Neue-Machina',
         }],
-        'head-xl': ['64px', {
-          lineHeight: '70.4px',
+        'head-xl': ['54px', {
+          lineHeight: '1.1em',
+          fontFamily: 'Neue-Machina',
+        }],
+        'head-homepage': ['64px', {
+          lineHeight: '1.1em',
           fontFamily: 'Neue-Machina',
         }],
         'head-xxl': ['84px', {
-          lineHeight: '92.4px',
+          lineHeight: '1.1em',
           fontFamily: 'Neue-Machina',
         }],
         'numbers-xs': ['4rem', {

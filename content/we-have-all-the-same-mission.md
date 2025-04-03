@@ -5,7 +5,7 @@ draft: false
 weight: 60
 ---
 
-### We all have the same mission.
+## We all have the same mission.
 
 It all started in a kitchen in 1999 with our two founders. Now we are 250+ people in Hamburg and Lisbon.
 

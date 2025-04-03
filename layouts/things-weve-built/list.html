@@ -15,7 +15,7 @@
                 <div class="mb-12 md:mb-8 lg:mb-16 {{ $colorClass }}">
                     <img src="{{ .Params.Image }}" class="w-full" alt="{{ .Params.ImageAlt }}"/>
                     <div class="p-5">
-                        <h5 class="mt-0 text-body-xl break-words">{{ .Title }}</h5>
+                        <h4 class="mt-0 break-words">{{ .Title }}</h4>
                         {{ .Content | replaceRE "<p>" "<p class=\"text-body-lg break-words\">" | safeHTML }}
                     </div>
                 </div>

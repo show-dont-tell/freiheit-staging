@@ -12,19 +12,19 @@
     <source src="/video/homepage_video_2025.mp4" type="video/mp4" media="screen and (min-width: 855px)">
     <source src="/video/homepage_video_2025_mobile.mp4" type="video/mp4">
   </video>
-  <div class="relative w-full h-full z-30 flex flex-col items-center justify-end pb-10 md:pb-32 text-white md:px-8 md:px-24 text-center">
+  <div class="relative w-full h-full z-30 flex flex-col items-center justify-end pb-16 md:pb-32 text-white md:px-8 md:px-24 text-center">
     <section class="flex flex-col items-center max-w-screen-3xl">
       <!--
       <div class="hidden xl:block"><img src="/img/symbol.svg" alt="freiheit logo" class="mb-8 h-16 w-16" /></div>
       -->
       {{ if isset .Params "title" }}
-        <h1 class="text-white font-serif text-head-lg lg:text-head-xl px-8">{{ .Get "title" }} </h1>
+        <h1 class="text-white font-serif text-head-lg lg:text-head-homepage px-8">{{ .Get "title" }} </h1>
       {{ end }}
       {{ if isset .Params "subtitle" }}
         <p class="mt-4 text-white font-serif text-head-md md:text-head-lg">{{ .Get "subtitle" }} </p>
       {{ end }}
       <div class="mt-4 md:mt-8">
-        <a href="#we-make-the-impossible-possible">
+        <a href="#we-are-pioneers">
           <img src="/img/blank.webp" alt="scroll down" width="1" height="1"/>
           <div class="mouse_scroll">
             <div class="homepage-video__arrows">
