@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-### Two hubs, one community
+## Two hubs, one community
 
 freiheit.com was founded in Hamburg, but it has grown far beyond that. In 2018 we opened our second engineering hub in Lisbon.
 

@@ -1,4 +1,4 @@
-{{ $class := "md:pr-48 lg:pr-72 xl:pr-80 xxl:pr-96" }}
+{{ $class := "" }}
 {{ .Content |
   replaceRE "<p" (printf "<p class=\"%s\"" $class) |
 replaceRE "<h2" (printf "<h2 class=\"%s\"" $class) |

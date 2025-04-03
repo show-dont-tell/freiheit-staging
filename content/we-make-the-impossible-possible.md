@@ -4,8 +4,7 @@ date: 2022-02-04
 draft: false
 weight: 10
 ---
-
-### We make the impossible possible.
+## We make the impossible possible.
 
 We are a software engineering company for engineers by engineers.
 For over a quarter of a century we have been building large-scale software systems that are business-critical to our clients.

@@ -5,7 +5,7 @@ draft: false
 weight: 2
 ---
 
-### Culture nights
+## Culture nights
 
 Because there are so many nations present within the freiheit.com community, we host culture nights.
 

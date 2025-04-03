@@ -14,7 +14,7 @@ menu:
     weight: 5
 ---
 
-### Everything in one place.
+## Everything in one place.
 
 We are a software engineering organization committed to sharing our knowledge and best practices. As engineers, it's important for us to make our knowledge accessible to everyone. Not just within our community - but also with the rest of the world.
 

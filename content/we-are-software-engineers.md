@@ -5,7 +5,7 @@ draft: false
 weight: 30
 ---
 
-### We are software engineers.
+## We are software engineers.
 
 We see software development as an engineering discipline. We focus on simplicity, lean and iterative engineering – and fast delivery processes since our foundation and long before “agile” became a buzzword.
 
