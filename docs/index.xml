@@ -568,7 +568,7 @@ Portugal&lt;/p></description></item><item><title>Episode three</title><link>http
  &lt;source src="https://freiheit.com/video/homepage_video_2025.mp4" type="video/mp4" media="screen and (min-width: 855px)">
  &lt;source src="https://freiheit.com/video/homepage_video_2025_mobile.mp4" type="video/mp4">
  &lt;/video>
- &lt;div class="relative w-full h-full z-30 flex flex-col items-center justify-end pb-16 md:pb-32 text-white md:px-8 md:px-24 text-center">
+ &lt;div class="relative w-full h-full z-30 flex flex-col items-center justify-end pb-10 md:pb-32 text-white md:px-8 md:px-24 text-center">
  &lt;section class="flex flex-col items-center max-w-screen-3xl">
  
  
@@ -576,7 +576,7 @@ Portugal&lt;/p></description></item><item><title>Episode three</title><link>http
  
  
  &lt;div class="mt-4 md:mt-8">
- &lt;a href="#we-are-pioneers">
+ &lt;a href="#we-make-the-impossible-possible">
  &lt;img src="https://freiheit.com/img/blank.webp" alt="scroll down" width="1" height="1"/>
  &lt;div class="mouse_scroll">
  &lt;div class="homepage-video__arrows">

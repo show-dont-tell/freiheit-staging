@@ -1,5 +1,34 @@
 # freiheit.com website generated with HUGO
 
+Currently we have three systems:
+
+## Swervers
+
+### Live
+
+- https://freiheit.com
+- https://github.com/freiheit-com/freiheit-com.github.io
+
+### Staging (currently CMS test)
+
+This will soon be the live server and currently is connected to the new CMS tool
+
+- https://freiheit-staging.ploigt.de
+- https://github.com/show-dont-tell/freiheit-staging
+
+### Old staging
+
+This is for bigger updates, that Vahan and I use to not to interfer with live updates
+
+- https://freiheit-com-staging.ploigt.de
+- https://github.com/mploigt/freiheit/
+
+## Editing Content
+
+It is best done with help of the [customized CMS tool](https://github.com/mploigt/GitNote)
+- Install prerequisites: https://github.com/mploigt/GitNote/releases/download/v1.2.6/GitNoteSetup.zip
+- Install Application: https://github.com/mploigt/GitNote/releases
+
 ## Local development
 
 ### installing
@@ -28,9 +57,9 @@ Build the site with the command
 
     $ hugo -e staging
 
-The files will be created inside the `docs/staging` folder of the life site.
+The files will be created inside the `docs` folder.
 
-Just build the files and commit them to the master branch to deploy.
+Just build the files and commit them to the master branch of the staging server to deploy.
 
 The staging page can be accessed on <https://mploigt.github.io/freiheit>
 
