@@ -1,5 +1,6 @@
 .homepage-video {
-  height: calc(100vh - 80px);
+  height: calc(100dvw * 9/16);
+  max-height: 600px;
   &__arrows {
     &:hover {
       .homepage-video__arrow {
@@ -8,7 +9,7 @@
     }
   }
   &__arrow {
-    @apply block w-4 h-4 border-r-4 border-b-4 border-yellow mx-2 mt-1 transform rotate-45;
+    @apply hidden md:block w-4 h-4 border-r-4 border-b-4 border-yellow mx-2 mt-1 transform rotate-45;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-name: arrow-scroll;
