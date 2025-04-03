@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Join us on freiheit.com</title><link>https://freiheit.com/join-us/</link><description>Recent content in Join us on freiheit.com</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://freiheit.com/join-us/index.xml" rel="self" type="application/rss+xml"/><item><title>We are a global team</title><link>https://freiheit.com/join-us/our-community/</link><pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate><guid>https://freiheit.com/join-us/our-community/</guid><description>&lt;h3 id="we-are-a-global-team">We are a global team.&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Join us on freiheit.com</title><link>https://freiheit.com/join-us/</link><description>Recent content in Join us on freiheit.com</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://freiheit.com/join-us/index.xml" rel="self" type="application/rss+xml"/><item><title>We are a global team</title><link>https://freiheit.com/join-us/our-community/</link><pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate><guid>https://freiheit.com/join-us/our-community/</guid><description>&lt;h2 id="we-are-a-global-team">We are a global team.&lt;/h2>
 &lt;p>In our Engineering Hubs in Hamburg and Lisbon you will meet people from all over the world.&lt;/p>
 &lt;p>When you ask anybody why they are working here, it is pretty likely that people will say “because of the people” and “because I have never learnt so much in my life”.&lt;/p>
 &lt;div class="
@@ -12,9 +12,7 @@
  gap-8
  md:gap-12
  pt-4
- pb-8
  md:pt-12
- md:pb-16
 ">
  
  
@@ -23,7 +21,7 @@
  &lt;img
  width="563"
  height="450"
- src="https://freiheit.com/img/join-the-team/our-community-1.jpg.webp"
+ src="https://freiheit.com/img/join-the-team/our-community-1.webp"
  alt="freiheit.com members learn from each other."
  />
  
