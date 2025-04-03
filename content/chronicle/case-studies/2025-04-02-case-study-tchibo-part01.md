@@ -151,12 +151,12 @@ freiheit.com also built the PDP to be able to process the data source for seals 
 freiheit.com enabled Tchibo’s webshop to manage and process product data from different sources. Customers were now able to see all options and product information at one glance. This improved the customer experience and ensured effortless purchase decision making. All connected workflows for webshop management systems, maintenance and processes were simplified, which made working with the system and content management more productive and efficient.  
 </br>
 
-{{< grid-images cols="2" style="gap: 20px; column-gap: 20px;">}}
+{{< grid-images cols="2" style="gap: 20px; column-gap: 10px;">}}
   <!-- First column with one image -->
-  {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-01.2.webp"  alt="freiheit.com engineers enabled Tchibo's webshop to display product size and color options" >}}
+  {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-01.4.webp"  alt="freiheit.com engineers enabled Tchibo's webshop to display product size and color options" >}}
   
   <!-- Second column with two images stacked vertically -->
-  <div style="display: flex; flex-direction: column; gap: 30px;">
+  <div style="display: flex; flex-direction: column; gap: 21px;">
     {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-03.webp" alt="freiheit.com enabled Tchibo's webshop to manage data from different sources like quality seals" >}}
     {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-02.webp" alt="freiheit.com made quality seals visile on Tchibo's webshop">}}
   </div>
