@@ -9,7 +9,7 @@ imageAltText: freiheit.com engineering teams build Tchibo's webshop from scratch
 vimeo: null
 youtube: null
 hideHeaderTitle: true
-download: null
+download: /downloads/250404-case-study-tchibo.pdf
 draft: true
 ---
 
