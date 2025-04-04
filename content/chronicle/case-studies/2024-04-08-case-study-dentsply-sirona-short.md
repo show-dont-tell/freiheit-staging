@@ -9,6 +9,7 @@ imageAltText: freiheit.com built a platform for Dentsply Sirona, where dentists 
 vimeo: null
 youtube: null
 hideHeaderTitle: true
+draft: true
 ---
 
 **Dentsply Sirona had a vision.** To make the workflow of dental practices around the world efficient, fast and seamless. To give dentists time to focus on what’s really important, the well-being of the patients.
