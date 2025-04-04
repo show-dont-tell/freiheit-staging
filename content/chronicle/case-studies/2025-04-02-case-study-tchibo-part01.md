@@ -153,12 +153,12 @@ freiheit.com enabled Tchibo’s webshop to manage and process product data from 
 
 {{< grid-images cols="2" style="gap: 20px; column-gap: 10px;">}}
   <!-- First column with one image -->
-  {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-01.4.webp"  alt="freiheit.com engineers enabled Tchibo's webshop to display product size and color options" >}}
+  {{< image src="/img/chronicle/case-studies/250403-displaying-all-product-details-website-lime-01.4.webp"  alt="freiheit.com engineers enabled Tchibo's webshop to display product size and color options" >}}
   
   <!-- Second column with two images stacked vertically -->
   <div style="display: flex; flex-direction: column; gap: 21px;">
-    {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-03.webp" alt="freiheit.com enabled Tchibo's webshop to manage data from different sources like quality seals" >}}
-    {{< image src="/img/chronicle/case-studies/displaying-all-product-details-website-lime-02.webp" alt="freiheit.com made quality seals visile on Tchibo's webshop">}}
+    {{< image src="/img/chronicle/case-studies/250403-displaying-all-product-details-website-lime-03.webp" alt="freiheit.com enabled Tchibo's webshop to manage data from different sources like quality seals" >}}
+    {{< image src="/img/chronicle/case-studies/250403-displaying-all-product-details-website-lime-02.webp" alt="freiheit.com made quality seals visile on Tchibo's webshop">}}
   </div>
 {{< /grid-images >}}
 </br>
