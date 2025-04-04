@@ -93,6 +93,12 @@ h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
     @apply mt-0;
   }
 }
+
+.chips {
+  .h1, .h2, .h3, .h4, .h5 {
+    margin: 0 !important
+  }
+}
 a {
   @apply underline;
 }
