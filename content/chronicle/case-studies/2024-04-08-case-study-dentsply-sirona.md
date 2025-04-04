@@ -9,7 +9,6 @@ vimeo: null
 youtube: vyCRTlugecM
 hideHeaderTitle: true
 download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
-draft: true
 ---
 {{< youtube id="vyCRTlugecM" img="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-title-image.webp" >}}
 
