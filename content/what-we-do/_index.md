@@ -1,7 +1,7 @@
 ---
 pageTitle: What we do | freiheit.com
 title: "What we do"
-description: "We’ve successfully delivered hundreds of large-scale software projects. Each system is business-critical to our clients, with millions of users every day."
+description: "We've successfully delivered hundreds of large-scale software projects. Each system is business-critical to our clients, with millions of users every day."
 date: 2021-04-24T15:55:09+02:00
 draft: false
 headerHeadline: What we do
@@ -27,15 +27,21 @@ People call us especially for their hardest challenges, like projects that faile
 
 We build custom large-scale software platforms that are business critical and of high strategic relevance to our clients.
 
-Of course we can also do “normal custom software projects”.
+Of course we can also do "normal custom software projects".
 
 But actually mission impossible missions is what we love to take over the most!
 
 To give you some ideas of what we can do:
 
-{{< chips background="bg-pale-green" text="text-white h4" items="['Replacement of outdated Legacy Systems', 'Creating new or extending existing business models', 'Building software to make your business processes more efficient', 'Big data development and data warehouse to cloud migration', 'We work for the Who’s Who of European business and industry']" asList="true">}}
+{{< chips asList="true" >}}
+  {{< chip text="Replacement of outdated Legacy Systems" link="#replacement-of-outdated-legacy-systems" backgroundClass="bg-pale-green" textClass="text-white" >}}
+  {{< chip text="Creating new or extending existing business models" link="#creating-new-or-extending-existing-business-models" backgroundClass="bg-pale-green" textClass="text-white" >}}
+  {{< chip text="Building software to make your business processes more efficient" link="#software-to-make-your-business-processes-more-efficient" backgroundClass="bg-pale-green" textClass="text-white" >}}
+  {{< chip text="Big data development and data warehouse to cloud migration" link="#big-data-development-and-data-warehouse-to-cloud-migrations" backgroundClass="bg-pale-green" textClass="text-white" >}}
+  {{< chip text="We work for the Who's Who of European business and industry" link="#for-the-whos-who-of-european-business-and-industry" backgroundClass="bg-pale-green" textClass="text-white" >}}
+{{< /chips >}}
 
-Let’s dig into the details.
+Let's dig into the details.
 
 ## Replacement of outdated Legacy Systems
 
@@ -66,7 +72,17 @@ We use Data Engineering, Data Science and Machine Learning to build large-scale 
 
 From e-commerce to connected cars. We work for all industries:
 
-{{< chips background="transparent border-2" text="black h4" items="['Retail', 'Automotive', 'Healthcare', 'Industrial and Energy', 'Financial services', 'Logistics', 'E-commerce', 'Media and Publishing', 'Manufacturing']" >}}
+{{< chips >}}
+  {{< chip text="Retail" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Automotive" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Healthcare" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Industrial and Energy" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Financial services" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Logistics" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="E-commerce" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Media and Publishing" backgroundClass="transparent border-2" textClass="black" >}}
+  {{< chip text="Manufacturing" backgroundClass="transparent border-2" textClass="black" >}}
+{{< /chips >}}
 
 Nothing is too difficult for us, actually we love making complicated things simple.
 

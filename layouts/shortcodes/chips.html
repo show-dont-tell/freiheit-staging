@@ -1,14 +1,4 @@
-{{ $itemsStr := .Get "items" }}
 {{ $asList := .Get "asList" | default false }}
-{{ $background := .Get "background" | default "bg-white" }}
-{{ $text := .Get "text" | default "black" }}
-
-{{ $items := split (trim $itemsStr "[]") "," }}
-
 <div class="chips flex flex-wrap {{ if $asList }}flex-col items-start{{ end }} gap-6 mt-6 mb-6">
-    {{ range $items }}
-    <div class="inline-flex px-6 pt-2 pb-1 rounded-full font-sans {{ $background }} {{ $text }}">
-        {{ trim . "' " }}
-    </div>
-    {{ end }}
+    {{ .Inner | safeHTML }}
 </div>
