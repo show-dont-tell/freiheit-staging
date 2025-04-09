@@ -100,7 +100,7 @@ For over a quarter of a century, they have been working for the “Who's Who” 
 
 <br />
 
-**It all started in 2021** with a small Proof of Concept organized by Dentsply Sirona. The company had embarked on a journey to find the right partner to create a cloud solution for dentists. The collaboration they were looking for would be long-term and in close partnership with the company.
+It all started in 2021 with a small Proof of Concept organized by Dentsply Sirona. The company had embarked on a journey to find the right partner to create a cloud solution for dentists. The collaboration they were looking for would be long-term and in close partnership with the company.
 
 Google recommended freiheit.com to Dentsply Sirona during the PoC. freiheit.com joined this process only 3 weeks before final submission. This PoC included three different challenges:
 
