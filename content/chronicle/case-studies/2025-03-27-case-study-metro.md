@@ -41,7 +41,7 @@ Individualized. All in one place. Scalable and future-proof.
 
 <br />
 
-###### About METRO
+#### About METRO
 
 METRO AG, commonly known as METRO, is a global wholesale company headquartered in Düsseldorf, Germany. It was founded in 1964 by Ernst Schmidt and Wilhelm Schmidt-Ruthenbeck, starting off as a cash-and-carry business, which is a retail business model in which customers select, pay for and take away (carry) the goods themselves. This was aimed at catering to professional customers such as restaurants, hotels, and independent retailers. Over the decades, METRO has expanded significantly, establishing a presence in over 30 countries and employing over 90.000 people worldwide.
 
@@ -49,10 +49,10 @@ METRO AG, commonly known as METRO, is a global wholesale company headquartered i
 
 Today, METRO focuses on its core wholesale and digital business solutions, particularly catering to the needs of the hospitality sector like HoReCa (Hotel, Restaurants and Catering) as well as their Trader Customers (kiosks and stores). The company offers their customers a combination of physical outlets and digital platforms. Through these initiatives, METRO continues to adapt to market demands, offering efficient, digital-focused solutions for modern businesses.
 
-{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-05.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250407-metro-case-study-steckbrief.webp" alt="The german whole sale caters to needs of the hospitality sector like HoReCa" >}}
 
 
-###### About freiheit.com
+#### About freiheit.com
 
 The software engineering company freiheit.com technologies was founded in 1999 in Hamburg by Claudia Dietze and Stefan Richter. They have delivered hundreds of large-scale projects that help their clients create future business models based on software. From global cloud platforms in dentistry, over B2B food delivery platforms, to connected cars. Across all industries and for the Who-is-Who of European businesses and industries. For clients like Dentsply Sirona, Tchibo, EDEKA, or Mercedes Benz.
 
@@ -60,7 +60,8 @@ They take on mission impossible projects and build custom large-scale software p
 After showing METRO in 2014 how they could build an efficient e-commerce platform together that would revolutionize their business model, both companies started a collaboration that has been lasting for over a decade.
 
 This partnership shapes METRO's future as a German B2B retail giant while centralizing and diversifying their offer to their over 21 million professional customers worldwide.
-{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-02.webp" alt="" >}}
+
+{{< image src="/img/chronicle/case-studies/250402-steckbriefe-freiheit.com.webp" alt="freiheit.com is a software engineering company" >}}
 
 <br />
 
