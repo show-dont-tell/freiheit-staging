@@ -31,7 +31,7 @@
 
             {{ if ne $section "podcast" }}
                 <h3 class="mt-20" id="{{ $section }}">{{ $title }}</h3>
-                <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-10 lg:gap-20 mt-2">
+                <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-8 lg:gap-16 mt-2">
                     {{ range first 3 $sectionPages }}
                         {{- partial "chronicle-article-teaser.html" . -}}
                     {{ end }}
@@ -50,7 +50,7 @@
     <div class="fdc-content-layout bg-alabaster">
         <section>
             <h3 class="mt-20" id="podcasts">Podcasts</h3>
-            <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-10 lg:gap-20 lg:gap-20 mt-2">
+            <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-8 lg:gap-16 mt-2">
                 {{ range first 3 (index $pages "podcast") }}
                     {{- partial "chronicle-podcast-teaser.html" . -}}
                 {{ end }}

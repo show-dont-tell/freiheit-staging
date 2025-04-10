@@ -10,7 +10,7 @@
         <div class="fdc-content-layout bg-pale-green">
             <section>
                 <h3 class="mt-20" id="case-studies">Case Studies</h3>
-                <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-10 lg:gap-20 lg:gap-20 mt-2">
+                <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-8 lg:gap-16 mt-2">
                     {{ with .Site.GetPage "what-we-do/case-studies" }}
                         {{ range first 6 .Pages.ByDate.Reverse }}
                             {{- partial "chronicle-article-teaser.html" . -}}

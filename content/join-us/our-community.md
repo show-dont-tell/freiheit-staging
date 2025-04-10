@@ -15,6 +15,7 @@ When you ask anybody why they are working here, it is pretty likely that people 
   {{< image src="/img/join-the-team/our-community-1.webp" alt="freiheit.com members learn from each other." >}}
   {{< image src="/img/join-the-team/Join_Us_rt.webp" alt="freiheit.com members grow without limits and become well-rounded software engineers." >}}
 {{< /flex-images >}}
+<br />
 
 Of course we have a beautiful office in a very nice area of each city, a place to hang out, play pool and have fun with your team members. But more importantly, we offer you the ability to work on interesting things and to own a complete large-scale project from idea to implementation and operations. You have the opportunity to learn from senior engineers, work in a well-organized and well-managed company and start a fulfilling career in tech.
 
