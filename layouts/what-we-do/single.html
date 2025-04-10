@@ -1,0 +1,55 @@
+{{ define "main" }}
+<script>
+    // set back link depending on if we have a browser history
+    document.addEventListener("DOMContentLoaded", function(){
+        let backLink = "{{ path.Dir .Page.Path }}";
+        if(window.history.length > 2) {
+            backLink = "javascript:window.history.back(-1)"
+        }
+        var link = document.getElementById("backLink");
+        link.setAttribute("href", backLink);
+    });
+</script>
+<div class="fdc-content-layout">
+    <section class="article-content bg-white my-24" style="padding-top: 5rem;">
+        <article>
+            <div class="flex justify-between">
+                <a id="backLink" class="self-start font-serif no-underline hover:text-red block md:mb-6 mt-6 md:mt-0 text-lg" href="" rel="noopener">&larr;&nbsp;back</a>
+                {{ if .Params.download }}
+                    <a
+                        href="{{ .Params.download }}"
+                        target="_blank"
+                        class="font-serif no-underline hover:text-red block text-lg"
+                    >Download PDF</a>
+                {{ end }}
+            </div>
+            {{ if or (.Params.headline1) (.Params.headline) (.Params.teaser) }}
+                {{ if .Params.headline1 }}<h1 class="h2">{{ .Params.headline1 }}</h1>{{ end }}
+                {{ if .Params.headline2 }}<h2 class="h4">{{ .Params.headline2 }}</h2>{{ end }}
+                {{ if .Params.teaser }}<div class="text-body-lg">{{ .Params.teaser }}</div>{{ end }}
+            {{ end }}
+            {{ if and (not .Params.Youtube) .Params.Image (not .Params.hideImageOnArticle) }}
+            <div class="my-8">
+                <img src="{{ .Params.Image }}" class="w-full" alt="{{ .Params.ImageAltText }}"/>
+                {{ if .Params.ImageCaption }}<div class="mt-2 text-sm">{{ .Params.ImageCaption }}</div>{{ end }}
+            </div>
+            {{ else if and .Params.lead_image (not .Params.hideImageOnArticle) }}
+                <img src="{{ .Params.lead_image }}" class="w-full my-8" alt="{{ .Title }}"/>
+            {{ end }}
+            <p>{{ .Content }}</p>
+
+            {{ if .Params.download }}
+            <div class="grid place-items-center mt-10 lg:mt-16">
+                <a
+                  href="{{ .Params.download }}"
+                  target="_blank"
+                  class="inline-block leading-none rounded-full cursor-pointer py-4 px-8 no-underline font-serif text-black bg-yellow hover:text-black hover:border-black filter hover:brightness-90"
+                ><span
+                  class="inline-block text-lg"
+                  style="margin-top: 3px">Download PDF →</span></a>
+            </div>
+            {{ end }}
+        </article>
+    </section>
+</div>
+{{ end }}

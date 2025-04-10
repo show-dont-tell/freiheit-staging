@@ -1,6 +1,6 @@
 .homepage-video {
   height: calc(100dvw * 9/16);
-  max-height: 600px;
+  max-height: 100dvh;
   &__arrows {
     &:hover {
       .homepage-video__arrow {

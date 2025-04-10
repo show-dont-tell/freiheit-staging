@@ -9,7 +9,6 @@ vimeo: null
 youtube: null
 tags:
 hideHeaderTitle: true
-download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
 draft: true
 ---
 
