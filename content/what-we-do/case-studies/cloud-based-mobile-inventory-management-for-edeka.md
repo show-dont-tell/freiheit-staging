@@ -1,10 +1,11 @@
 ---
 title: "Cloud-Based Mobile Inventory Management for EDEKA"
-image: /img/things-weve-built/EDEKA.webp
+image: /img/what-we-do/case-studies/cloud-based-mobile-inventory-management-for-edeka.webp
 imageAlt: "freiheit.com built an inventory management solution for a supermarket that simplified daily work of thousands of EDEKA employees."
 date: 2024-05-20
 draft: false
 hideHeaderTitle: true
+headline1: "Cloud-Based Mobile Inventory Management for EDEKA"
 ---
 
 Over 30 months, four teams developed a flutter-based solution connected to an Azure backend in the cloud, that is currently used by more than 200 stores of EDEKA – the largest German supermarket corporation. More retail stores from the EDEKA group are to follow.

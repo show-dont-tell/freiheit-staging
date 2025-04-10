@@ -32,6 +32,11 @@
   &:has(.xmas-snow) {
     overflow: visible;
   }
+  &.no-y-padding {
+    section {
+      @apply py-0;
+    }
+  }
 }
 header {
   .fdc-content-layout:last-child {
