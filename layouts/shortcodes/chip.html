@@ -1,12 +1,6 @@
-{{ $text := .Get "text" }}
+{{ $text := .Get "text" | safeHTML }}
 {{ $backgroundClass := .Get "backgroundClass" | default "bg-white" }}
 {{ $textClass := .Get "textClass" | default "black" }}
-{{ $link := .Get "link" | default "" }}
-
 <div class="inline-flex px-6 pt-2 pb-1 rounded-full font-sans h4 {{ $backgroundClass }} {{ $textClass }}">
-    {{ if $link }}
-        <a href="{{ $link }}" class="no-underline hover:no-underline">{{ $text }}</a>
-    {{ else }}
-        {{ $text }}
-    {{ end }}
+    {{ $text }}
 </div>

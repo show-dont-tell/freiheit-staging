@@ -50,7 +50,7 @@
   @font-face {
     font-family: 'Work Sans', sans-serif;
   }
-  p {
+  p, .body-text {
     @apply mb-4 text-body-lg font-light;
     @screen md {
       @apply text-body-xl;

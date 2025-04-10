@@ -5,7 +5,7 @@ description: "We've successfully delivered hundreds of large-scale software proj
 date: 2021-04-24T15:55:09+02:00
 draft: false
 headerHeadline: What we do
-headerTheme: yellow
+headerTheme: pale-green
 footerImage: footer_things_we_build.webp
 footerImageAlt: "freiheit.com engineering teams built custom large-scale software."
 aliases:
@@ -23,6 +23,8 @@ We have been building software for any type of business model imaginable. Since 
 Everyone knows software projects are difficult. So that seems to be an unbelievable claim. Once you get to know us better, you'll discover what sets us apart and how we do things differently.
 People call us especially for their hardest challenges, like projects that failed already in the past and now have to succeed.
 
+<br />
+
 ## We make mission impossible possible.
 
 We build custom large-scale software platforms that are business critical and of high strategic relevance to our clients.
@@ -33,42 +35,52 @@ But actually mission impossible missions is what we love to take over the most!
 
 To give you some ideas of what we can do:
 
-{{< chips asList="true" >}}
-  {{< chip text="Replacement of outdated Legacy Systems" link="#replacement-of-outdated-legacy-systems" backgroundClass="bg-pale-green" textClass="text-white" >}}
-  {{< chip text="Creating new or extending existing business models" link="#creating-new-or-extending-existing-business-models" backgroundClass="bg-pale-green" textClass="text-white" >}}
-  {{< chip text="Building software to make your business processes more efficient" link="#software-to-make-your-business-processes-more-efficient" backgroundClass="bg-pale-green" textClass="text-white" >}}
-  {{< chip text="Big data development and data warehouse to cloud migration" link="#big-data-development-and-data-warehouse-to-cloud-migrations" backgroundClass="bg-pale-green" textClass="text-white" >}}
-  {{< chip text="We work for the Who's Who of European business and industry" link="#for-the-whos-who-of-european-business-and-industry" backgroundClass="bg-pale-green" textClass="text-white" >}}
-{{< /chips >}}
+<br />
+{{< text-link text="- Replacement of outdated Legacy Systems" link="#replacement-of-outdated-legacy-systems" >}}
+{{< text-link text="- Creating new or extending existing business models" link="#creating-new-or-extending-existing-business-models" >}}
+{{< text-link text="- Building software to make your business processes more efficient" link="#software-to-make-your-business-processes-more-efficient" >}}
+{{< text-link text="- Big data development and data warehouse to cloud migration" link="#big-data-development-and-data-warehouse-to-cloud-migrations" >}}
+{{< text-link text="- We work for the Who's Who of European business and industry" link="#for-the-whos-who-of-european-business-and-industry" >}}
+<br />
 
 Let's dig into the details.
 
-## Replacement of outdated Legacy Systems
+<br />
+
+### Replacement of outdated Legacy Systems
 
 Any large company runs a number of large systems – often with millions of lines of legacy code – that are old and outdated but very important for their business.
 The need to replace these systems – while they are still used in production – to modernize them is high but comes with great risks and is one of the hardest challenges in software engineering.
 We have successfully delivered a large number of projects like this and know how to replace them with no downtime during operation.
 
-## Creating new or extending existing business models
+<br />
+
+### Creating new or extending existing business models
 
 Any business today needs software to support their business models, like e-commerce offerings, marketplaces, service or IOT platforms.
 Either a company wants to extend their business with a digital offering. Or they want to create an entirely new business based on software.
 We help with the make or buy decision and take over the make part.
 
-## Software to make your business processes more efficient
+<br />
+
+### Software to make your business processes more efficient
 
 How can your company become faster? Answer: By making your internal processes more efficient.
 With custom software applications like we are building them, you can optimize exactly to the needs of your business and organization.
 We analyze your processes and build the right software for your internal workflows. And we leverage Artificial Intelligence (AI) for total automation or as a mechanism for Intelligence Amplification (IA) of your workforce.
 
-## Big data development and data warehouse to cloud migrations
+<br />
+
+### Big data development and data warehouse to cloud migrations
 
 Any successful company has to handle large amounts of structured and unstructured data – called big data.
 We build software systems that are able to store, process and analyze big data coming from multiple sources in real-time and at a high frequency.
 Our clients often run large legacy data warehouses (like Teradata) and we help them to move them into the cloud.
 We use Data Engineering, Data Science and Machine Learning to build large-scale Decision Support Systems.
 
-## For the "Who's Who" of European business and industry
+<br />
+
+### For the "Who's Who" of European business and industry
 
 From e-commerce to connected cars. We work for all industries:
 
@@ -87,6 +99,8 @@ From e-commerce to connected cars. We work for all industries:
 Nothing is too difficult for us, actually we love making complicated things simple.
 
 [Get in touch](/get-in-touch) if you need help to make your software project successful.
+
+<br />
 
 ## What does success look like?
 

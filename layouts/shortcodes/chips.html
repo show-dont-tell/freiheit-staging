@@ -1,4 +1,3 @@
-{{ $asList := .Get "asList" | default false }}
-<div class="chips flex flex-wrap {{ if $asList }}flex-col items-start{{ end }} gap-6 mt-6 mb-6">
+<div class="chips flex flex-wrap gap-6 mt-6 mb-6">
     {{ .Inner | safeHTML }}
 </div>
