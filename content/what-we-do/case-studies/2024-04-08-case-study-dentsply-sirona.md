@@ -1,5 +1,5 @@
 ---
-date: 2024-04-08
+date: 2025-04-09
 headline1: Revolutionizing the dental industry
 headline2: Dentsply Sirona and freiheit.com move 100.000 dentists into the cloud
 teaser:
