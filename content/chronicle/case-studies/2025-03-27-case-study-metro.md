@@ -9,10 +9,9 @@ vimeo: null
 youtube: null
 tags:
 hideHeaderTitle: true
-draft: true
 ---
 
-## Building a customer individual e-commerce platform
+### Building a customer individual e-commerce platform
 
 METRO AG, the global wholesale giant, serves over 21 million professional customers in over 30 countries worldwide with a revenue of 31.3 B Euro in 2024 alone. Many of them are in the field of restaurants, hotels, caterers and kiosks. METRO is the backbone of the entire hospitality industry, helping them run their daily business. These businesses all over the world must be able to rely on METRO 100% every day.
 
