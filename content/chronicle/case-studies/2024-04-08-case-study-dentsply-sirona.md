@@ -58,7 +58,7 @@ To bring the vision of DS Core to life, Dentsply Sirona and freiheit.com defined
 - The cloud rendering engine performs the resource intensive computations in the cloud by leveraging Google Cloud's support for high end graphic cards.
 - The result is streamed via WebRTC to the browser of the user and allows for real time interaction
 
-{{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-solving-the-puzzle.svg" >}}
+{{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-graphs-01.webp" alt="" >}}
 
 ### Meeting the key players
 
@@ -135,7 +135,9 @@ From PoC to first clinical application:
 
 ### Overview proof of concept
 
-{{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-overview-proof-of-concept.svg" >}}
+<br />
+
+{{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-graphs-02.webp" alt="" >}}
 
 <br />
 
@@ -167,7 +169,7 @@ Team Setup DS Core - Dentsply Sirona x freiheit.com
 
 <br />
 
-{{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-collaboration-in-mixed-teams.svg" >}}
+{{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-graphs-03.webp" alt="" >}}
 
 {{< border-box >}}
 
@@ -214,6 +216,9 @@ As the next step within the process, Dentsply Sirona presented DS Core at the De
 #### 1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space
 
 Dentsply Sirona and freiheit.com officially brought the first clinical application to the market and presented it at the IDS in Cologne. This trade fair is of high relevance as it is where both the latest products within the industry are presented and networking with dentists and partners from all over the world takes place.
+
+
+<br />
 
 {{< image-box image="feature-box-image.webp" >}}
 
