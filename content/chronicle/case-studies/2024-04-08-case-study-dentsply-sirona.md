@@ -64,8 +64,6 @@ To bring the vision of DS Core to life, Dentsply Sirona and freiheit.com defined
 
 Before going into depth about the roll-out of the collaboration between Dentsply Sirona and freiheit.com, it is of essence to take a look at the two companies that came together to build something revolutionary.
 
-<br />
-
 #### About Dentsply Sirona
 
 Dentsply Sirona is the largest manufacturer of professional dental products and technologies worldwide with over 10.000 employees, a turnover of $3.93B in 2023 and a great variety of dental products. The company provides a large range of solutions that are leading product brands across consumables, equipment, technology and specialty products. It is their overall mission to improve advanced dental patient care around the world.
@@ -93,8 +91,6 @@ Failure is not an option. freiheit.com is known for their high reputation on the
 For over a quarter of a century, they have been working for the “Who's Who” of German and European industrial and commercial companies – across all sectors: healthcare, trade, automotive, e-commerce, and more.
 
 ### Accomplishing milestones
-
-<br />
 
 #### One PoC, 3 engineers, 3 weeks, 3D rendering in GCP, seamless switch load/cloud
 
@@ -211,12 +207,9 @@ As the next step within the process, Dentsply Sirona presented DS Core at the De
 
 6 months later
 
-<br />
-
-#### 1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space
+1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space.
 
 Dentsply Sirona and freiheit.com officially brought the first clinical application to the market and presented it at the IDS in Cologne. This trade fair is of high relevance as it is where both the latest products within the industry are presented and networking with dentists and partners from all over the world takes place.
-
 
 <br />
 
