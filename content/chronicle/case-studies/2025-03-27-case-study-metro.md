@@ -144,7 +144,7 @@ To serve the different customer profiles, METRO developed two profiles that repr
 Here's a detailed look into the two profiles:
 
 {{< grid-images cols="2">}}
-{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-04.webp" alt="" >}} {{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-03.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-mario.webp" alt="" >}} {{< image src="/img/chronicle/case-studies/250325-case-study-metro-betty.webp" alt="" >}}
 {{< /grid-images >}}
 
 Both the assortment and the user experience of METRO's webshop had to cater to both profiles.
