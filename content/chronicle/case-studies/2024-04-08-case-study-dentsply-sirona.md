@@ -78,9 +78,9 @@ Dentists are one of the few medical professionals that diagnose their patients a
 
 However, before DS Core was brought to life, the collaboration between dentists and laboratories was time consuming and complicated, meaning that each dental practice had its own hardware and software that wasn't connected to each other. To place an order for a dental product, the dentist had to communicate with the laboratories using his own software as there was no platform to combine it all.
 
-{{< full-width >}}
-    {{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-freiheit-orange.webp" alt="" width="100%" >}}
-{{< /full-width >}}
+{{< image src="/img/chronicle/case-studies/2025-04-11-case-study-dentsply-sirona.webp" alt="" >}}
+
+<br />
 
 #### About freiheit.com
 
