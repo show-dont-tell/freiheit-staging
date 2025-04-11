@@ -215,14 +215,22 @@ METRO took these basic engineering principles, and with the support of freiheit.
 But that is not all. freiheit.com uses data and metrics to systematically lead software projects to success. Through data-driven Software Engineering, they significantly increase the delivery reliability of large-scale software projects.
 All of freiheit.com's teams use Revolution, a project management tool built by the company, to track their performance and guarantee full transparency internally but also to their customers. In collaboration with METRO, it was actually the first time this tool was used, as freiheit.com had then just recently released it.
 
+<br />
+
 {{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-01.webp" alt="" >}}
+
+<br />
 
 To track the status of the project and the individual team, freiheit.com uses over 40 different metrics. The focus amongst these is on key metrics like:
 - **Planning Reliability:** This metric describes the percentage of stories that were planned into an iteration at the moment the iteration was started and that were completely finished before the iteration was closed.
 - **Estimate Deviation:** This metric describes how close the effort estimates were compared to the actual effort needed.
 - **Development Ratio:** This metric describes how much of the time invested was spent purely on development versus how much time was spent on non-development work.
 
+<br />
+
 {{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-06.webp" alt="" >}}
+
+<br />
 
 The data and metrics visible in Revolution do not directly indicate what is wrong and what needs to be fixed within the code. They give an indication and can provide warnings to the teams if certain thresholds are reached. It is up to the engineers to interpret them and take the correct action to improve their metrics. The engineers at freiheit.com learn how to find and remove friction from the first day they join. The possibility to monitor the metrics over time shows the teams the effectiveness of their derived actions.
 
