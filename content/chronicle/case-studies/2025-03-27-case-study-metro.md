@@ -160,7 +160,9 @@ In France, the marketplace gained popularity due to the amount of small, regiona
 
 From June of 2018 to August of 2019 even more countries launched, rolling out the e-commerce platform in Russia, Romania, the Netherlands, Belgium, Kazakhstan, Hungary, China, Bulgaria, Croatia, Moldova, and finally Serbia in August of 2019.
 
-{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-08.webp" alt="" >}}
+<br />
+
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-warenkorb.webp" alt="" >}}
 
 ### The collaboration that led to success
 
@@ -217,7 +219,7 @@ All of freiheit.com's teams use Revolution, a project management tool built by t
 
 <br />
 
-{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-01.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-studies-revolution.webp" alt="" >}}
 
 <br />
 
@@ -228,7 +230,7 @@ To track the status of the project and the individual team, freiheit.com uses ov
 
 <br />
 
-{{< image src="/img/chronicle/case-studies/250325-case-study-metro-image-06.webp" alt="" >}}
+{{< image src="/img/chronicle/case-studies/250325-case-study-metro-revolution-01.webp" alt="" >}}
 
 <br />
 
