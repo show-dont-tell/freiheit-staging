@@ -1,5 +1,5 @@
 ---
-group: "Humans in Tech"
+group: "alphalist Podcast"
 title: "Episode one hundred eighteen"
 headline1: "Radical Engineering Culture and High Bar Hiring feat. Stefan Richter"
 date: 2025-03-21
