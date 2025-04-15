@@ -12,15 +12,17 @@ download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
 ---
 {{< youtube id="vyCRTlugecM" img="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-title-image.webp" >}}
 
-**Dentsply Sirona had a vision.** To make the workflow of dental practices around the world efficient, fast and seamless. To give dentists time to focus on what’s really important, the well-being of the patients.
+### Dentsply Sirona had a vision. 
 
-###### Available worldwide. For 100.000+ dentists. With millions of dental procedures every day.
+To make the workflow of dental practices around the world efficient, fast and seamless. To give dentists time to focus on what's really important, the well-being of the patients.
 
-To make this vision come to life, Dentsply Sirona was looking for a strong partner to help them build a solution that would bring all the dental applications safely into the cloud. This cloud platform, called DS Core, would allow dentists and laboratories to collaborate seamlessly with each other, making the workflow more efficient and the treatment span shorter for the patient.
+#### Available worldwide. For 100.000+ dentists. With millions of dental procedures every day.
 
-{{< quote text="At Dentsply Sirona we’ve been providing solutions for the dental industry for over three decades. These softwares grew continuously, piling many lines of code that demanded a lot of maintenance (...). We realized that it was time for a change and that we had to improve efficiency and unify the process to create a better workflow for dentists and laboratories. We needed a solution that moved everything natively into the cloud. This is where freiheit.com came in." source="Manfred Müller  - VP Software Engineering & UX - Dentsply Sirona" >}}
+To make this vision come to life, Dentsply Sirona was looking for a strong partner to help them build a solution that would bring all the dental applications safely into the cloud. This cloud platform, called DS Core, would allow dentists and laboratories to collaborate seamlessly with each other, making the workflow more efficient and the treatment span shorter for the patient.
 
-In collaboration with Dentsply Sirona, one of the **world’s largest manufacturers of professional dental products and technologies**, the software engineering company freiheit.com built an all-in-one platform that enables dentists and laboratories to upload, visualize, share and store patient data directly in the cloud. This platform does what was unthinkable before, it gives professionals in the dental sector the opportunity to handle almost all of their work within one place.
+{{< quote text="At Dentsply Sirona we've been providing solutions for the dental industry for over three decades. These softwares grew continuously, piling many lines of code that demanded a lot of maintenance (...). We realized that it was time for a change and that we had to improve efficiency and unify the process to create a better workflow for dentists and laboratories. We needed a solution that moved everything natively into the cloud. This is where freiheit.com came in." source="Manfred Müller - VP Software Engineering & UX - Dentsply Sirona" >}}
+
+In collaboration with Dentsply Sirona, one of the world's largest manufacturers of professional dental products and technologies, the software engineering company freiheit.com built an all-in-one platform that enables dentists and laboratories to upload, visualize, share and store patient data directly in the cloud. This platform does what was unthinkable before, it gives professionals in the dental sector the opportunity to handle almost all of their work within one place.
 
 Before the platform was built, all communication and collaboration between dentists and laboratories was neither unified nor in one place.
 
@@ -30,21 +32,19 @@ Before the platform was built, all communication and collaboration between denti
 
 ### Unfolding the process
 
-<br />
+#### Defining the problem
 
-###### Defining the problem
-
-With an ongoing **global digitalisation** across all industries, Dentsply Sirona was the first to take the next step within their industry. The entire dental sector relied heavily on on-premise IT systems in clinics and laboratories. This made it very difficult to update the software and systems, creating a **high hardware dependency** and making the interaction and collaboration between parties challenging. To solve these issues in a data secure way, Dentsply Sirona decided to transition its ecosystems into a new cloud architecture using Google Cloud. This would provide an **end-to-end digital experience**, so that one day, dentists will only need access to a browser.
+With an ongoing global digitalisation across all industries, Dentsply Sirona was the first to take the next step within their industry. The entire dental sector relied heavily on on-premise IT systems in clinics and laboratories. This made it very difficult to update the software and systems, creating a high hardware dependency and making the interaction and collaboration between parties challenging. To solve these issues in a data secure way, Dentsply Sirona decided to transition its ecosystems into a new cloud architecture using Google Cloud. This would provide an end-to-end digital experience, so that one day, dentists will only need access to a browser.
 
 <br />
 
-###### The challenge
+#### The challenge
 
 To bring the vision of DS Core to life, Dentsply Sirona and freiheit.com defined the following challenges:
 
 - Secure **real-time data sharing** between dentists and laboratories.
 - Smooth **3D rendering** experience of intraoral scans in a cost-effective manner.
-- Connection of legacy systems to the cloud to enable **seamless workflows** as well as a transition phase.
+- Connection of legacy systems to the cloud to enable seamless workflows as well as a transition phase.
 - Integration of all data and systems on a secure clinical cloud sharing platform. Building a platform that allows a continuous addition of clinical applications for different devices to **DS Core** starting with:
   - Intraoral scanning
   - Dental milling
@@ -52,10 +52,10 @@ To bring the vision of DS Core to life, Dentsply Sirona and freiheit.com defined
 
 <br />
 
-###### Solving the puzzle
+#### Solving the puzzle
 
 - Having a secured global cloud platform to connect dentists and laboratories.
-- The cloud rendering engine performs the resource intensive computations in the cloud by leveraging Google Cloud’s support for high end graphic cards.
+- The cloud rendering engine performs the resource intensive computations in the cloud by leveraging Google Cloud's support for high end graphic cards.
 - The result is streamed via WebRTC to the browser of the user and allows for real time interaction
 
 {{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-solving-the-puzzle.svg" >}}
@@ -66,23 +66,23 @@ Before going into depth about the roll-out of the collaboration between Dentsply
 
 <br />
 
-###### About Dentsply Sirona
+#### About Dentsply Sirona
 
-Dentsply Sirona is the largest manufacturer of professional dental products and technologies worldwide with over 10.000 employees, a turnover of $3.93B in 2023 and a great variety of dental products. The company provides a large range of solutions that are leading product brands across consumables, equipment, technology and specialty products. It is their overall mission to improve advanced dental patient care around the world.
+Dentsply Sirona is the largest manufacturer of professional dental products and technologies worldwide with over 10.000 employees, a turnover of $3.93B in 2023 and a great variety of dental products. The company provides a large range of solutions that are leading product brands across consumables, equipment, technology and specialty products. It is their overall mission to improve advanced dental patient care around the world.
 
 {{< full-width >}}
     {{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-building.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
-Dentists are one of the few medical professionals that diagnose their patients and also directly offer procedures  within the same facility. The dental industry is also one of the only ones that has successfully digitized its entire process, from diagnosis to finished dental product.
+Dentists are one of the few medical professionals that diagnose their patients and also directly offer procedures within the same facility. The dental industry is also one of the only ones that has successfully digitized its entire process, from diagnosis to finished dental product.
 
-However, before DS Core was brought to life, the collaboration between dentists and laboratories was time consuming and complicated, meaning that each dental practice had its own hardware and software that wasn’t connected to each other. To place an order for a dental product, the dentist had to communicate with the laboratories using his own software as there was no platform to combine it all.
+However, before DS Core was brought to life, the collaboration between dentists and laboratories was time consuming and complicated, meaning that each dental practice had its own hardware and software that wasn't connected to each other. To place an order for a dental product, the dentist had to communicate with the laboratories using his own software as there was no platform to combine it all.
 
 {{< full-width >}}
     {{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-freiheit-orange.webp" alt="" width="100%" >}}
 {{< /full-width >}}
 
-###### About freiheit.com
+#### About freiheit.com
 
 freiheit.com has been building large-scale software systems since 1999.
 
@@ -96,13 +96,13 @@ For over a quarter of a century, they have been working for the “Who's Who” 
 
 <br />
 
-###### One PoC, 3 engineers, 3 weeks, 3D rendering in GCP, seamless switch load/cloud
+#### One PoC, 3 engineers, 3 weeks, 3D rendering in GCP, seamless switch load/cloud
 
 <br />
 
-**It all started in 2021** with a small Proof of Concept organized by Dentsply Sirona. The company had embarked on a journey to find the right partner to create a cloud solution for dentists. The collaboration they were looking for would be long-term and in close partnership with the company.
+It all started in 2021 with a small Proof of Concept organized by Dentsply Sirona. The company had embarked on a journey to find the right partner to create a cloud solution for dentists. The collaboration they were looking for would be long-term and in close partnership with the company.
 
-Google recommended freiheit.com to Dentsply Sirona during the PoC. freiheit.com joined this process only **3 weeks before final submission**. This PoC included three different challenges:
+Google recommended freiheit.com to Dentsply Sirona during the PoC. freiheit.com joined this process only 3 weeks before final submission. This PoC included three different challenges:
 
 - Sharing
 - Uploading
@@ -114,7 +114,7 @@ In only 3 weeks and with a small team of 3 engineers, freiheit.com accomplished 
 
 <br />
 
-###### The advantages:
+#### The advantages:
 
 - 3D renderings could immediately be accessed by any dentist and collaborating laboratories.
 - Rendering in the cloud minimizes the hardware dependency, creating flexibility for the end-user.
@@ -123,7 +123,7 @@ Fast implementation of new dental applications due to the flexibility of updatin
 
 <br />
 
-###### Timeline DS Core
+#### Timeline DS Core
 
 From PoC to first clinical application:
 
@@ -141,7 +141,7 @@ From PoC to first clinical application:
 
 {{< border-box >}}
 
-###### Deep Dive
+#### Deep Dive
 
 ### 3D rendering in the cloud
 
@@ -157,11 +157,11 @@ Furthermore, to optimize resource utilization, the team employed GPU timesharing
 
 {{< /border-box >}}
 
-**The team** that worked on the DS Core was a symbiosis of **Fullstack Software Engineers** coming together to create something that had not been done before. They started with a team of 3, later becoming up to 30 engineers. Early on, they decided in agreement with Dentsply Sirona, to use Flutter/Dart as their technology as it is suitable for adaptable development and could be used for a mobile application if that's needed in the future.
+The team that worked on the DS Core was a symbiosis of Fullstack Software Engineers coming together to create something that had not been done before. They started with a team of 3, later becoming up to 30 engineers. Early on, they decided in agreement with Dentsply Sirona, to use Flutter/Dart as their technology as it is suitable for adaptable development and could be used for a mobile application if that's needed in the future.
 
 {{< quote text="The initial development was mainly managed by freiheit alone until we reached the first Alpha Release of DS Core. We then gradually broadened the teams that worked on that platform." source="Manfred Müller  - VP Software Engineering & UX - Dentsply Sirona" >}}
 
-###### Collaboration in mixed teams
+#### Collaboration in mixed teams
 
 Team Setup DS Core - Dentsply Sirona x freiheit.com
 
@@ -171,7 +171,7 @@ Team Setup DS Core - Dentsply Sirona x freiheit.com
 
 {{< border-box >}}
 
-###### Deep Dive
+#### Deep Dive
 
 ### A detailed look at Dart/Flutter
 
@@ -179,9 +179,9 @@ Flutter is a framework for the language Dart to build smooth and native-compiled
 
 Unlike Javascript, Flutter/Dart uses Ahead-of-Time compilation which leads to superior performance and faster loading times. Moreover Flutter uses the CanvasKit for Native-like Rendering that bypasses the DOM, enabling direct manipulation of the canvas for pixel-perfect rendering and smooth animations, achieving a native-like look and feel on the web.
 
-Flutter’s mantra "Everything's a Widget", the tooling support, as well as ability to iterate fast, using hot reload make it a very pleasant developer experience as well.
+Flutter's mantra "Everything's a Widget", the tooling support, as well as ability to iterate fast, using hot reload make it a very pleasant developer experience as well.
 
-All of these features, but also the benefit of having the possibility to use a single codebase to create the application for all platforms made Flutter/Dart a perfect match for the project.
+All of these features, but also the benefit of having the possibility to use a single codebase to create the application for all platforms made Flutter/Dart a perfect match for the project.
 
 {{< /border-box >}}
 
@@ -191,7 +191,7 @@ All of these features, but also the benefit of having the possibility to use a 
 
 <br />
 
-**The Closed Alpha**, which was already released **after 7 months**, is an extension of the results gained from the Proof of Concept. The early market version not only had the capability to visualize 3D data like the Proof of Concept (PoC) version, but it was also integrated into a platform offering various other features. The most important addition was the extension to store and share patient data directly in the cloud, allowing access to the data from anywhere. It was now also possible to automatically synchronize on-premise XRay scans from the dental practice into DS Core.
+The Closed Alpha, which was already released after 7 months, is an extension of the results gained from the Proof of Concept. The early market version not only had the capability to visualize 3D data like the Proof of Concept (PoC) version, but it was also integrated into a platform offering various other features. The most important addition was the extension to store and share patient data directly in the cloud, allowing access to the data from anywhere. It was now also possible to automatically synchronize on-premise XRay scans from the dental practice into DS Core.
 
 {{< full-width >}}
     {{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-presentation-of-ds-core.webp" alt="" width="100%" >}}
@@ -201,7 +201,7 @@ All of these features, but also the benefit of having the possibility to use a 
 
 10 months later
 
-As the next step within the process, Dentsply Sirona presented **DS Core** at the **Dentsply Sirona World in Las Vegas in 2022** which is their **flagship clinical education event** where all the new dental technology is presented. It is a meeting point for sales and key opinion leaders within the industry. **freiheit.com** accompanied Dentsply Sirona to assure a **frictionless presentation** of the DS Core cloud solution which was the focal point of the entire event.
+As the next step within the process, Dentsply Sirona presented DS Core at the Dentsply Sirona World in Las Vegas in 2022 which is their flagship clinical education event where all the new dental technology is presented. It is a meeting point for sales and key opinion leaders within the industry. freiheit.com accompanied Dentsply Sirona to assure a frictionless presentation of the DS Core cloud solution which was the focal point of the entire event.
 
 {{< quote text="One of my highlights was going to Las Vegas to the DS World in 2022. The whole product that we had been working on for over a year just came together. We could see the end-user working with the software and everything just clicked." source="Benedikt Jost - Product Engineering Lead - freiheit.com technologies" >}}
 
@@ -211,7 +211,7 @@ As the next step within the process, Dentsply Sirona presented **DS Core** at th
 
 <br />
 
-###### 1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space
+#### 1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space
 
 Dentsply Sirona and freiheit.com officially brought the first clinical application to the market and presented it at the IDS in Cologne. This trade fair is of high relevance as it is where both the latest products within the industry are presented and networking with dentists and partners from all over the world takes place.
 
@@ -234,7 +234,7 @@ Dentsply Sirona and freiheit.com officially brought the first clinical applicati
 
 {{< border-box >}}
 
-###### Deep Dive
+#### Deep Dive
 
 ### Implementing DS Core in 21 countries
 
@@ -248,6 +248,6 @@ Despite this multi-cloud, multi-regional complexity, DS Core maintains agility t
 
 ### Taking a look into the future
 
-**DS Core** is well on its way to becoming the **most important tool** for all dentists, laboratories and patients worldwide. New features are continuously added to the cloud platform and it is already available on 5 continents and in 21 countries. Efficient workflows - all in one platform, accessible from everywhere and at any time. **So dentists can focus on what's most important - the well-being of their patients.**
+DS Core is well on its way to becoming the most important tool for all dentists, laboratories and patients worldwide. New features are continuously added to the cloud platform and it is already available on 5 continents and in 21 countries. Efficient workflows - all in one platform, accessible from everywhere and at any time. So dentists can focus on what's most important - the well-being of their patients.
 
 {{< quote text="For thousands of years humans have crafted dentures and dental implants. Today this process is completely digitized and software-aided. As Alan Turing once said: “We can only see a short distance ahead, but we can see plenty there that needs to be done.” This is only the beginning." source="Stefan Richter - CTO & Co-Founder - freiheit.com technologies" >}}
