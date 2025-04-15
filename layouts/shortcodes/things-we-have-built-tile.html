@@ -4,7 +4,7 @@
 {{ $sizeClass = "md:w-2/3 lg:w-3/5" }}
 {{ $colorClass = "bg-red" }}
 {{ end }}
-<article class="{{ $sizeClass }}">
+<article class="{{ $sizeClass }} md:pr-8">
     <div class="mb-12 md:mb-8 lg:mb-16 {{ $colorClass }}">
         <img src="/img/{{ .Get "image" }}" class="w-full" alt="{{ .Get "title" }}"/>
         <div class="p-5">
