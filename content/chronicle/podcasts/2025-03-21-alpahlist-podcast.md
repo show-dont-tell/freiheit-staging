@@ -15,7 +15,7 @@ sitemap:
 ---
 
 freiheit.com is an engineering organization for engineers by engineers. 
-This means we always concentrate on engineering. 85% of our members are software engineers with backgrounds in computer science, physics and mathematics, many also with a strong background in Machine Learning and Artificial Intelligence. 
+This means we always concentrate on engineering. 85% of our members are software engineers with backgrounds in computer science, physics and mathematics.
 
 We don’t hire managers, we put engineers in charge, who build our software projects end-to-end.
 
