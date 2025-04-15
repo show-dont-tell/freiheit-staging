@@ -8,7 +8,7 @@ youtube: tFEnpLS3b-Y?si
 weight: 118
 minutes: 62
 hideHeaderTitle: true
-image: 
+image: /img/chronicle/news/250321-alphalist-podcast.webp
 type: podcast
 sitemap:
     disable: true
