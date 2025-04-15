@@ -14,8 +14,7 @@ sitemap:
     disable: true
 ---
 
-freiheit.com is an engineering organization for engineers by engineers. 
-They have been building custom, large-scale software systems since 1999.
+freiheit.com has been building custom, large-scale software systems since 1999.
 
 To be successful you need to put the right people into the right seats. And that starts with the right hiring process.
 
