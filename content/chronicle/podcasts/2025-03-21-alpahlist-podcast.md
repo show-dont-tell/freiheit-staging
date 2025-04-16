@@ -14,7 +14,7 @@ sitemap:
     disable: true
 ---
 
-freiheit.com has been building custom, large-scale software systems since 1999.
+freiheit.com has been successfully delivering custom, large-scale software systems since 1999.
 
 Being successful starts with the right hiring process.
 
