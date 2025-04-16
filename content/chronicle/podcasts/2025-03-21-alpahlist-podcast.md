@@ -1,7 +1,7 @@
 ---
 group: "alphalist Podcast"
 title: "Episode one hundred eighteen"
-headline1: "Alphalist CTO Podcast"
+headline1: "alphalist.com CTO Guest Podcast"
 date: 2025-03-21
 draft: false
 youtube: tFEnpLS3b-Y?si
