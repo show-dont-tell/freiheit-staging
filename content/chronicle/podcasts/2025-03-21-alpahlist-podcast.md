@@ -1,7 +1,7 @@
 ---
 group: "alphalist Podcast"
 title: "Episode one hundred eighteen"
-headline1: "Radical Engineering Culture and High Bar Hiring"
+headline1: "alphalist cto podcast"
 date: 2025-03-21
 draft: false
 youtube: tFEnpLS3b-Y?si
