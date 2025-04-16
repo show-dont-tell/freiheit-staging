@@ -16,7 +16,7 @@ sitemap:
 
 freiheit.com has been building custom, large-scale software systems since 1999.
 
-To be successful you need to put the right people into the right seats. And that starts with the right hiring process.
+Being successful starts with the right hiring process.
 
 Stefan Richter,  Founder & Head of Engineering at freiheit.com, talked to Tobias Schlottke in the αlphalist.cto podcast to discuss how we at freiheit.com have established a high bar hiring process. 
 
