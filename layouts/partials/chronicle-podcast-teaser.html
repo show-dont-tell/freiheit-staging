@@ -7,6 +7,11 @@
     {{ $bgColorImage = "bg-alabaster" }}
     {{ $bgImage = "header_alabaster.webp" }}
 {{ end }}
+{{ if eq .Params.Group "alphalist Podcast" }}
+    {{ $bgColor = "bg-red" }}
+    {{ $bgColorImage = "bg-pale-pink" }}
+    {{ $bgImage = "header_pale-pink.webp" }}
+{{ end }}
 <a href='{{ (printf "%s%s" "https://www.youtube.com/watch?v=" .Params.youtube) }}' target="_blank" class="no-underline">
 <div class="h-80 overflow-hidden flex flex-col">
     <div class="grid grid-cols-7 min-h-3/5">

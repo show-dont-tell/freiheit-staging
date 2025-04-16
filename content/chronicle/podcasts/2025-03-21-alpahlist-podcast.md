@@ -8,7 +8,7 @@ youtube: tFEnpLS3b-Y?si
 weight: 118
 minutes: 62
 hideHeaderTitle: true
-image: 
+image:
 type: podcast
 sitemap:
     disable: true
@@ -16,5 +16,4 @@ sitemap:
 
 Being successful starts with the right hiring process.
 
-Stefan Richter,  Founder & Head of Engineering at freiheit.com, talked to Tobias Schlottke in the αlphalist.cto podcast to discuss how we at freiheit.com have established a high bar hiring process. 
-
+Stefan Richter,  Founder & Head of Engineering at freiheit.com, talked to Tobias Schlottke in the αlphalist.cto podcast to discuss how we at freiheit.com have established a high bar hiring process.

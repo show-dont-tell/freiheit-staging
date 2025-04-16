@@ -177,7 +177,7 @@ module.exports = {
       'yellow': '#D3FF19',
       'green': '#34B255',
       'pink': '#FF19FF',
-      'pale-pink': '#FFD1FF',
+      'pale-pink': '#FFDED9',
       'red': '#FF7C66',
       'pale-green': '#899C8C',
       'honeydew': '#DFEFDA',
