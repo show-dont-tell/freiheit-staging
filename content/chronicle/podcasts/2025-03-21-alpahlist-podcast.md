@@ -10,6 +10,7 @@ minutes: 62
 hideHeaderTitle: true
 image:
 type: podcast
+draft: true
 sitemap:
     disable: true
 ---

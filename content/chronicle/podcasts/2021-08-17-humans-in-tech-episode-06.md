@@ -10,6 +10,7 @@ minutes: 60
 hideHeaderTitle: true
 image: /img/chronicle/podcasts/podcast-06.webp
 type: podcast
+draft: true
 sitemap:
     disable: true
 ---

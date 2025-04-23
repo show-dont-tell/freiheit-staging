@@ -10,6 +10,7 @@ minutes: 57
 hideHeaderTitle: true
 image: /img/chronicle/podcasts/talk-02.webp
 type: podcast
+draft: true
 sitemap:
     disable: true
 ---

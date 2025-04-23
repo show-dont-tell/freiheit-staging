@@ -46,22 +46,24 @@
         {{ end }}
     </section>
 </div>
-<div class="w-full mt-10">
-    <div class="fdc-content-layout bg-alabaster">
-        <section>
-            <h3 class="mt-20" id="podcasts">Podcasts</h3>
-            <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-8 lg:gap-16 mt-2">
-                {{ range first 3 (index $pages "podcast") }}
-                    {{- partial "chronicle-podcast-teaser.html" . -}}
-                {{ end }}
-            </div>
-            <div class="mt-8 mb-10">
-                <a href="/chronicle/podcasts"
-                    class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
-                    see more →
-                </a>
-            </div>
-        </section>
+    {{ if (false) }}
+    <div class="w-full mt-10">
+        <div class="fdc-content-layout bg-alabaster">
+            <section>
+                <h3 class="mt-20" id="podcasts">Podcasts</h3>
+                <div class="mt-6 grid grid-cols-1 lg:grid-cols-3 items-start gap-8 lg:gap-16 mt-2">
+                    {{ range first 3 (index $pages "podcast") }}
+                        {{- partial "chronicle-podcast-teaser.html" . -}}
+                    {{ end }}
+                </div>
+                <div class="mt-8 mb-10">
+                    <a href="/chronicle/podcasts"
+                        class="inline-block leading-none cursor-pointer text-xl no-underline font-serif hover:text-red">
+                        see more →
+                    </a>
+                </div>
+            </section>
+        </div>
     </div>
-</div>
+    {{ end }}
 {{ end }}
