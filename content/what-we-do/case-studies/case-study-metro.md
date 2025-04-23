@@ -3,8 +3,8 @@ date: 2025-03-27
 headline1: How METRO's E-Commerce Platform went live worldwide
 headline2: A global B2B Retail solution built by freiheit.com
 teaser:
-lead_image: null
 image: /img/chronicle/case-studies/250325-case-study-metro-image-09.webp
+lead_image: /img/what-we-do/case-studies/Metro-Preview-image.webp
 vimeo: null
 youtube: null
 tags:

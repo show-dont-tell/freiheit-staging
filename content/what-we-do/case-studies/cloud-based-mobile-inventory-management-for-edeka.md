@@ -1,9 +1,8 @@
 ---
 title: "Cloud-Based Mobile Inventory Management for EDEKA"
-image: /img/what-we-do/case-studies/cloud-based-mobile-inventory-management-for-edeka.webp
+image: /img/what-we-do/case-studies/Edeka-Image.webp
 imageAlt: "freiheit.com built an inventory management solution for a supermarket that simplified daily work of thousands of EDEKA employees."
 date: 2024-05-20
-draft: false
 hideHeaderTitle: true
 headline1: "Cloud-Based Mobile Inventory Management for EDEKA"
 ---

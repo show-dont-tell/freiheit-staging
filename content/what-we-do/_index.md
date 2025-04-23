@@ -33,19 +33,19 @@ Of course we can also do "normal custom software projects".
 
 But actually mission impossible missions is what we love to take over the most!
 
-To give you some ideas of what we can do:
-
-<br />
-{{< text-link text="- Replacement of outdated Legacy Systems" link="#replacement-of-outdated-legacy-systems" >}}
-{{< text-link text="- Creating new or extending existing business models" link="#creating-new-or-extending-existing-business-models" >}}
-{{< text-link text="- Building software to make your business processes more efficient" link="#software-to-make-your-business-processes-more-efficient" >}}
-{{< text-link text="- Big data development and data warehouse to cloud migration" link="#big-data-development-and-data-warehouse-to-cloud-migrations" >}}
-{{< text-link text="- We work for the Who's Who of European business and industry" link="#for-the-whos-who-of-european-business-and-industry" >}}
 <br />
 
-Let's dig into the details.
+**Let’s dig into the details to give you some ideas of what we can do:**
 
 <br />
+{{< text-link text="– Replacement of outdated Legacy Systems" link="#replacement-of-outdated-legacy-systems" >}}
+{{< text-link text="– Creating new or extending existing business models" link="#creating-new-or-extending-existing-business-models" >}}
+{{< text-link text="– Building software to make your business processes more efficient" link="#software-to-make-your-business-processes-more-efficient" >}}
+{{< text-link text="– Big data development and data warehouse to cloud migration" link="#big-data-development-and-data-warehouse-to-cloud-migrations" >}}
+{{< text-link text="– We work for the Who's Who of European business and industry" link="#for-the-whos-who-of-european-business-and-industry" >}}
+<br />
+
+
 
 ### Replacement of outdated Legacy Systems
 
