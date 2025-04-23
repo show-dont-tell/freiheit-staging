@@ -1,42 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>We Support on freiheit.com</title><link>https://freiheit.com/chronicle/we-support/</link><description>Recent content in We Support on freiheit.com</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://freiheit.com/chronicle/we-support/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://freiheit.com/chronicle/we-support/2025-03-24-free-software-foundation-europe/</link><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/we-support/2025-03-24-free-software-foundation-europe/</guid><description>&lt;p>Since 2003, we have supported free software with many donations through our project, bookzilla.de – making it the world’s first online bookstore dedicated to free software. All our proceeds are donated to the Free Software Foundation Europe.&lt;/p>
-&lt;p>Our long time friend Matthias Kirschner, the president of the Free Software Foundation Europe visited us last week to talk about their current projects.&lt;/p>
-&lt;div class="
- grid
- md:grid-cols-2
- gap-4 md:gap-8 mt-4 mb-4">
- 
- 
- &lt;figure class="fdc-figure">
- 
- &lt;img
- width="1200"
- height="675"
- src="https://freiheit.com/img/chronicle/we-support/250324-FSFE-3.webp"
- alt="Matthias Kirschner talks about importance of the Free Software Foundation Europe"
- />
- 
- 
- &lt;/figure>
- 
- &lt;figure class="fdc-figure">
- 
- &lt;img
- width="1200"
- height="675"
- src="https://freiheit.com/img/chronicle/we-support/250324-FSFE-2.webp"
- alt="freiheit.com members are excited to listen to Matthias Kirschners presentation"
- />
- 
- 
- &lt;/figure>
-
-&lt;/div>
-&lt;p>The Free Software Foundation Europe helps individuals and organizations to understand how free software contributes to freedom, transparency and self-determination.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/we-support/2024-12-18-we-support-sternenbruecke/</link><pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/we-support/2024-12-18-we-support-sternenbruecke/</guid><description>&lt;p>Every year around the holidays, our community comes together to support a cause close to our hearts, the Sternenbrücke from Hamburg. The children&amp;rsquo;s hospice Sternenbrücke provides respite care for terminally ill children and affected families. Even after the loss of the child, the Sternenbrücke continues to support the families in their grief.&lt;/p>
-&lt;p>We have been supporting the Sternenbrücke since 2016.&lt;/p>
-&lt;p>&lt;a class="font-serif no-underline hover:text-red" href="https://sternenbruecke.de/donate/index" target="_blank" rel="noopener">Learn more about the project&amp;nbsp;→&lt;/a>&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/we-support/2024-12-01-we-support-the-speyer-cathedral/</link><pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/we-support/2024-12-01-we-support-the-speyer-cathedral/</guid><description>&lt;p>The almost one thousand year old Speyer Cathedral stands as a testament to the ambitions of many great German emperors and kings. Amongst them Conrad II, Henry IV and Henry V.&lt;br>
-This long-standing beauty, consecrated in 1061 and known as the largest surviving Romanesque church in the world, was captured by Horst Hamann in 2024.&lt;/p>
-&lt;p>The German photographer shows us a new perspective of the monument through his characteristic vertical photography style on over 190 pages. His reduction of all colors to black and white forces us to concentrate on the essentials. Many people know him because of his work capturing New York. &lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/we-support/2024-12-03-we-support-formula-student/</link><pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/we-support/2024-12-03-we-support-formula-student/</guid><description>&lt;p>We decided to support Formula Student Portugal because we want to encourage future software engineers in their passion to gain technical knowledge.&lt;/p>
-&lt;p>Formula Student is the biggest university engineering competition in the world. In the 1980s the project originated as an educational concept with the goal to nurture engineering talent. It evolved from being a Society of Automotive Engineers’ student competition to being an international contest with diverse teams of universities from all over the world participating. Formula Student Portugal is a new event for the Formula Student community in Portugal.&lt;/p></description></item><item><title/><link>https://freiheit.com/chronicle/we-support/2024-07-11-we-support-weareonerobotics/</link><pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate><guid>https://freiheit.com/chronicle/we-support/2024-07-11-we-support-weareonerobotics/</guid><description>&lt;p>Becoming a well-rounded software engineer is a long journey that takes years of hard work and learning.&lt;/p>
-&lt;p>Many of our freiheit.com technologies engineers found their passion for software-engineering when they were young. Our Co-Founder and Head of Engineering Stefan Richter wrote his first computer program in 1983.&lt;/p>
-&lt;p>That’s why we at freiheit.com technologies think it is important to invest in the future of software-engineering and decided to support We aRe oNe Robotics with a monetary donation.&lt;br>
-They are a German non-profit organization dedicated to teaching children between the ages 9-16 about science and technology - and especially about robotics.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We Support on freiheit.com</title>
+    <link>https://freiheit-staging.ploigt.de/chronicle/we-support/</link>
+    <description>Recent content in We Support on freiheit.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://freiheit-staging.ploigt.de/chronicle/we-support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://freiheit-staging.ploigt.de/chronicle/we-support/2025-03-24-free-software-foundation-europe/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://freiheit-staging.ploigt.de/chronicle/we-support/2025-03-24-free-software-foundation-europe/</guid>
+      <description>&lt;p&gt;Since 2003, we have supported free software with many donations through our project, bookzilla.de – making it the world’s first online bookstore dedicated to free software. All our proceeds are donated to the Free Software Foundation Europe.&lt;/p&gt;&#xA;&lt;p&gt;Our long time friend Matthias Kirschner, the president of the Free Software Foundation Europe visited us last week to talk about their current projects.&lt;/p&gt;&#xA;&lt;div class=&#34;&#xA;  grid&#xA;  md:grid-cols-2&#xA;  gap-4 md:gap-8 mt-4 mb-4&#34;&gt;&#xA;  &#xA;    &#xA;    &lt;figure class=&#34;fdc-figure&#34;&gt;&#xA;      &#xA;          &lt;img&#xA;              width=&#34;1200&#34;&#xA;              height=&#34;675&#34;&#xA;              src=&#34;https://freiheit-staging.ploigt.de/img/chronicle/we-support/250324-FSFE-3.webp&#34;&#xA;            alt=&#34;Matthias Kirschner talks about importance of the Free Software Foundation Europe&#34;&#xA;             /&gt;&#xA;      &#xA;      &#xA;    &lt;/figure&gt;&#xA;    &#xA;    &lt;figure class=&#34;fdc-figure&#34;&gt;&#xA;      &#xA;          &lt;img&#xA;              width=&#34;1200&#34;&#xA;              height=&#34;675&#34;&#xA;              src=&#34;https://freiheit-staging.ploigt.de/img/chronicle/we-support/250324-FSFE-2.webp&#34;&#xA;            alt=&#34;freiheit.com members are excited to listen to Matthias Kirschners presentation&#34;&#xA;             /&gt;&#xA;      &#xA;      &#xA;    &lt;/figure&gt;&#xA;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;The Free Software Foundation Europe helps individuals and organizations to understand how free software contributes to freedom, transparency and self-determination.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-12-18-we-support-sternenbruecke/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-12-18-we-support-sternenbruecke/</guid>
+      <description>&lt;p&gt;Every year around the holidays, our community comes together to support a cause close to our hearts, the Sternenbrücke from Hamburg. The children&amp;rsquo;s hospice Sternenbrücke provides respite care for terminally ill children and affected families. Even after the loss of the child, the Sternenbrücke continues to support the families in their grief.&lt;/p&gt;&#xA;&lt;p&gt;We have been supporting the Sternenbrücke since 2016.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;font-serif no-underline hover:text-red&#34; href=&#34;https://sternenbruecke.de/donate/index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learn more about the project&amp;nbsp;→&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-12-01-we-support-the-speyer-cathedral/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-12-01-we-support-the-speyer-cathedral/</guid>
+      <description>&lt;p&gt;The almost one thousand year old Speyer Cathedral stands as a testament to the ambitions of many great German emperors and kings. Amongst them Conrad II, Henry IV and Henry V.&lt;br&gt;&#xA;This long-standing beauty, consecrated in 1061 and known as the largest surviving Romanesque church in the world, was captured by Horst Hamann in 2024.&lt;/p&gt;&#xA;&lt;p&gt;The German photographer shows us a new perspective of the monument through his characteristic vertical photography style on over 190 pages. His reduction of all colors to black and white forces us to concentrate on the essentials. Many people know him because of his work capturing New York. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-12-03-we-support-formula-student/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-12-03-we-support-formula-student/</guid>
+      <description>&lt;p&gt;We decided to support Formula Student Portugal because we want to encourage future software engineers in their passion to gain technical knowledge.&lt;/p&gt;&#xA;&lt;p&gt;Formula Student is the biggest university engineering competition in the world. In the 1980s the project originated as an educational concept with the goal to nurture engineering talent. It evolved from being a Society of Automotive Engineers’ student competition to being an international contest with diverse teams of universities from all over the world participating. Formula Student Portugal is a new event for the Formula Student community in Portugal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-07-11-we-support-weareonerobotics/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://freiheit-staging.ploigt.de/chronicle/we-support/2024-07-11-we-support-weareonerobotics/</guid>
+      <description>&lt;p&gt;Becoming a well-rounded software engineer is a long journey that takes years of hard work and learning.&lt;/p&gt;&#xA;&lt;p&gt;Many of our freiheit.com technologies engineers found their passion for software-engineering when they were young. Our Co-Founder and Head of Engineering Stefan Richter wrote his first computer program in 1983.&lt;/p&gt;&#xA;&lt;p&gt;That’s why we at freiheit.com technologies think it is important to invest in the future of software-engineering and decided to support We aRe oNe Robotics with a monetary donation.&lt;br&gt;&#xA;They are a German non-profit organization dedicated to teaching children between the ages 9-16 about science and technology - and especially about robotics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
