@@ -1,4 +1,5 @@
 ---
+slug: aubrey_de_grey
 locale: en
 date: 2017-06-02 12:38:38
 headline1: HackerTalk with Aubrey de Grey

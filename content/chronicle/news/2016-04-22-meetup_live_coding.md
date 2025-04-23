@@ -1,4 +1,5 @@
 ---
+slug: meetup_live_coding
 date: 2016-04-22 18:26:14
 locale: en
 image: /img/chronicle/news/meetup_logo_3.webp

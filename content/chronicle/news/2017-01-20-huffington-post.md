@@ -1,4 +1,5 @@
 ---
+slug: huffington-post
 locale: en
 date: 2017-01-20 11:43:57
 teaser:

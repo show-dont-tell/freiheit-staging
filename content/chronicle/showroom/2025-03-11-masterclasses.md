@@ -1,4 +1,5 @@
 ---
+slug: masterclasses
 date: 2025-03-11
 image: /img/chronicle/showroom/250311-masterclass-Thumbnail-EP01.webp
 imageAltText: freiheit.com co-founder talks about the importance of tacit knowledge for the success of projects

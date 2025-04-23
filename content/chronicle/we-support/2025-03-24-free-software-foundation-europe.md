@@ -1,4 +1,5 @@
 ---
+slug: free-software-foundation-europe
 date: 2025-03-24
 image: /img/chronicle/we-support/250324-FSFE-1.webp
 imageAltText: freiheit.com supports the Free Software Foundation Europe

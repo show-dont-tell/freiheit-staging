@@ -1,4 +1,5 @@
 ---
+slug: why-agile-is-not-enough-02
 group: "Why Agile Is Not Enough"
 title: "How to build and run an efficient software engineering organization"
 headline1: "How to build and run an efficient software engineering organization"

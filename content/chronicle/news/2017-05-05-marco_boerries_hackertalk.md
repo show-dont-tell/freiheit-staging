@@ -1,4 +1,5 @@
 ---
+slug: marco_boerries_hackertalk
 locale: en
 date: 2017-05-05 14:28:18
 headline1: HackerTalk with Marco Börries

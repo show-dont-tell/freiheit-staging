@@ -1,4 +1,5 @@
 ---
+slug: survival_of_the_fittest
 date: 2005-06-04 14:05:41
 locale: en
 image: /img/chronicle/news/logo_linuxtag.webp

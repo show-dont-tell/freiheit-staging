@@ -1,4 +1,5 @@
 ---
+slug: we-support-the-speyer-cathedral
 date: 2024-12-16
 image: /img/chronicle/we-support/2024-12-16-we-support-the-speyer-cathedral-thumbnail.webp
 imageText: freiheit.com supports the Speyer Cathedral

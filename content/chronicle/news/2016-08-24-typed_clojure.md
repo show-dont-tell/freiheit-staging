@@ -1,4 +1,5 @@
 ---
+slug: typed_clojure
 date: 2016-04-24 21:04:37
 headline1: typed clojure
 teaser:

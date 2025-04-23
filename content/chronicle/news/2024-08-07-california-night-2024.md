@@ -1,4 +1,5 @@
 ---
+slug: california-night-2024
 date: 2024-08-07
 headline1: California Night 2024
 headline2: In July 2024, we celebrated summer in our wonderful Hamburg Hub!

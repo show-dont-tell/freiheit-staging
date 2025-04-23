@@ -1,4 +1,5 @@
 ---
+slug: we-support-sternenbruecke
 date: 2024-12-18
 image: /img/chronicle/we-support/2024-12-18-we-support-sternenbruecke.webp
 imageText: freiheit.com supports the Sternenbrücke

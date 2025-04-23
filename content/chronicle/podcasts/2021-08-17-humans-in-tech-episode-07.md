@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-07
 group: "Humans in Tech"
 title: "Episode seven"
 headline1: "Jackie Bavaro, Former Head of PM @ Asana"

@@ -1,4 +1,5 @@
 ---
+slug: alpahlist-podcast
 group: "alphalist Podcast"
 title: "Episode one hundred eighteen"
 headline1: "alphalist.com CTO Guest Podcast"

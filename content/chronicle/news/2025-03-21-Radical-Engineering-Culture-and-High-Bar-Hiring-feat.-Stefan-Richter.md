@@ -1,4 +1,5 @@
 ---
+slug: Radical-Engineering-Culture-and-High-Bar-Hiring-feat.-Stefan-Richter
 date: 2025-03-21
 image: /img/chronicle/news/250321-alphalist-podcast.webp
 imageAltText: freiheit.com co-founder Stefan Richter talks about radical engineering culture and high bar hiring in alphalist Podcast

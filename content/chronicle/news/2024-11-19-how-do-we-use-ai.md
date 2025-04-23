@@ -1,4 +1,5 @@
 ---
+slug: how-do-we-use-ai
 date: 2024-11-19
 image: /img/chronicle/news/2024-11-19-how-do-we-use-ai.webp
 imageText: freiheit.com shared how they use AI for Knowledge Management in a workshop at a Google event

@@ -1,4 +1,5 @@
 ---
+slug: online_karrieretag_2015
 date: 2015-10-22 14:03:31
 locale: en
 /img/news/uploads/: echo/Onl_KT_2015_Logo.webp

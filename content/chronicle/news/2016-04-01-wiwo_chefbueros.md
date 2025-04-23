@@ -1,4 +1,5 @@
 ---
+slug: wiwo_chefbueros
 date: 2016-04-01 15:29:35
 locale: en
 image: /img/chronicle/news/wiwo_Claudia_04_2016.webp

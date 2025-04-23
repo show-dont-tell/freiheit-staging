@@ -1,4 +1,5 @@
 ---
+slug: businesstalk_kirschner_fsfe
 date: 2016-03-11 15:29:01
 locale: en
 image: /img/chronicle/news/stefan_kirschner_fsfe.webp

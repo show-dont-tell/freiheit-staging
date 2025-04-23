@@ -1,4 +1,5 @@
 ---
+slug: freiheit-com-at-stackit-cloud-x-summit-2024
 date: 2024-06-25 00:00:05
 headline1: freiheit.com @ STACKIT Cloud x Summit 2024
 headline2:

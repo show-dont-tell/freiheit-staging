@@ -1,4 +1,5 @@
 ---
+slug: perfect_the_enemy_of_good
 date: 2015-06-10 19:14:06
 locale: en
 image: /img/chronicle/news/Logo_manager_magazin.webp

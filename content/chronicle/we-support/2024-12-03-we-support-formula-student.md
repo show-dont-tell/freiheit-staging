@@ -1,4 +1,5 @@
 ---
+slug: we-support-formula-student
 date: 2024-12-03
 image: /img/chronicle/we-support/2024-12-03-we-support-formula-student-1.webp
 imageText: freiheit.com supports Formula Student Portugal

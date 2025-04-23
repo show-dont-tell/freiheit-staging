@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-01
 group: "Humans in Tech"
 title: "Episode one"
 headline1: "Greg Hochmuth, Ex-Google PM, 3rd Engineer @ Instagram, Startup Founder"

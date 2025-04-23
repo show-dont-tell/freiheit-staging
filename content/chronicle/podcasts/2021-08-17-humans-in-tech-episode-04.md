@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-04
 group: "Humans in Tech"
 title: "Episode four"
 headline1: "Sven Lipowski, Business Process Director @ METRO.digital"

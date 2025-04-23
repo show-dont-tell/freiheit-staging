@@ -1,4 +1,5 @@
 ---
+slug: hackertalks
 locale: en
 date: 2019-04-29 15:33:47
 description: Every friday evening we meet for our HackerTalks. They cover a large variety of topics.

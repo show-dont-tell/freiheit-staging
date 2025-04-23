@@ -1,4 +1,5 @@
 ---
+slug: codetalks_2015_stefan
 date: 2015-09-30 19:20:07
 locale: en
 lead_image: /img/chronicle/news/Codetalks_Stefan.webp

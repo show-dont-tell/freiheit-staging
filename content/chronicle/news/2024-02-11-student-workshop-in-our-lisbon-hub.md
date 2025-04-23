@@ -1,4 +1,5 @@
 ---
+slug: student-workshop-in-our-lisbon-hub
 date: 2024-02-11
 image: /img/chronicle/news/2024-02-11-student-workshop-in-our-lisbon-hub-thumbnail.webp
 ImageAltText: freiheit.com members explain  how we build large-scale software systems in a student workshop

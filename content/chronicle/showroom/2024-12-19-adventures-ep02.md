@@ -1,4 +1,5 @@
 ---
+slug: adventures-ep02
 date: 2025-04-10
 headline1: freiheit.com adventures | EP02
 headline2:

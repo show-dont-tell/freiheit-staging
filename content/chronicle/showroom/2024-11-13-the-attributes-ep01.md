@@ -1,4 +1,5 @@
 ---
+slug: the-attributes-ep01
 date: 2024-11-13
 headline1: The Attributes
 headline2:

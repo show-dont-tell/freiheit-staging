@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-02
 group: "Humans in Tech"
 title: "Episode two"
 headline1: "Sarah Nahm, Ex-Google PM & Founder of Lever"

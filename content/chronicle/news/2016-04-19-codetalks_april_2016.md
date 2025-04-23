@@ -1,4 +1,5 @@
 ---
+slug: codetalks_april_2016
 headline1: METRO goes Microservices
 date: 2016-04-19 18:57:33
 locale: en

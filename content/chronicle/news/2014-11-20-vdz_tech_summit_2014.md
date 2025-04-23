@@ -1,4 +1,5 @@
 ---
+slug: vdz_tech_summit_2014
 date: 2014-11-20 14:13:41
 locale: en
 image: /img/chronicle/news/vdz_tech_summit_logo.webp

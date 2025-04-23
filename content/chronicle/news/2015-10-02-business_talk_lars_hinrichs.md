@@ -1,4 +1,5 @@
 ---
+slug: business_talk_lars_hinrichs
 date: 2015-10-02 13:53:32
 locale: en
 lead_image: /img/chronicle/news/Businesstalk_Lars_Hinrichs.webp

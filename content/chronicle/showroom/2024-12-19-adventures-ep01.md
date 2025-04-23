@@ -1,4 +1,5 @@
 ---
+slug: adventures-ep01
 date: 2024-12-19
 headline1: freiheit.com adventures | EP01
 headline2:

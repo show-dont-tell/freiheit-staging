@@ -1,4 +1,5 @@
 ---
+slug: fdc-explained-principal-se
 date: 2025-03-25
 image: /img/chronicle/showroom/250325-fdc-explained-PSE.webp
 imageAltText: Our Principal Software Engineers are responsible for all projects and engineering teams

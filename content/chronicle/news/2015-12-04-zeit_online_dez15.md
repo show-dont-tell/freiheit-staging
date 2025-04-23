@@ -1,4 +1,5 @@
 ---
+slug: zeit_online_dez15
 date: 2015-12-04 19:23:30
 locale: en
 lead_image: /img/chronicle/news/Claudia_im_buero.webp

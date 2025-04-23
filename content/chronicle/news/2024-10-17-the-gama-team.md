@@ -1,4 +1,5 @@
 ---
+slug: the-gama-team
 date: 2024-10-17
 image: /img/chronicle/news/2024-10-17-the-gama-team-thumbnail.webp
 imageText: The Gama Team shapes freiheit.com’s future in Lisbon

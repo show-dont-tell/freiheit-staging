@@ -1,4 +1,5 @@
 ---
+slug: mein-nachfolger-ist-eine-ki
 date: 2024-07-02
 headline1: Mein Nachfolger ist eine KI!
 headline2: Erfolgreiche Unternehmer verfügen über implizites Wissen, das nur schwer zu übertragen ist.

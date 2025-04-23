@@ -1,4 +1,5 @@
 ---
+slug: freiheit-com-turns-25
 date: 2024-02-24
 image: /img/chronicle/news/2024-02-24-freiheit-turns-25-thumbnail.webp
 ImageAltText: Claudia and Stefan

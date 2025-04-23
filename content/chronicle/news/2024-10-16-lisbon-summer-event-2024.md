@@ -1,4 +1,5 @@
 ---
+slug: lisbon-summer-event-2024
 date: 2024-10-16
 headline1: Lisbon Summer Event 2024
 headline2: We just wrapped up summer at our engineering hub in Lisbon!

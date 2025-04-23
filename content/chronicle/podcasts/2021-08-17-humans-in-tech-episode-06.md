@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-06
 group: "Humans in Tech"
 title: "Episode six"
 headline1: "Sascha Meyer, CPO @ MOIA"

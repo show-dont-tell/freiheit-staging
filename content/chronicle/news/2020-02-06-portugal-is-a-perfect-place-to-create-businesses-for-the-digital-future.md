@@ -1,4 +1,5 @@
 ---
+slug: portugal-is-a-perfect-place-to-create-businesses-for-the-digital-future
 date: 2020-02-06 17:03:05
 headline1: Portugal is a perfect place to create businesses for the digital future
 headline2: Claudia Dietze gave an interview to PC Guia in the section "IT-Girl"

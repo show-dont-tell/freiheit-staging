@@ -1,4 +1,5 @@
 ---
+slug: hackers-wanted
 locale: en
 date: 2019-11-19 17:13:14
 headline1: HACKERS WANTED!

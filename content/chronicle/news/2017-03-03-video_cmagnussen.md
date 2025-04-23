@@ -1,4 +1,5 @@
 ---
+slug: video_cmagnussen
 locale: en
 date: 2017-03-03 17:19:20
 headline1:

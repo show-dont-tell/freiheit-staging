@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-08
 group: "Humans in Tech"
 title: "Episode eight"
 headline1: "Christoph Magnussen, CEO @ Blackboat - Part 2"

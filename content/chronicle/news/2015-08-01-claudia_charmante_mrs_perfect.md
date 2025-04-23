@@ -1,4 +1,5 @@
 ---
+slug: claudia_charmante_mrs_perfect
 date: 2015-08-01 13:56:09
 locale: en
 image: /img/chronicle/news/claudia_abendblatt.webp

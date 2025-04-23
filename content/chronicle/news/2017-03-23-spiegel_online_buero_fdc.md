@@ -1,4 +1,5 @@
 ---
+slug: spiegel_online_buero_fdc
 locale: en
 date: 2017-03-23 14:57:28
 teaser:

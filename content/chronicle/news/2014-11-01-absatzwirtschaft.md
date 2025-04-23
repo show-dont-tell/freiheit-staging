@@ -1,4 +1,5 @@
 ---
+slug: absatzwirtschaft
 date: 2014-11-01 19:05:43
 locale: en
 image: /img/chronicle/news/absatzw_logo.webp

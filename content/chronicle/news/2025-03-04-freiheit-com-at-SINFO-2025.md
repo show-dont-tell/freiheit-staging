@@ -1,4 +1,5 @@
 ---
+slug: freiheit-com-at-SINFO-2025
 date: 2025-03-04
 image: /img/chronicle/news/250304-Chronicle-news-header-SINFO-2025.webp
 imageAltText: freiheit.com members at our booth at the technology conference SINFO

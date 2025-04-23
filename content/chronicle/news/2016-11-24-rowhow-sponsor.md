@@ -1,4 +1,5 @@
 ---
+slug: rowhow-sponsor
 locale: en
 date: 2016-11-24 16:45:48
 teaser:

@@ -1,4 +1,5 @@
 ---
+slug: bis-zu-50-Prozent-aller-IT-Projekte
 date: 2023-09-05 17:03:05
 headline1: Bis zu 50 Prozent aller IT-Projekte weltweit überschreiten Budgets und Deadlines
 headline2: freiheit.com liefert seit 25 Jahren on budget, on time, on target

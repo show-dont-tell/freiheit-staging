@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-03
 group: "Humans in Tech"
 title: "Episode three"
 headline1: "Vahid Gharavi, Director of Engineering @ METRO.digital Organization"

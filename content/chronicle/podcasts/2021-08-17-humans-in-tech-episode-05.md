@@ -1,4 +1,5 @@
 ---
+slug: humans-in-tech-episode-05
 group: "Humans in Tech"
 title: "Episode five"
 headline1: "Frerk Lätari, Head of Online Technology Engineering & Integration @ Tchibo.de"

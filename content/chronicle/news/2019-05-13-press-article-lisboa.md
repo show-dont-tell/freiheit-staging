@@ -1,4 +1,5 @@
 ---
+slug: press-article-lisboa
 locale: en
 date: 2019-05-13 16:39:36
 headline1: Renowned German software company in love with Lisbon

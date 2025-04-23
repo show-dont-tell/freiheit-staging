@@ -1,4 +1,5 @@
 ---
+slug: google-x-freiheit-public-sector-transportation-day
 date: 2024-07-09
 image: /img/chronicle/news/2024-07-09-google-x-freiheit-public-sector-transportation-day.webp
 imageText: freiheit.com talked about how to deliver large-scale software projects at Google’s Public Sector Transportation Day

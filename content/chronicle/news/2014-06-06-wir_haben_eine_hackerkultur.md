@@ -1,4 +1,5 @@
 ---
+slug: wir_haben_eine_hackerkultur
 date: 2014-06-06 13:58:38
 locale: en
 image: /img/chronicle/news/db_foto.webp

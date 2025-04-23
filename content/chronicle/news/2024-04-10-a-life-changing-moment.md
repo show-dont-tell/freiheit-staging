@@ -1,4 +1,5 @@
 ---
+slug: a-life-changing-moment
 date: 2024-04-10 00:00:05
 headline1: A life-changing moment
 headline2:

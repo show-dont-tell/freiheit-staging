@@ -1,4 +1,5 @@
 ---
+slug: why-agile-is-not-enough-01
 group: "Why Agile Is Not Enough"
 title: "How to make your systems highly available and fast"
 headline1: "How to make your systems highly available and fast"

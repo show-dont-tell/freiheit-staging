@@ -1,4 +1,5 @@
 ---
+slug: the-freiheit-com-kudos-system
 date: 2024-10-02
 headline1: The Kudos System
 headline2:
