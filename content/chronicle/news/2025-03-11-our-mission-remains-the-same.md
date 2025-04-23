@@ -6,6 +6,7 @@ hideImageOnArticle: true
 headline1: Our mission remains the same
 headline2:
 teaser:
+slug: our-mission-remains-the-same
 ---
 
 It all started in a kitchen in 1999 in Hamburg with our two founders Claudia Dietze and Stefan Richter – now we are 250+ people in Hamburg and Lisbon. And we still share the same vision and spirit – the can-do, won’t stop attitude.

@@ -206,7 +206,7 @@ freiheit.com works methodless but they have three principles that make them succ
 </br>
 
 **Working in small and efficient teams**
-Freiheit.com works in small, but efficient engineering teams. One team for each track meaning the different parts of the webshop – like one team for webshop search, cart and check out, front end and back end.
+freiheit.com works in small, but efficient engineering teams. One team for each track meaning the different parts of the webshop – like one team for webshop search, cart and check out, front end and back end.
 
 Working in small teams reduces complexity on all ends. Each engineer is responsible for their work, from start to finish. Every member is deeply involved in the creation of the product from the first idea to the final rollout.
 </br>

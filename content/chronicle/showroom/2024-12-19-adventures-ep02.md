@@ -8,7 +8,7 @@ ImageAltText: freiheit.com adventures | EP02
 hideImageOnArticle: true
 ---
 
-“The feeling of confidence that I will figure things out and it might be hard but I will be able to push through it, is really something that enables me every day.”
+*“The feeling of confidence that I will figure things out and it might be hard but I will be able to push through it, is really something that enables me every day.”*
 
 Three years ago Sebastian started his journey at freiheit.com because after he finished studying physics he wanted to become a software engineer. After only ten months he took over a Team Lead role.
 

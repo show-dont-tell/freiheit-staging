@@ -187,8 +187,6 @@ All of these features, but also the benefit of having the possibility to use a s
 
 7 months later
 
-<br />
-
 The Closed Alpha, which was already released after 7 months, is an extension of the results gained from the Proof of Concept. The early market version not only had the capability to visualize 3D data like the Proof of Concept (PoC) version, but it was also integrated into a platform offering various other features. The most important addition was the extension to store and share patient data directly in the cloud, allowing access to the data from anywhere. It was now also possible to automatically synchronize on-premise XRay scans from the dental practice into DS Core.
 
 {{< full-width >}}

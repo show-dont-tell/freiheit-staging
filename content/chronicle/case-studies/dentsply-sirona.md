@@ -1,5 +1,5 @@
 ---
-date: 2024-04-08
+date: 2025-04-09
 headline1: Revolutionizing the dental industry
 headline2: Dentsply Sirona and freiheit.com move 100.000 dentists into the cloud
 teaser:
@@ -12,7 +12,7 @@ download: /downloads/Case_Study_Dentsply_Sirona_freiheit-com.pdf
 ---
 {{< youtube id="vyCRTlugecM" img="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-title-image.webp" >}}
 
-### Dentsply Sirona had a vision. 
+### Dentsply Sirona had a vision.
 
 To make the workflow of dental practices around the world efficient, fast and seamless. To give dentists time to focus on what's really important, the well-being of the patients.
 
@@ -186,8 +186,6 @@ All of these features, but also the benefit of having the possibility to use a s
 ### Release of the first Early-Market version of DS Core
 
 7 months later
-
-<br />
 
 The Closed Alpha, which was already released after 7 months, is an extension of the results gained from the Proof of Concept. The early market version not only had the capability to visualize 3D data like the Proof of Concept (PoC) version, but it was also integrated into a platform offering various other features. The most important addition was the extension to store and share patient data directly in the cloud, allowing access to the data from anywhere. It was now also possible to automatically synchronize on-premise XRay scans from the dental practice into DS Core.
 
