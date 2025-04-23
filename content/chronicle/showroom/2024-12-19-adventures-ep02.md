@@ -1,10 +1,10 @@
 ---
 date: 2025-04-10
-headline1: freiheit.com adventures | EP02
+headline1: freiheit.com adventures | EP02
 headline2:
 teaser:
 image: /img/chronicle/showroom/2025-04-10-adventures-ep02.webp
-ImageAltText: freiheit.com adventures | EP02
+ImageAltText: freiheit.com adventures | EP02
 hideImageOnArticle: true
 ---
 

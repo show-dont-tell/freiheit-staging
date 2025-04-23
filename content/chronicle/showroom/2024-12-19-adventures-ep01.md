@@ -1,10 +1,10 @@
 ---
 date: 2024-12-19
-headline1: freiheit.com adventures | EP01
+headline1: freiheit.com adventures | EP01
 headline2:
 teaser:
 image: /img/chronicle/showroom/2024-12-19-adventures-ep01.webp
-ImageAltText: freiheit.com adventures | EP01
+ImageAltText: freiheit.com adventures | EP01
 hideImageOnArticle: true
 ---
 

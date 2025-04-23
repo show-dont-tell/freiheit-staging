@@ -58,13 +58,11 @@ To bring the vision of DS Core to life, Dentsply Sirona and freiheit.com defined
 - The cloud rendering engine performs the resource intensive computations in the cloud by leveraging Google Cloud's support for high end graphic cards.
 - The result is streamed via WebRTC to the browser of the user and allows for real time interaction
 
-{{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-solving-the-puzzle.svg" >}}
+{{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-graphs-01.webp" alt="" >}}
 
 ### Meeting the key players
 
 Before going into depth about the roll-out of the collaboration between Dentsply Sirona and freiheit.com, it is of essence to take a look at the two companies that came together to build something revolutionary.
-
-<br />
 
 #### About Dentsply Sirona
 
@@ -78,9 +76,9 @@ Dentists are one of the few medical professionals that diagnose their patients a
 
 However, before DS Core was brought to life, the collaboration between dentists and laboratories was time consuming and complicated, meaning that each dental practice had its own hardware and software that wasn't connected to each other. To place an order for a dental product, the dentist had to communicate with the laboratories using his own software as there was no platform to combine it all.
 
-{{< full-width >}}
-    {{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-freiheit-orange.webp" alt="" width="100%" >}}
-{{< /full-width >}}
+{{< image src="/img/chronicle/case-studies/2025-04-11-case-study-dentsply-sirona.webp" alt="" >}}
+
+<br />
 
 #### About freiheit.com
 
@@ -93,8 +91,6 @@ Failure is not an option. freiheit.com is known for their high reputation on the
 For over a quarter of a century, they have been working for the “Who's Who” of German and European industrial and commercial companies – across all sectors: healthcare, trade, automotive, e-commerce, and more.
 
 ### Accomplishing milestones
-
-<br />
 
 #### One PoC, 3 engineers, 3 weeks, 3D rendering in GCP, seamless switch load/cloud
 
@@ -135,7 +131,9 @@ From PoC to first clinical application:
 
 ### Overview proof of concept
 
-{{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-overview-proof-of-concept.svg" >}}
+<br />
+
+{{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-graphs-02.webp" alt="" >}}
 
 <br />
 
@@ -167,7 +165,7 @@ Team Setup DS Core - Dentsply Sirona x freiheit.com
 
 <br />
 
-{{< svg src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-collaboration-in-mixed-teams.svg" >}}
+{{< image src="/img/chronicle/case-studies/2024-04-08-case-study-dentsply-sirona-graphs-03.webp" alt="" >}}
 
 {{< border-box >}}
 
@@ -209,11 +207,11 @@ As the next step within the process, Dentsply Sirona presented DS Core at the De
 
 6 months later
 
-<br />
-
-#### 1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space
+1,788 exhibitors from 60 countries - 120.000 trade visitors from 162 countries - 180.000 m2 gross exhibition space.
 
 Dentsply Sirona and freiheit.com officially brought the first clinical application to the market and presented it at the IDS in Cologne. This trade fair is of high relevance as it is where both the latest products within the industry are presented and networking with dentists and partners from all over the world takes place.
+
+<br />
 
 {{< image-box image="feature-box-image.webp" >}}
 
