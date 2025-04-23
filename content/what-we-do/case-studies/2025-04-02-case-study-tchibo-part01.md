@@ -9,7 +9,7 @@ imageAltText: freiheit.com engineering teams build Tchibo's webshop from scratch
 vimeo: null
 youtube: null
 hideHeaderTitle: true
-download: /downloads/250404-case-study-tchibo.pdf
+download: /downloads/25-04-14-Case-Study-Tchibo.pdf
 ---
 
 ### How Tchibo's "Themenwelten" became scalable
@@ -38,7 +38,7 @@ In 2008 Tchibo decided to look for a dependable partner to tackle that challenge
 
 A member of Tchibo’s management board had already worked with freiheit.com on time, on budget, on target and on quality in another project. When Tchibo organized a call for tenders (a “beauty contest”) to find the right partner to build their new webshop from scratch he invited freiheit.com to take part in it. They competed against five other tech companies. But with presenting a new unique approach, freiheit.com convinced Tchibo that they are able to build the backbone of Tchibo’s digital business.
 
-This is where a strong partnership started, that should last for over two decades and is still ongoing. freiheit.com played a huge part in making Tchibo’s webshop successful by building a new webshop from scratch and continuously extending it for almost two decades This ensured a unique shopping experience for their customers even with upcoming demands.
+This is where a strong partnership started, that should last for over two decades and is still ongoing. freiheit.com played a huge part in making Tchibo’s webshop successful by building a new webshop from scratch and continuously extending it for almost two decades. This ensured a unique shopping experience for their customers even with upcoming demands.
 
 The new webshop featured a tailor-made content management system and seamless scalability, ensuring smooth operations even on the busiest days – especially during peak holiday seasons.
 freiheit.com also added a lot of new features, rolled out to new countries and the traffic quadrupled over time. And still it is a solid system that Tchibo can trust. Building and maintaining such a system over almost two decades at scale means building a system that can stand the test of time.
@@ -143,7 +143,7 @@ From this point on content pre-production, scheduling and automated web page Go-
 
 There is one specific objective that needed to be resolved – a mandatory feature to ensure a convenient shopping experience for Tchibo’s customers: Displaying different dimensions of one product like size and color options.
 
-At that time the product data came from different data sources. One of Tchibo’s data sources was their goods management system built in the 1970s. It was not made for processing webshop data. That’s why its product instances only processed one dimension for each product – the size. A technical challenge we solved. freiheit.com created the missing dimensions in the system making it possible to display all information at one glance on the product detail page (PDP).
+At that time the product data came from different data sources. One of Tchibo’s data sources was their goods management system built in the 1970s. It was not made for processing webshop data. That’s why its product instances only processed one dimension for each product – the size. A technical challenge freiheit.com solved. The engineering teams created the missing dimensions in the system making it possible to display all information at one glance on the product detail page (PDP).
 
 freiheit.com also built the PDP to be able to process the data source for seals as for quality, sustainability or allergens to make this data visible and understandable to the customers.
 
@@ -206,13 +206,13 @@ freiheit.com works methodless but they have three principles that make them succ
 </br>
 
 **Working in small and efficient teams**
-The freiheit.com works in small, but efficient engineering teams. One team for each track meaning the different parts of the webshop – like one team for webshop search, cart and check out, front end and back end.
+Freiheit.com works in small, but efficient engineering teams. One team for each track meaning the different parts of the webshop – like one team for webshop search, cart and check out, front end and back end.
 
 Working in small teams reduces complexity on all ends. Each engineer is responsible for their work, from start to finish. Every member is deeply involved in the creation of the product from the first idea to the final rollout.
 </br>
 
 **Using backward planning**
-All of freiheit.com’s teams use a project management tool built by the engineering company for the backward forward planning of each project. They always start with an ambitious but feasible deadline – the final delivery date. From there on they find out how to fit the project scope into the timeline and then plan backward chronologically from the end of the project with epics and stories to the starting point. An epic defines a feature or increment that can be broken down into stories. The stories are designed as consecutive, dependent steps to reach the epic’s goal. This gave every team a clear understanding of what to do in which time schedule.
+All of freiheit.com’s teams use a project management tool built by the engineering company for the backward planning of each project. They always start with an ambitious but feasible deadline – the final delivery date. From there on they find out how to fit the project scope into the timeline and then plan backward chronologically from the end of the project with epics and stories to the starting point. An epic defines a feature or increment that can be broken down into stories. The stories are designed as consecutive, dependent steps to reach the epic’s goal. This gives every team a clear understanding of what to do in which time schedule.
 </br>
 
 **Working data driven**
@@ -221,6 +221,7 @@ freiheit.com uses data and metrics to systematically lead software projects to s
 All of freiheit.com’s teams use the project management tool to track their performance and guarantee full transparency internally but also to their clients.
 
 To track the status of the project and the individual team, freiheit.com uses over 40 different metrics. The focus amongst these is on key metrics like:
+
 * **Planning Reliability:** This metric describes the percentage of stories that were planned into an iteration at the moment the iteration was started and that were completely finished before the iteration was closed. After 50% of the project, roughly 50% of the work should be done.
 * **Estimate Deviation:** This metric describes how close the effort estimates were compared to the actual effort needed.
 * **Development Ratio:** This metric describes how much of the time invested was spent purely on development versus how much time was spent on non-development work. This rate should be at least 60% at all times.
@@ -236,7 +237,3 @@ At the end of 2024 Tchibo and freiheit.com look back on a partnership that has l
 Tchibo’s new webshop is customized to their specific requirements coming with their special business concept of a rolling assortment for “Jede Woche eine neue Welt”. This new system enabled Tchibo to efficiently and productively manage and maintain webshop content, especially their “Themenwelten”. Every feature runs smoothly all the time, ensuring seamless webshop sales and a great customer experience.
 
 In 2020 Tchibo’s webshop traffic had grown more and more over time, which resulted in an  IT infrastructure  that got progressively more strained. Especially during peak seasons like Christmas the servers would still struggle to cope with the increased demand. To tackle the higher webshop traffic, they had to book more servers manually – months in advance. This was expensive and came with high effort. And they only could react to an increased demand, if they had predicted it in the long-term. Spontaneous higher webshop traffic couldn’t be tackled, which in the worst case would lead to the webshop going down. This is why freiheit.com and Tchibo decided to move the  webshop to the cloud and split its monolithic architecture into a microservice architecture in 2020.
-
-
-
-

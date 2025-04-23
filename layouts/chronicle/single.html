@@ -15,13 +15,6 @@
         <article>
             <div class="flex justify-between">
                 <a id="backLink" class="self-start font-serif no-underline hover:text-red block md:mb-6 mt-6 md:mt-0 text-lg" href="" rel="noopener">&larr;&nbsp;back</a>
-                {{ if .Params.download }}
-                    <a
-                        href="{{ .Params.download }}"
-                        target="_blank"
-                        class="font-serif no-underline hover:text-red block text-lg"
-                    >Download PDF</a>
-                {{ end }}
             </div>
             {{ if or (.Params.headline1) (.Params.headline) (.Params.teaser) }}
                 {{ if .Params.headline1 }}<h1 class="h2">{{ .Params.headline1 }}</h1>{{ end }}
@@ -39,7 +32,7 @@
             <p>{{ .Content }}</p>
 
             {{ if .Params.download }}
-            <div class="grid place-items-center mt-10 lg:mt-16">
+            <div class="mt-10 lg:mt-16">
                 <a
                   href="{{ .Params.download }}"
                   target="_blank"
