@@ -1,8 +1,0 @@
-{{ $class := "" }}
-{{ .Content |
-  replaceRE "<p" (printf "<p class=\"%s\"" $class) |
-replaceRE "<h2" (printf "<h2 class=\"%s\"" $class) |
-replaceRE "<h3" (printf "<h3 class=\"%s\"" $class) |
-replaceRE "<h4" (printf "<h4 class=\"%s\"" $class) |
-safeHTML
-}}

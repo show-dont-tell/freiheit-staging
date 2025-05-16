@@ -1,7 +1,0 @@
-baseURL: http://localhost
-title: freiheit.com
-languageCode: en-us
-defaultContentLanguage: en
-relativeURLs: false
-pagination.pagerSize: 10
-enableRobotsTXT: true

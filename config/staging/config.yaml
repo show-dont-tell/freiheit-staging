@@ -1,4 +1,0 @@
-baseURL: "https://staging.freiheit.com"
-publishDir: "docs"
-buildDrafts: false
-minify: false

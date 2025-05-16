@@ -1,4 +1,0 @@
-{{ $text := .Get "text" | safeHTML }}
-{{ $link := .Get "link" | safeURL }}
-
-<p><a class="body-text no-underline hover:text-red" href="{{ $link }}"{{ with $text}} title="{{ $text }}"{{ end }}{{ if or (strings.HasPrefix $link "mailto:") (strings.HasPrefix $link "/downloads/") (strings.HasPrefix $link "http") }} target="_blank" rel="noopener"{{ end }}>{{ $text }}&nbsp;→</a></p>

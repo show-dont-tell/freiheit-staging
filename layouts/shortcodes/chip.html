@@ -1,6 +1,0 @@
-{{ $text := .Get "text" | safeHTML }}
-{{ $backgroundClass := .Get "backgroundClass" | default "bg-white" }}
-{{ $textClass := .Get "textClass" | default "black" }}
-<div class="inline-flex px-6 pt-2 pb-1 rounded-full font-sans h4 {{ $backgroundClass }} {{ $textClass }}">
-    {{ $text }}
-</div>

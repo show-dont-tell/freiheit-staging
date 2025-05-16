@@ -1,4 +1,0 @@
-baseURL: "https://freiheit.com"
-publishDir: "docs"
-buildDrafts: false
-minify: true
